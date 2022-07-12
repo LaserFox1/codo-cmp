@@ -1,0 +1,35 @@
+openapi: 3.0.3
+info:
+  title: Example API
+  description: >-
+    Presents an example on how to use openapi.yml to generate API server stubs.
+  version: 1.0.0
+servers:
+  - url: /bitlog-btlg-cmp/api
+paths:
+  /hello:
+    get:
+      tags:
+        - HelloWorld
+      description: >-
+        Get a Hello User message.
+      operationId: getHello
+      security:
+        - WurmAuth: []
+      responses:
+        200:
+          description: Hello Message
+          content:
+            text/plain:
+              schema:
+                type: string
+                example: Hello Max Maier
+        401:
+          description: Unauthorized
+
+components:
+  securitySchemes:
+    WurmAuth:
+      type: apiKey
+      in: header
+      name: X-Benutzer-Id

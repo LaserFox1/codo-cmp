@@ -1,0 +1,34 @@
+spring.application.name: bitlog-btlg-cmp
+
+server:
+  servlet.context-path: /bitlog-btlg-cmp
+  max-http-header-size: 16KB
+  tomcat.mbeanregistry.enabled: true
+
+management:
+  server:
+    port: 8081
+  endpoints.web:
+    base-path: /
+    exposure.include: health,info,prometheus,metrics,mappings
+  endpoint.health:
+    show-components: always
+    show-details: always
+    probes.enabled: true
+    group:
+      readiness.include: readinessState,db,
+      liveness.include: livenessState,
+  metrics:
+    export.jmx.enabled: false
+    enable:
+      all: true
+
+spring.jmx.enabled: true
+
+springdoc:
+  api-docs.enabled: false
+  swagger-ui.url: /openapi/openapi.yaml
+
+spring.security.user:
+  name:
+  password:

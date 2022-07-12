@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="lkww-remote-repos" />
+      <option name="name" value="remote repos" />
+      <option name="url" value="https://artifactory.prod.lkw-walter.com/artifactory/remote-repos" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="lkww-common-releases" />
+      <option name="name" value="LKWW Common Releases" />
+      <option name="url" value="https://artifactory.prod.lkw-walter.com/artifactory/common-lkww" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="lkww-artifactory-releases" />
+      <option name="name" value="Artifactory Anecon Releases" />
+      <option name="url" value="https://artifactory.prod.lkw-walter.com/artifactory/common-lkww-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="common-lkww" />
+      <option name="name" value="common lkww" />
+      <option name="url" value="https://artifactory.prod.lkw-walter.com/artifactory/common-lkww" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="apache-snapshots" />
+      <option name="name" value="Apache SNAPSHOT Repository" />
+      <option name="url" value="https://repository.apache.org/snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+  </component>
+</project>
