@@ -8,10 +8,10 @@ import java.util.Scanner;
 import java.util.StringTokenizer;
 
 public class InputHandler {
-    public static ArrayList<String> read(String input) {
+    public static ArrayList<String> read(File f) {
         ArrayList<String> arr = new ArrayList<String>();
         try {
-            Scanner s1 = new Scanner(new File(input));
+            Scanner s1 = new Scanner(f);
             while (s1.hasNext()) {
                 arr.add((s1.nextLine()));
             }

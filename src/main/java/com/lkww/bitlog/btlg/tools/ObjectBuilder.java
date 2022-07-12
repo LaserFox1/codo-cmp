@@ -4,6 +4,7 @@ package com.lkww.bitlog.btlg.tools;
 import com.lkww.bitlog.btlg.domain.Feature;
 import com.lkww.bitlog.btlg.domain.Scenario;
 
+import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -20,9 +21,9 @@ public class ObjectBuilder {
         );
     }
 
-    public static Feature buildFeature(String s) {
+    public static Feature buildFeature(File f) {
 
-        List<String> arr = InputHandler.read("src/test/resources/features/" + s);
+        List<String> arr = InputHandler.read(f);
 
         String featureName = "";
         StringBuilder description = new StringBuilder();

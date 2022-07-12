@@ -1,4 +1,4 @@
-package com.lkww.bitlog.btlg.service;
+package com.lkww.bitlog.btlg.tools;
 
 import com.lkww.bitlog.btlg.service.Exception.PluginException;
 import org.apache.http.client.methods.CloseableHttpResponse;
@@ -14,10 +14,10 @@ import java.net.URI;
 import java.net.URISyntaxException;
 
 public class HTTPPost {
-    public static void post(JSONObject obj, String uri){
+    public static void post(JSONObject obj, String url){
         try (CloseableHttpClient httpclient = HttpClients.createDefault()) {
             HttpUriRequest httppost = RequestBuilder.post()
-                    .setUri(new URI(uri))
+                    .setUri(new URI(url))
                     .addParameter("content", obj.toJSONString())
                     .build();
 
