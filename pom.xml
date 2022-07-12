@@ -14,7 +14,7 @@
     <version>0.0.0-SNAPSHOT</version>
 
     <properties>
-        <java.version>18</java.version>
+        <java.version>11</java.version>
         <maven.version>3.8.3</maven.version>
 
         <maven.compiler.source>${java.version}</maven.compiler.source>
@@ -80,6 +80,19 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-tomcat</artifactId>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.tomcat.embed</groupId>
+            <artifactId>tomcat-embed-jasper</artifactId>
+            <scope>provided</scope>
+        </dependency>
+
+
         <dependency>
             <groupId>com.epam.reportportal</groupId>
             <artifactId>agent-java-junit5</artifactId>
@@ -232,6 +245,12 @@
             <artifactId>wagon-http-lightweight</artifactId>
             <version>${wagon-http-lightweight.version}</version>
         </dependency>
+
+        <dependency>
+        <groupId>biz.paluch.redis</groupId>
+        <artifactId>lettuce</artifactId>
+        <version>3.2.Final</version>
+    </dependency>
     </dependencies>
 
     <build>
@@ -251,6 +270,7 @@
                                 <encoding.reporting>UTF-8</encoding.reporting>
                                 <java.source>${maven.compiler.source}</java.source>
                                 <java.target>${maven.compiler.target}</java.target>
+                                <java.release>${maven.compiler.release}</java.release>
                             </additionalProperties>
                         </configuration>
                     </execution>
@@ -308,7 +328,7 @@
             </activation>
             <build>
                 <plugins>
-                   <!-- <plugin>
+                    <plugin>
                         <groupId>org.jacoco</groupId>
                         <artifactId>jacoco-maven-plugin</artifactId>
                         <version>${jacoco-maven-plugin.version}</version>
@@ -326,7 +346,7 @@
                                 </goals>
                             </execution>
                         </executions>
-                    </plugin> -->
+                    </plugin>
                 </plugins>
             </build>
         </profile>

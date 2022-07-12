@@ -1,14 +1,14 @@
-package com.lkww.bitlog.btlg.tools;
+package com.lkww.bitlog.btlg.util;
 
 
-import com.lkww.bitlog.btlg.domain.Feature;
-import com.lkww.bitlog.btlg.domain.Scenario;
+import com.lkww.bitlog.btlg.classes.Feature;
+import com.lkww.bitlog.btlg.classes.Scenario;
 
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 
-import static com.lkww.bitlog.btlg.tools.InputHandler.*;
+import static com.lkww.bitlog.btlg.util.InputHandler.*;
 
 public class ObjectBuilder {
 
@@ -39,16 +39,14 @@ public class ObjectBuilder {
             if (keyword.equals("Given") || keyword.equals("When") || keyword.equals("Then"))
                 continue;
 
-            switch (keyword) {
-                case "Feature:" -> {
-                    featureName = concat(line, "Feature:");
-                    isDescription = true;
-                }
-                case "Scenario:" -> {
-                    scenarios.add(buildScenario(arr.subList(arr.indexOf(line), arr.indexOf(line) + 4)));
-                    isDescription = false;
-                }
+            if (keyword.equals("Feature:")) {
+                featureName = concat(line, "Feature:");
+                isDescription = true;
+            } else if (keyword.equals("Scenario:")) {
+                scenarios.add(buildScenario(arr.subList(arr.indexOf(line), arr.indexOf(line) + 4)));
+                isDescription = false;
             }
+
             if (arr.indexOf(line) > 0 && isDescription) {
                 description.append(concat(line));
             }

@@ -1,4 +1,4 @@
-package com.lkww.bitlog.btlg.tools;
+package com.lkww.bitlog.btlg.util;
 
 import java.io.File;
 import java.io.FileNotFoundException;

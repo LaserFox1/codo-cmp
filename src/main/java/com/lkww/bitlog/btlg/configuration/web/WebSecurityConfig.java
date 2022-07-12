@@ -15,7 +15,7 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
     @Override
     protected void configure(HttpSecurity http) throws Exception {
         // enable basic auth
-        http.httpBasic();
+     /*   http.httpBasic();
 
         // allow openapi/swagger
         http.authorizeRequests()
@@ -35,11 +35,11 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
         // allow /api endpoints
         http.authorizeRequests()
                 .antMatchers("/api/**")
-                .authenticated();
+                .authenticated();*/
 
         // deny everything else
         http.authorizeRequests()
                 .anyRequest()
-                .denyAll();
+                .permitAll();
     }
 }

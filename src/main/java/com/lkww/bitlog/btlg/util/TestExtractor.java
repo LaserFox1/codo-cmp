@@ -1,16 +1,11 @@
-package com.lkww.bitlog.btlg.tools;
+package com.lkww.bitlog.btlg.util;
 
-import com.lkww.bitlog.btlg.tools.ObjectBuilder;
-import org.apache.maven.project.MavenProject;
-import org.apache.maven.shared.model.fileset.FileSet;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
-import com.lkww.bitlog.btlg.domain.Feature;
 
 import java.io.File;
 import java.util.List;
 
-import static com.lkww.bitlog.btlg.tools.FileHandler.getIncludedFiles;
 
 public class TestExtractor {
 

@@ -12,15 +12,12 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 @RestController()
-@RequestMapping()
+@RequestMapping("/api")
 public class CoDoRestController {
-
-    public static  String BASE_URL;
-    public String PATH_ID;
 
     CoDoService service = new CoDoService();
 
-    @GetMapping()
+    @GetMapping("/{ID}")
     public List<ResponseEntity<File>> getFeatureFiles(@PathVariable String ID){
         return service.getAllFeatureFiles(ID)
                 .stream()
@@ -28,8 +25,8 @@ public class CoDoRestController {
                 .collect(Collectors.toList());
     }
 
-    @PostMapping()
-    public ResponseEntity<String> postJSONObj(String obj){
-        return ResponseEntity.ok(service.sendJSONObj(obj));
+    @PostMapping("/{ID}")
+    public ResponseEntity<String> postJSONObj(@PathVariable String ID){
+        return ResponseEntity.ok(service.sendJSONObj(ID));
     }
 }
