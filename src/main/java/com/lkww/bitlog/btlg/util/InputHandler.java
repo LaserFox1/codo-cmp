@@ -1,25 +1,16 @@
 package com.lkww.bitlog.btlg.util;
 
+import org.json.simple.JSONObject;
+
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
 public class InputHandler {
-    public static ArrayList<String> read(File f) {
-        ArrayList<String> arr = new ArrayList<String>();
-        try {
-            Scanner s1 = new Scanner(f);
-            while (s1.hasNext()) {
-                arr.add((s1.nextLine()));
-            }
-        } catch (FileNotFoundException e) {
-            System.out.println(e.getMessage());
-        }
-        return arr;
-    }
     public static List<String> tokenize(String s) {
         StringTokenizer stringTokenizer = new StringTokenizer(s);
         List<String> arr = new ArrayList<>();

@@ -2,9 +2,10 @@ package com.lkww.bitlog.btlg.util;
 
 
 import com.lkww.bitlog.btlg.classes.Feature;
+import com.lkww.bitlog.btlg.classes.Project;
 import com.lkww.bitlog.btlg.classes.Scenario;
 
-import java.io.File;
+import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -12,45 +13,89 @@ import static com.lkww.bitlog.btlg.util.InputHandler.*;
 
 public class ObjectBuilder {
 
-    private static Scenario buildScenario(List<String> arr) {
-        return new Scenario(
-                concat(arr.get(0), "Scenario:"),
-                concat(arr.get(1)),
-                concat(arr.get(2)),
-                concat(arr.get(3))
-        );
-    }
+    public static List<Project> builder(InputStream stream) {
 
-    public static Feature buildFeature(File f) {
+        BufferedReader in = new BufferedReader(new InputStreamReader(stream));
 
-        List<String> arr = InputHandler.read(f);
-
-        String featureName = "";
-        StringBuilder description = new StringBuilder();
         boolean isDescription = false;
+
+
         List<Scenario> scenarios = new ArrayList<>();
+        List<Feature> features = new ArrayList<>();
+        List<Project> projects = new ArrayList<>();
 
-        for (String line : arr) {
-            List<String> tokens = tokenize(line);
-            if (line.isEmpty() || line.isBlank())
-                continue;
+        try {
+            Scenario scenario = null;
+            Feature feature = null;
+            Project project = null;
 
-            String keyword = tokens.get(0);
-            if (keyword.equals("Given") || keyword.equals("When") || keyword.equals("Then"))
-                continue;
+            StringBuilder description = new StringBuilder();
 
-            if (keyword.equals("Feature:")) {
-                featureName = concat(line, "Feature:");
-                isDescription = true;
-            } else if (keyword.equals("Scenario:")) {
-                scenarios.add(buildScenario(arr.subList(arr.indexOf(line), arr.indexOf(line) + 4)));
-                isDescription = false;
+            String line;
+            while ((line = in.readLine()) != null) {
+                if (line.isEmpty() || line.isBlank())
+                    continue;
+
+                List<String> tokens = tokenize(line);
+                String keyword = tokens.get(0);
+
+
+                switch (keyword) {
+                    case "Project:":
+                        project = new Project();
+                        project.setProjectID(concat(line, "Project:"));
+                        break;
+                    case "Feature:":
+                        feature = new Feature();
+                        feature.setFeatureName(concat(line, "Feature:"));
+                        isDescription = true;
+                        break;
+                    case "Scenario:":
+                        isDescription = false;
+                        scenario = new Scenario();
+                        scenario.setScenarioName(concat(line, "Scenario"));
+                        break;
+
+                    case "Given":
+                        assert scenario != null;
+                        scenario.setGiven(concat(line));
+                        break;
+                    case "When":
+                        assert scenario != null;
+                        scenario.setWhen(concat(line));
+                        break;
+                    case "Then":
+                        assert scenario != null;
+                        scenario.setThen(concat(line));
+                        break;
+
+
+                    case "ProjectDone":
+                        assert project != null;
+                        project.setFeatures(features);
+                        projects.add(project);
+                        break;
+                    case "FeatureDone":
+                        assert feature != null;
+                        feature.setScenarios(scenarios);
+                        feature.setDescription(description.toString());
+                        features.add(feature);
+                        break;
+                    case "ScenarioDone":
+                        scenarios.add(scenario);
+                        break;
+
+                }
+
+                if (!keyword.equals("Feature:") && isDescription) {
+                    description.append(concat(line));
+                }
             }
-
-            if (arr.indexOf(line) > 0 && isDescription) {
-                description.append(concat(line));
-            }
+            in.close();
+        } catch (IOException IOE) {
+            System.out.println(IOE.getMessage());
         }
-        return new Feature(featureName, description.toString(), scenarios);
+
+        return projects;
     }
 }

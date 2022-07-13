@@ -1,19 +1,19 @@
 package com.lkww.bitlog.btlg.service;
 
+import com.lkww.bitlog.btlg.classes.Project;
 import com.lkww.bitlog.btlg.util.HTTPSender;
-import com.lkww.bitlog.btlg.util.TestExtractor;
+import com.lkww.bitlog.btlg.util.ObjectBuilder;
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.boot.web.client.RestTemplateBuilder;
-import org.springframework.http.HttpMethod;
+import org.springframework.scheduling.annotation.Async;
+import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Service;
-import org.springframework.web.client.RestTemplate;
 
-import java.io.File;
-import java.util.Arrays;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.List;
-import java.util.Objects;
 
 @Service
 @AllArgsConstructor
@@ -25,18 +25,18 @@ public class CoDoService {
     @Value("${output.base_url}")
     String BASE_URL_OUT;
 
-    public List<File> getAllFeatureFiles(String ID) {
-        System.out.println(HTTPSender.get(BASE_URL_IN + "/" + ID));
-        return Arrays.asList(Objects.requireNonNull(HTTPSender.getFile(BASE_URL_IN + ID).listFiles()));
-    }
-
-    public String getFeatureFile(String ID) {
-        return HTTPSender.get(BASE_URL_IN + "/" + ID);
-    }
-
-    public String sendJSONObj(String ID) {
-        return HTTPSender.post(
-                TestExtractor.extract(getAllFeatureFiles(ID)),
-                BASE_URL_OUT);
+    @Scheduled(fixedRate = 5000)
+    @Async
+    public void RunScript() {
+        Process proc;
+        try {
+            proc = Runtime.getRuntime().exec("python C:\\hello_world.py");
+            for (Project p : ObjectBuilder.builder(proc.getInputStream())) {
+                HTTPSender.post(p.JSONize(), BASE_URL_OUT);
+            }
+            proc.waitFor();
+        } catch (IOException | InterruptedException e) {
+            e.printStackTrace();
+        }
     }
 }

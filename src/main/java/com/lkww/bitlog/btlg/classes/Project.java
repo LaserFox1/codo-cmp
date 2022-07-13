@@ -11,21 +11,19 @@ import java.util.List;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class Feature {
+public class Project {
 
-    String featureName;
-    String description;
-    List<Scenario> scenarios;
+    String projectID;
+    List<Feature> features;
 
     public JSONObject JSONize(){
         JSONObject obj = new JSONObject();
         JSONArray arr = new JSONArray();
-        obj.put("Feature", featureName);
-        obj.put("Description", description);
-        for(Scenario scenario : scenarios){
-            arr.add(scenario.JSONize());
+        obj.put("Project", projectID);
+        for(Feature feature : features){
+            arr.add(feature.JSONize());
         }
-        obj.put("Scenarios", arr);
+        obj.put("Features", arr);
         return obj;
     }
 }

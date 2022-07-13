@@ -18,7 +18,7 @@ import com.lambdaworks.redis.*;
 
 public class HTTPSender {
 
-    public static String post(JSONObject obj, String url){
+    public static String post(JSONObject obj, String url) {
         try (CloseableHttpClient httpclient = HttpClients.createDefault()) {
             String objS = obj.toJSONString();
 
@@ -31,29 +31,10 @@ public class HTTPSender {
                 System.out.println(EntityUtils.toString(response.getEntity()));
                 return objS;
             }
-        }
-        catch (IOException ioE){
+        } catch (IOException ioE) {
             throw PluginException.cannotPostIO(ioE);
-        }
-        catch (URISyntaxException uE){
+        } catch (URISyntaxException uE) {
             throw PluginException.cannotPostURI(uE);
         }
-    }
-    public static String get(String url){
-        try(CloseableHttpClient httpclient = HttpClients.createDefault()){
-            HttpGet httpget = new HttpGet(url);
-
-            try (CloseableHttpResponse response = httpclient.execute(httpget)) {
-                System.out.println(EntityUtils.toString(response.getEntity()));
-                return response.getEntity().getContent().toString();
-            }
-        }
-        catch (IOException ioE){
-            throw PluginException.cannotPostIO(ioE);
-        }
-    }
-
-    public static File getFile(String url){
-        return new File(url);
     }
 }
