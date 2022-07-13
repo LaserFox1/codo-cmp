@@ -1,7 +1,8 @@
 package com.lkww.bitlog.btlg.service;
 
 import com.lkww.bitlog.btlg.classes.Project;
-import com.lkww.bitlog.btlg.util.HTTPSender;
+import com.lkww.bitlog.btlg.exceptions.ServiceException;
+import com.lkww.bitlog.btlg.util.HttpSender;
 import com.lkww.bitlog.btlg.util.ObjectBuilder;
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
@@ -10,10 +11,7 @@ import org.springframework.scheduling.annotation.Async;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Service;
 
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.List;
 
 @Service
 @AllArgsConstructor
@@ -21,22 +19,34 @@ import java.util.List;
 public class CoDoService {
 
     @Value("${input.base_url}")
-    String BASE_URL_IN;
+    private String BASE_URL_IN;
     @Value("${output.base_url}")
-    String BASE_URL_OUT;
+    private String BASE_URL_OUT;
+
+    private String[] cmd = {
+            "python",
+            "src/main/resources/get.py",
+            BASE_URL_IN
+    };
 
     @Scheduled(fixedRate = 5000)
     @Async
     public void RunScript() {
         Process proc;
         try {
-            proc = Runtime.getRuntime().exec("python C:\\hello_world.py");
+            proc = Runtime.getRuntime().exec(cmd);
             for (Project p : ObjectBuilder.builder(proc.getInputStream())) {
-                HTTPSender.post(p.JSONize(), BASE_URL_OUT);
+                HttpSender.post(p.JSONize(), BASE_URL_OUT);
             }
             proc.waitFor();
-        } catch (IOException | InterruptedException e) {
-            e.printStackTrace();
+        } catch (IOException ioE) {
+            throw  ServiceException.execCmdNotFound(ioE);
+        }
+        catch (InterruptedException iE){
+            throw ServiceException.execInterrupted(iE);
+        }
+        catch (Throwable t){
+            throw ServiceException.execUndetermined(t);
         }
     }
 }

@@ -4,6 +4,7 @@ package com.lkww.bitlog.btlg.util;
 import com.lkww.bitlog.btlg.classes.Feature;
 import com.lkww.bitlog.btlg.classes.Project;
 import com.lkww.bitlog.btlg.classes.Scenario;
+import com.lkww.bitlog.btlg.exceptions.ServiceException;
 
 import java.io.*;
 import java.util.ArrayList;
@@ -92,8 +93,11 @@ public class ObjectBuilder {
                 }
             }
             in.close();
-        } catch (IOException IOE) {
-            System.out.println(IOE.getMessage());
+        } catch (IOException ioE) {
+            throw ServiceException.readIO(ioE);
+        }
+        catch (Throwable t){
+            throw ServiceException.readUndetermined(t);
         }
 
         return projects;

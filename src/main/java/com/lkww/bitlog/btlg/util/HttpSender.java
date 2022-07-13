@@ -1,8 +1,8 @@
 package com.lkww.bitlog.btlg.util;
 
-import com.lkww.bitlog.btlg.service.Exception.PluginException;
+import com.lkww.bitlog.btlg.exceptions.HttpException;
+import com.lkww.bitlog.btlg.exceptions.ServiceException;
 import org.apache.http.client.methods.CloseableHttpResponse;
-import org.apache.http.client.methods.HttpGet;
 import org.apache.http.client.methods.HttpUriRequest;
 import org.apache.http.client.methods.RequestBuilder;
 import org.apache.http.impl.client.CloseableHttpClient;
@@ -10,13 +10,11 @@ import org.apache.http.impl.client.HttpClients;
 import org.apache.http.util.EntityUtils;
 import org.json.simple.JSONObject;
 
-import java.io.File;
 import java.io.IOException;
 import java.net.URI;
 import java.net.URISyntaxException;
-import com.lambdaworks.redis.*;
 
-public class HTTPSender {
+public class HttpSender {
 
     public static String post(JSONObject obj, String url) {
         try (CloseableHttpClient httpclient = HttpClients.createDefault()) {
@@ -32,9 +30,9 @@ public class HTTPSender {
                 return objS;
             }
         } catch (IOException ioE) {
-            throw PluginException.cannotPostIO(ioE);
+            throw HttpException.cannotPostIO(ioE);
         } catch (URISyntaxException uE) {
-            throw PluginException.cannotPostURI(uE);
+            throw HttpException.cannotPostURI(uE);
         }
     }
 }
