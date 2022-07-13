@@ -1,8 +1,7 @@
 package com.lkww.bitlog.btlg.service;
 
-import com.lkww.bitlog.btlg.classes.Project;
-import com.lkww.bitlog.btlg.exceptions.ServiceException;
-import com.lkww.bitlog.btlg.util.HttpSender;
+import com.lkww.bitlog.btlg.domain.Project;
+import com.lkww.bitlog.btlg.exceptions.CrawlerException;
 import com.lkww.bitlog.btlg.util.ObjectBuilder;
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
@@ -18,35 +17,37 @@ import java.io.IOException;
 @NoArgsConstructor
 public class CoDoService {
 
-    @Value("${input.base_url}")
-    private String BASE_URL_IN;
-    @Value("${output.base_url}")
-    private String BASE_URL_OUT;
+    @Value("${input.joined}")
+    private String IN;
+    @Value("${output.joined}")
+    private String OUT;
 
-    private String[] cmd = {
-            "python",
-            "src/main/resources/get.py",
-            BASE_URL_IN
-    };
+    ProjectService service = new ProjectService();
+
 
     @Scheduled(fixedRate = 5000)
     @Async
     public void RunScript() {
         Process proc;
         try {
+             String[] cmd = {
+                    "python",
+                     String.valueOf(getClass().getClassLoader().getResource("get.py")),
+                     IN
+            };
             proc = Runtime.getRuntime().exec(cmd);
             for (Project p : ObjectBuilder.builder(proc.getInputStream())) {
-                HttpSender.post(p.JSONize(), BASE_URL_OUT);
+                service.create(p);
             }
             proc.waitFor();
         } catch (IOException ioE) {
-            throw  ServiceException.execCmdNotFound(ioE);
+            throw  CrawlerException.execCmdNotFound(ioE);
         }
         catch (InterruptedException iE){
-            throw ServiceException.execInterrupted(iE);
+            throw CrawlerException.execInterrupted(iE);
         }
         catch (Throwable t){
-            throw ServiceException.execUndetermined(t);
+            throw CrawlerException.execUndetermined(t);
         }
     }
 }

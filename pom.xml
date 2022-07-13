@@ -40,17 +40,12 @@
         <avro-java-codegen-maven-plugin.version>1.10.317</avro-java-codegen-maven-plugin.version>
         <jacoco-maven-plugin.version>0.8.7</jacoco-maven-plugin.version>
 
-        <maven-project.version>2.2.1</maven-project.version>
-        <maven-plugin-api.version>3.8.5</maven-plugin-api.version>
-        <maven-plugin-annotations.version>3.6.4</maven-plugin-annotations.version>
-
         <lombok.version>1.18.24</lombok.version>
         <junit-jupiter.version>5.8.2</junit-jupiter.version>
         <mockito-all.version>2.0.2-beta</mockito-all.version>
         <cucumber.version>7.4.1</cucumber.version>
 
         <httpclient.version>4.5.13</httpclient.version>
-        <file-management.version>3.0.0</file-management.version>
         <json-simple.version>1.1.1</json-simple.version>
 
         <maven-embedder.version>3.8.5</maven-embedder.version>
@@ -58,6 +53,9 @@
         <wagon-http-lightweight.version>3.5.1</wagon-http-lightweight.version>
 
         <spring-boot-maven-plugin.version>2.4.1</spring-boot-maven-plugin.version>
+
+        <spring-data-redis.version>2.7.0</spring-data-redis.version>
+
         <argLine>-Xmx1G</argLine>
     </properties>
 
@@ -80,18 +78,6 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
-
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-tomcat</artifactId>
-            <scope>provided</scope>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.tomcat.embed</groupId>
-            <artifactId>tomcat-embed-jasper</artifactId>
-            <scope>provided</scope>
-        </dependency>
-
 
         <dependency>
             <groupId>com.epam.reportportal</groupId>
@@ -168,6 +154,7 @@
             <scope>test</scope>
         </dependency>
 
+
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
@@ -200,30 +187,6 @@
             <version>${httpclient.version}</version>
         </dependency>
         <dependency>
-            <groupId>org.apache.maven</groupId>
-            <artifactId>maven-plugin-api</artifactId>
-            <version>${maven-plugin-api.version}</version>
-            <scope>provided</scope>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.maven.plugin-tools</groupId>
-            <artifactId>maven-plugin-annotations</artifactId>
-            <version>${maven-plugin-annotations.version}</version>
-            <scope>provided</scope>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.maven</groupId>
-            <artifactId>maven-project</artifactId>
-            <version>${maven-project.version}</version>
-            <scope>provided</scope>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.maven.shared</groupId>
-            <artifactId>file-management</artifactId>
-            <version>${file-management.version}</version>
-            <scope>compile</scope>
-        </dependency>
-        <dependency>
             <groupId>com.googlecode.json-simple</groupId>
             <artifactId>json-simple</artifactId>
             <version>${json-simple.version}</version>
@@ -245,12 +208,32 @@
             <artifactId>wagon-http-lightweight</artifactId>
             <version>${wagon-http-lightweight.version}</version>
         </dependency>
+        <dependency>
+            <groupId>biz.paluch.redis</groupId>
+            <artifactId>lettuce</artifactId>
+            <version>3.2.Final</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.data</groupId>
+            <artifactId>spring-data-redis</artifactId>
+            <version>${spring-data-redis.version}</version>
+        </dependency>
 
         <dependency>
-        <groupId>biz.paluch.redis</groupId>
-        <artifactId>lettuce</artifactId>
-        <version>3.2.Final</version>
-    </dependency>
+            <groupId>redis.clients</groupId>
+            <artifactId>jedis</artifactId>
+            <version>${jedis.version}</version>
+            <type>jar</type>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-redis</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>javax</groupId>
+            <artifactId>javaee-api</artifactId>
+            <version>8.0.1</version>
+        </dependency>
     </dependencies>
 
     <build>
@@ -277,44 +260,13 @@
                 </executions>
             </plugin>
             <plugin>
-                <groupId>org.openapitools</groupId>
-                <artifactId>openapi-generator-maven-plugin</artifactId>
-                <version>${openapi-generator-maven-plugin.version}</version>
-                <executions>
-                    <execution>
-                        <id>generate-api</id>
-                        <phase>generate-sources</phase>
-                        <goals>
-                            <goal>generate</goal>
-                        </goals>
-                        <configuration>
-                            <inputSpec>
-                                ${project.basedir}/src/main/resources/openapi/openapi.yaml
-                            </inputSpec>
-                            <generatorName>spring</generatorName>
-                            <apiPackage>com.lkww.scaffold.application.api</apiPackage>
-                            <invokerPackage>com.lkww.scaffold.application.api</invokerPackage>
-                            <modelPackage>com.lkww.scaffold.application.api.dto</modelPackage>
-                            <configOptions>
-                                <library>spring-boot</library>
-                                <interfaceOnly>true</interfaceOnly>
-                                <dateLibrary>java8</dateLibrary>
-                                <skipDefaultInterface>true</skipDefaultInterface>
-                                <useBeanValidation>true</useBeanValidation>
-                                <performBeanValidation>true</performBeanValidation>
-                                <useTags>true</useTags>
-                            </configOptions>
-                        </configuration>
-                    </execution>
-                </executions>
-            </plugin>
-            <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>${maven-compiler-plugin.version}</version>
                 <configuration>
-                    <source>16</source>
-                    <target>16</target>
+                    <source>${maven.compiler.source}</source>
+                    <target>${maven.compiler.target}</target>
+                    <release>${maven.compiler.release}</release>
                 </configuration>
             </plugin>
         </plugins>

@@ -1,4 +1,4 @@
-package com.lkww.bitlog.btlg.classes;
+package com.lkww.bitlog.btlg.domain.classes;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package com.lkww.bitlog.btlg.configuration.web;
+package com.lkww.bitlog.btlg.configuration;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.scheduling.annotation.EnableScheduling;

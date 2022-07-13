@@ -1,1 +1,10 @@
-GET /api/f00-Promo.feature
+GET localhost:8080/api/project/
+
+> {%
+client.test("Request executed successfully", function(){
+    client.assert(response.status === 204, "Response status is No Content");
+
+})
+%}
+
+###

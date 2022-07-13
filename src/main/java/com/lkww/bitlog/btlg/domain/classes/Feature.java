@@ -1,4 +1,4 @@
-package com.lkww.bitlog.btlg.classes;
+package com.lkww.bitlog.btlg.domain.classes;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -11,19 +11,21 @@ import java.util.List;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class Project {
+public class Feature {
 
-    String projectID;
-    List<Feature> features;
+    String featureName;
+    String description;
+    List<Scenario> scenarios;
 
     public JSONObject JSONize(){
         JSONObject obj = new JSONObject();
         JSONArray arr = new JSONArray();
-        obj.put("Project", projectID);
-        for(Feature feature : features){
-            arr.add(feature.JSONize());
+        obj.put("Feature", featureName);
+        obj.put("Description", description);
+        for(Scenario scenario : scenarios){
+            arr.add(scenario.JSONize());
         }
-        obj.put("Features", arr);
+        obj.put("Scenarios", arr);
         return obj;
     }
 }

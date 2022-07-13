@@ -1,10 +1,10 @@
 package com.lkww.bitlog.btlg.util;
 
 
-import com.lkww.bitlog.btlg.classes.Feature;
-import com.lkww.bitlog.btlg.classes.Project;
-import com.lkww.bitlog.btlg.classes.Scenario;
-import com.lkww.bitlog.btlg.exceptions.ServiceException;
+import com.lkww.bitlog.btlg.domain.classes.Feature;
+import com.lkww.bitlog.btlg.domain.Project;
+import com.lkww.bitlog.btlg.domain.classes.Scenario;
+import com.lkww.bitlog.btlg.exceptions.CrawlerException;
 
 import java.io.*;
 import java.util.ArrayList;
@@ -94,10 +94,10 @@ public class ObjectBuilder {
             }
             in.close();
         } catch (IOException ioE) {
-            throw ServiceException.readIO(ioE);
+            throw CrawlerException.readIO(ioE);
         }
         catch (Throwable t){
-            throw ServiceException.readUndetermined(t);
+            throw CrawlerException.readUndetermined(t);
         }
 
         return projects;
