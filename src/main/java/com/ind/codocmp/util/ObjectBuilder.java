@@ -87,6 +87,7 @@ public class ObjectBuilder {
                         feature.setDescription(description.toString());
                         features.add(feature);
                         scenarios = new ArrayList<>();
+                        description = new StringBuilder();
                         break;
                     case "ScenarioDone":
                         scenarios.add(scenario);

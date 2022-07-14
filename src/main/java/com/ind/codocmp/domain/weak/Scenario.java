@@ -20,23 +20,17 @@ public class Scenario implements Serializable {
 
     public JSONObject JSONize(){
         JSONObject obj = new JSONObject();
-        JSONArray arr = new JSONArray();
+        JSONObject syn = new JSONObject();
 
         obj.put("Scenario", scenarioName);
 
-        JSONObject givenObj = new JSONObject();
-        givenObj.put("Given", given);
-        arr.add(givenObj);
+        syn.put("Given", given);
 
-        JSONObject whenObj = new JSONObject();
-        whenObj.put("When", when);
-        arr.add(whenObj);
+        syn.put("When", when);
 
-        JSONObject thenObj = new JSONObject();
-        thenObj.put("Then", then);
-        arr.add(thenObj);
+        syn.put("Then", then);
 
-        obj.put("Syntax", arr);
+        obj.put("Syntax", syn);
         return obj;
     }
 }
