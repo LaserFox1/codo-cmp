@@ -1,3 +1,6 @@
+
+# DEPRECATED
+
 # bitlog-btlg-cmp
 
 ## Local development

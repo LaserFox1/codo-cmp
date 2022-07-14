@@ -28,4 +28,4 @@ RUN echo "$BUILD_COMMAND" && eval "$BUILD_COMMAND"
 # -------------------------------------------------------------------------------------------------------------
 FROM registry.artifactory.prod.lkw-walter.com/basis/spring-boot-basis:1.0.5
 
-COPY --from=builder /usr/project/target/bitlog-btlg-cmp-*.jar ./app.jar
+COPY --from=builder /usr/project/target/codo-cmp-*.jar ./app.jar

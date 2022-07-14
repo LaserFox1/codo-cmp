@@ -1,5 +1,0 @@
-apiVersion: v1
-appVersion: "APP_VERSION"
-description: Helm chart for bitlog-btlg-cmp
-name: bitlog-btlg-cmp
-version: CHART_VERSION
