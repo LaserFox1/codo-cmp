@@ -1,6 +1,0 @@
-# due to the local avro schema registry at 8081
-management.server.port: 18080
-
-spring.security.user:
-  name: admin
-  password: admin

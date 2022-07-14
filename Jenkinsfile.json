@@ -1,10 +1,10 @@
 {
   "app": {
-    "name": "bitlog-btlg-cmp"
+    "name": "codo-cmp"
   },
   "artifactory": {
     "containerRepo": {
-      "repo": "bitlog/bitlog-btlg-cmp"
+      "repo": "codo/codo-cmp"
     }
   },
   "pipeline": {
