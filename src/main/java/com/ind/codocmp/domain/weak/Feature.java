@@ -1,6 +1,7 @@
 package com.ind.codocmp.domain.weak;
 
 import lombok.AllArgsConstructor;
+import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import org.json.simple.JSONArray;
@@ -12,6 +13,7 @@ import java.util.List;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
+@Builder
 public class Feature implements Serializable {
 
     String featureName;

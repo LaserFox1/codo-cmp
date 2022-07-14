@@ -93,6 +93,11 @@ public class ObjectBuilder {
                         scenarios.add(scenario);
                         break;
 
+
+                    case "DemoGaming":
+                        features = DemoObjects.demoFeatureList();
+                        break;
+
                 }
 
                 if (!keyword.equals("Feature:") && isDescription) {
