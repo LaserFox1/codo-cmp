@@ -1,10 +1,10 @@
 {
   "app": {
-    "name": "codo-cmp"
+    "name": "codo-codo-cmp"
   },
   "artifactory": {
     "containerRepo": {
-      "repo": "codo/codo-cmp"
+      "repo": "codo/codo-codo-cmp"
     }
   },
   "pipeline": {

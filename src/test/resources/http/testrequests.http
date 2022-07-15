@@ -57,3 +57,5 @@ client.test("Request executed successfully", function(){
 })
 %}
 ###
+
+GET localhost:8080

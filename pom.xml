@@ -8,11 +8,9 @@
 		<version>2.7.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.ind</groupId>
-	<artifactId>codo-cmp</artifactId>
+	<groupId>com.lkww.codo.codo</groupId>
+	<artifactId>codo-codo-cmp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>codo-cmp</name>
-	<description>bad</description>
 	<properties>
 		<java.version>11</java.version>
 		<maven.version>3.8.3</maven.version>
@@ -21,11 +19,57 @@
 		<maven.compiler.target>${java.version}</maven.compiler.target>
 		<maven.compiler.release>${java.version}</maven.compiler.release>
 
+		<reportportal.junit5.agent.version>5.1.0</reportportal.junit5.agent.version>
+		<reportportal.logback.version>5.0.3</reportportal.logback.version>
+		<logstash-logback-encoder.version>6.3</logstash-logback-encoder.version>
+		<jacoco-maven-plugin.version>0.8.7</jacoco-maven-plugin.version>
+
 		<jedis.version>3.7.1</jedis.version>
 		<json-simple.version>1.1.1</json-simple.version>
 		<javaee-api.version>8.0.1</javaee-api.version>
 	</properties>
 	<dependencies>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-actuator</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-web</artifactId>
+			<version>RELEASE</version>
+			<scope>compile</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-test</artifactId>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.epam.reportportal</groupId>
+			<artifactId>agent-java-junit5</artifactId>
+			<version>${reportportal.junit5.agent.version}</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.epam.reportportal</groupId>
+			<artifactId>logger-java-logback</artifactId>
+			<version>${reportportal.logback.version}</version>
+			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>net.logstash.logback</groupId>
+			<artifactId>logstash-logback-encoder</artifactId>
+			<version>${logstash-logback-encoder.version}</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-configuration-processor</artifactId>
+			<optional>true</optional>
+		</dependency>
+
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-redis</artifactId>
@@ -43,21 +87,10 @@
 			<optional>true</optional>
 		</dependency>
 		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-test</artifactId>
-			<scope>test</scope>
-		</dependency>
-		<dependency>
 			<groupId>io.projectreactor</groupId>
 			<artifactId>reactor-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-web</artifactId>
-            <version>RELEASE</version>
-            <scope>compile</scope>
-        </dependency>
 
 		<dependency>
 			<groupId>com.googlecode.json-simple</groupId>
@@ -85,6 +118,21 @@
 						</exclude>
 					</excludes>
 				</configuration>
+				<executions>
+					<execution>
+						<goals>
+							<goal>build-info</goal>
+						</goals>
+						<configuration>
+							<additionalProperties>
+								<encoding.source>UTF-8</encoding.source>
+								<encoding.reporting>UTF-8</encoding.reporting>
+								<java.source>${maven.compiler.source}</java.source>
+								<java.target>${maven.compiler.target}</java.target>
+							</additionalProperties>
+						</configuration>
+					</execution>
+				</executions>
 			</plugin>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
@@ -99,4 +147,35 @@
 		</plugins>
 	</build>
 
+	<profiles>
+		<profile>
+			<id>sonar-coverage</id>
+			<activation>
+				<activeByDefault>false</activeByDefault>
+			</activation>
+			<build>
+				<plugins>
+					<plugin>
+						<groupId>org.jacoco</groupId>
+						<artifactId>jacoco-maven-plugin</artifactId>
+						<version>${jacoco-maven-plugin.version}</version>
+						<executions>
+							<execution>
+								<id>prepare-agent</id>
+								<goals>
+									<goal>prepare-agent</goal>
+								</goals>
+							</execution>
+							<execution>
+								<id>report</id>
+								<goals>
+									<goal>report</goal>
+								</goals>
+							</execution>
+						</executions>
+					</plugin>
+				</plugins>
+			</build>
+		</profile>
+	</profiles>
 </project>

@@ -1,5 +1,0 @@
-apiVersion: v1
-appVersion: "APP_VERSION"
-description: Helm chart for codo-cmp
-name: codo-cmp
-version: CHART_VERSION

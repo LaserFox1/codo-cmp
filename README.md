@@ -1,14 +1,6 @@
-
-# DEPRECATED
-
-# bitlog-btlg-cmp
+# codo-codo-cmp
 
 ## Local development
-
-### Dependencies
-
-* Kafka broker\
-  You can easily start one using [bitnami-docker-kafka](https://github.com/bitnami/bitnami-docker-kafka)
 
 ### run build
 
@@ -24,19 +16,9 @@ mvn spring-boot:run -Plocal
 
 The `local` profile configures human-readable log output and provides some configuration for your local environment.
 
-`spring.security.user.name: admin`\
-`spring.security.user.password: admin`\
 `management.server.port: 18080`
 
 ### Endpoints
-
-#### Swagger UI / OpenAPI specification
-
-port: 8080\
-authentication: basic authentication - user configured in application-local.yaml \
-urls:
-- [swagger-ui](http://localhost:8080/bitlog-btlg-cmp/swagger-ui/index.html)
-- [openapi-specs](http://localhost:8080/bitlog-btlg-cmp/openapi/openapi.yaml)
 
 #### Spring Boot Actuator
 
