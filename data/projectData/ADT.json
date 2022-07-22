@@ -1,0 +1,212 @@
+{
+    "size": 4,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "artifactory-cleanup",
+            "id": 2614,
+            "name": "artifactory-cleanup",
+            "hierarchyId": "a2992cf2ffd1e8fcad02",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "ADT",
+                "id": 284,
+                "name": "Deployment-Toolbox",
+                "description": "Ansible Deployment Toolbox f\u00fcr Java",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/ADT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/adt/artifactory-cleanup.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/adt/artifactory-cleanup.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/ADT/repos/artifactory-cleanup/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "deletebuildinfo",
+            "id": 2928,
+            "name": "deleteBuildInfo",
+            "hierarchyId": "ce459e12ffc0819c31d7",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "ADT",
+                "id": 284,
+                "name": "Deployment-Toolbox",
+                "description": "Ansible Deployment Toolbox f\u00fcr Java",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/ADT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/adt/deletebuildinfo.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/adt/deletebuildinfo.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/ADT/repos/deletebuildinfo/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "deployment-toolbox",
+            "id": 2008,
+            "name": "deployment-toolbox",
+            "hierarchyId": "7a1541bc51097efd42c5",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "origin": {
+                "slug": "lkww-env",
+                "id": 1356,
+                "name": "lkww-env",
+                "hierarchyId": "7a1541bc51097efd42c5",
+                "scmId": "git",
+                "state": "AVAILABLE",
+                "statusMessage": "Available",
+                "forkable": true,
+                "project": {
+                    "key": "IBASE",
+                    "id": 137,
+                    "name": "Infonova-Base",
+                    "public": false,
+                    "type": "NORMAL",
+                    "links": {
+                        "self": [
+                            {
+                                "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE"
+                            }
+                        ]
+                    }
+                },
+                "public": false,
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE/repos/lkww-env/browse"
+                        }
+                    ]
+                }
+            },
+            "project": {
+                "key": "ADT",
+                "id": 284,
+                "name": "Deployment-Toolbox",
+                "description": "Ansible Deployment Toolbox f\u00fcr Java",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/ADT"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/adt/deployment-toolbox.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/adt/deployment-toolbox.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/ADT/repos/deployment-toolbox/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "legacy-prom-services",
+            "id": 3620,
+            "name": "legacy-prom-services",
+            "hierarchyId": "659ceb92d25639c5b944",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "ADT",
+                "id": 284,
+                "name": "Deployment-Toolbox",
+                "description": "Ansible Deployment Toolbox f\u00fcr Java",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/ADT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/adt/legacy-prom-services.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/adt/legacy-prom-services.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/ADT/repos/legacy-prom-services/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

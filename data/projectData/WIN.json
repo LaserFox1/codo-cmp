@@ -1,0 +1,481 @@
+{
+    "size": 11,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "gpm-search-unternehmen",
+            "id": 1636,
+            "name": "gpm-search-unternehmen",
+            "hierarchyId": "cf57ac239bf6c64a21f3",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "WIN",
+                "id": 168,
+                "name": "WIN",
+                "description": "Space f\u00fcr WIN Projekte",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/WIN"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/win/gpm-search-unternehmen.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/win/gpm-search-unternehmen.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/WIN/repos/gpm-search-unternehmen/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "rtc2git",
+            "id": 1657,
+            "name": "rtc2git",
+            "hierarchyId": "d7fd87efe0e95a3e7d9a",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "WIN",
+                "id": 168,
+                "name": "WIN",
+                "description": "Space f\u00fcr WIN Projekte",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/WIN"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/win/rtc2git.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/win/rtc2git.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/WIN/repos/rtc2git/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "win_build_tr",
+            "id": 1835,
+            "name": "WIN_BUILD_TR",
+            "hierarchyId": "18d0af31259ec4db93c9",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "WIN",
+                "id": 168,
+                "name": "WIN",
+                "description": "Space f\u00fcr WIN Projekte",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/WIN"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/win/win_build_tr.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/win/win_build_tr.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/WIN/repos/win_build_tr/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "win_esb_svc_tr",
+            "id": 1814,
+            "name": "WIN_ESB_SVC_TR",
+            "hierarchyId": "41a8c73a859519aeea59",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "WIN",
+                "id": 168,
+                "name": "WIN",
+                "description": "Space f\u00fcr WIN Projekte",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/WIN"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/win/win_esb_svc_tr.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/win/win_esb_svc_tr.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/WIN/repos/win_esb_svc_tr/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "win_fwk_tr",
+            "id": 1826,
+            "name": "WIN_FWK_TR",
+            "hierarchyId": "3d96d4b52d6a1c4cd93c",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "WIN",
+                "id": 168,
+                "name": "WIN",
+                "description": "Space f\u00fcr WIN Projekte",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/WIN"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/win/win_fwk_tr.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/win/win_fwk_tr.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/WIN/repos/win_fwk_tr/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "win_inital_seed",
+            "id": 5159,
+            "name": "WIN_INITAL_SEED",
+            "hierarchyId": "e8e49e93d967220efe0c",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "WIN",
+                "id": 168,
+                "name": "WIN",
+                "description": "Space f\u00fcr WIN Projekte",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/WIN"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/win/win_inital_seed.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/win/win_inital_seed.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/WIN/repos/win_inital_seed/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "win_lieferschein",
+            "id": 2823,
+            "name": "WIN_Lieferschein",
+            "hierarchyId": "961c827ff269e466d478",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "WIN",
+                "id": 168,
+                "name": "WIN",
+                "description": "Space f\u00fcr WIN Projekte",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/WIN"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/win/win_lieferschein.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/win/win_lieferschein.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/WIN/repos/win_lieferschein/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "win_rastat_svc_tr",
+            "id": 1963,
+            "name": "WIN_RASTAT_SVC_TR",
+            "hierarchyId": "8fb0ce6fcbc4a7abea5e",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "WIN",
+                "id": 168,
+                "name": "WIN",
+                "description": "Space f\u00fcr WIN Projekte",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/WIN"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/win/win_rastat_svc_tr.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/win/win_rastat_svc_tr.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/WIN/repos/win_rastat_svc_tr/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "win_svc_tr",
+            "id": 1829,
+            "name": "WIN_SVC_TR",
+            "hierarchyId": "fd084b655ce20b013704",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "WIN",
+                "id": 168,
+                "name": "WIN",
+                "description": "Space f\u00fcr WIN Projekte",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/WIN"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/win/win_svc_tr.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/win/win_svc_tr.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/WIN/repos/win_svc_tr/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "win_uif_tr",
+            "id": 1832,
+            "name": "WIN_UIF_TR",
+            "hierarchyId": "85264169b95f08d8e77a",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "WIN",
+                "id": 168,
+                "name": "WIN",
+                "description": "Space f\u00fcr WIN Projekte",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/WIN"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/win/win_uif_tr.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/win/win_uif_tr.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/WIN/repos/win_uif_tr/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "win-shared",
+            "id": 5445,
+            "name": "WIN-SHARED",
+            "hierarchyId": "26de267e6c51ae95b5ba",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "WIN",
+                "id": 168,
+                "name": "WIN",
+                "description": "Space f\u00fcr WIN Projekte",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/WIN"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/win/win-shared.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/win/win-shared.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/WIN/repos/win-shared/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

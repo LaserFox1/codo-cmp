@@ -1,0 +1,227 @@
+{
+    "size": 5,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "generator-springboot-lkww",
+            "id": 6565,
+            "name": "generator-springboot-lkww",
+            "description": "https://yeoman.io/ based source code generator for springboot based applications @LKW Walter.",
+            "hierarchyId": "8cb75594ee8e677d9da0",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "SAP",
+                "id": 1323,
+                "name": "Scaffolds & (P)Recipes",
+                "description": "Home  of LKW Walter Scaffolds and Code Recipes\r\nMaintained by Markus Wolf and Aksel Filipovic",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/SAP"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/sap/generator-springboot-lkww.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/sap/generator-springboot-lkww.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/SAP/repos/generator-springboot-lkww/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "java-recipes",
+            "id": 6874,
+            "name": "java-recipes",
+            "description": "Recipes for Java Projects",
+            "hierarchyId": "6abe4f73b3b1926238f6",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "SAP",
+                "id": 1323,
+                "name": "Scaffolds & (P)Recipes",
+                "description": "Home  of LKW Walter Scaffolds and Code Recipes\r\nMaintained by Markus Wolf and Aksel Filipovic",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/SAP"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/sap/java-recipes.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/sap/java-recipes.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/SAP/repos/java-recipes/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "knauser-pact-http-consumer-cmp",
+            "id": 6848,
+            "name": "knauser-pact-http-consumer-cmp",
+            "hierarchyId": "9896908d84572888a2c5",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "SAP",
+                "id": 1323,
+                "name": "Scaffolds & (P)Recipes",
+                "description": "Home  of LKW Walter Scaffolds and Code Recipes\r\nMaintained by Markus Wolf and Aksel Filipovic",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/SAP"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/sap/knauser-pact-http-consumer-cmp.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/sap/knauser-pact-http-consumer-cmp.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/SAP/repos/knauser-pact-http-consumer-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "wildfly-kafka-metrics",
+            "id": 6830,
+            "name": "wildfly-kafka-metrics",
+            "description": "Implementing Kafka Metrics for Wildfly",
+            "hierarchyId": "9a1241e43b673e399a98",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "SAP",
+                "id": 1323,
+                "name": "Scaffolds & (P)Recipes",
+                "description": "Home  of LKW Walter Scaffolds and Code Recipes\r\nMaintained by Markus Wolf and Aksel Filipovic",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/SAP"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/sap/wildfly-kafka-metrics.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/sap/wildfly-kafka-metrics.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/SAP/repos/wildfly-kafka-metrics/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "wildfly-oauth2-clientlib-pattern",
+            "id": 6829,
+            "name": "wildfly-oauth2-clientlib-pattern",
+            "description": "Pattern to switch from wurm-client to oauth2 client for wildfly",
+            "hierarchyId": "e2f78ca269ce3700ad01",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "SAP",
+                "id": 1323,
+                "name": "Scaffolds & (P)Recipes",
+                "description": "Home  of LKW Walter Scaffolds and Code Recipes\r\nMaintained by Markus Wolf and Aksel Filipovic",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/SAP"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/sap/wildfly-oauth2-clientlib-pattern.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/sap/wildfly-oauth2-clientlib-pattern.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/SAP/repos/wildfly-oauth2-clientlib-pattern/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

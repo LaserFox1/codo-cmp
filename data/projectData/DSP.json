@@ -1,0 +1,50 @@
+{
+    "size": 1,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "ds-instant-pricing",
+            "id": 5754,
+            "name": "ds-instant-pricing",
+            "hierarchyId": "bd64f77652957ff1ea84",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "DSP",
+                "id": 1084,
+                "name": "DS Pricing",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/DSP"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/dsp/ds-instant-pricing.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/dsp/ds-instant-pricing.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/DSP/repos/ds-instant-pricing/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

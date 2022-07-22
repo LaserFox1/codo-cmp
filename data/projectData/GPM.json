@@ -1,0 +1,51 @@
+{
+    "size": 1,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "gpm-firmensuche-cmp-demo",
+            "id": 3185,
+            "name": "gpm-firmensuche-cmp-demo",
+            "hierarchyId": "e3111ec4ebd9eac00481",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "GPM",
+                "id": 129,
+                "name": "GPM",
+                "description": "Gesch\u00e4ftspartnermanagement",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/GPM"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/gpm/gpm-firmensuche-cmp-demo.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/gpm/gpm-firmensuche-cmp-demo.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/GPM/repos/gpm-firmensuche-cmp-demo/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

@@ -1,0 +1,138 @@
+{
+    "size": 3,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "datahub",
+            "id": 5528,
+            "name": "datahub",
+            "hierarchyId": "fcfa4826a00d5e4ddde4",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "DP",
+                "id": 774,
+                "name": "Data Platform",
+                "description": "Administratorten sind: Martin K\u00f6hler, Lukas Langegger, G\u00fcnther Hackl, Ekimini Bassey",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/DP"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/dp/datahub.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/dp/datahub.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/DP/repos/datahub/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "datahub-ingestion-library",
+            "id": 6081,
+            "name": "datahub-ingestion-library",
+            "description": "Python package that includes all custom transformers written for use within LKW Walter",
+            "hierarchyId": "0d99c17927d07f1ef841",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "DP",
+                "id": 774,
+                "name": "Data Platform",
+                "description": "Administratorten sind: Martin K\u00f6hler, Lukas Langegger, G\u00fcnther Hackl, Ekimini Bassey",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/DP"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/dp/datahub-ingestion-library.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/dp/datahub-ingestion-library.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/DP/repos/datahub-ingestion-library/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "sql-server-2019-container",
+            "id": 3925,
+            "name": "sql-server-2019-container",
+            "hierarchyId": "94c6970bfa6683b9b413",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "DP",
+                "id": 774,
+                "name": "Data Platform",
+                "description": "Administratorten sind: Martin K\u00f6hler, Lukas Langegger, G\u00fcnther Hackl, Ekimini Bassey",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/DP"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/dp/sql-server-2019-container.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/dp/sql-server-2019-container.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/DP/repos/sql-server-2019-container/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

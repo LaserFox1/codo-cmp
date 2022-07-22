@@ -1,0 +1,1987 @@
+{
+    "size": 47,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "aggtier-aufenthalte-api",
+            "id": 3887,
+            "name": "aggtier-aufenthalte-api",
+            "hierarchyId": "83618ca309d84527e929",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-aufenthalte-api.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-aufenthalte-api.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-aufenthalte-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-aufenthalte-fe-cmp",
+            "id": 3886,
+            "name": "aggtier-aufenthalte-fe-cmp",
+            "hierarchyId": "f320aae578a53495e8da",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-aufenthalte-fe-cmp.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-aufenthalte-fe-cmp.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-aufenthalte-fe-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-aufenthalte-kafka",
+            "id": 3845,
+            "name": "aggtier-aufenthalte-kafka",
+            "hierarchyId": "92b3b10a14da80ac8ae4",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-aufenthalte-kafka.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-aufenthalte-kafka.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-aufenthalte-kafka/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-aufenthalte-migration",
+            "id": 3953,
+            "name": "aggtier-aufenthalte-migration",
+            "description": "Einmalige Migration, da die Retention-Times der zu Grunde liegenden Topics nicht ausreichend waren.\r\n\r\nDeprecated und muss bei Topic-Umstellungen nicht ber\u00fccksichtigt werden",
+            "hierarchyId": "d30839cbdefbccd3dcde",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-aufenthalte-migration.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-aufenthalte-migration.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-aufenthalte-migration/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-aufenthalte-stream",
+            "id": 3844,
+            "name": "aggtier-aufenthalte-stream",
+            "hierarchyId": "e735ee03e034962fe7cf",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-aufenthalte-stream.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-aufenthalte-stream.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-aufenthalte-stream/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-aufenthalte-ui",
+            "id": 3894,
+            "name": "aggtier-aufenthalte-ui",
+            "hierarchyId": "d54c34fae1e1d4976236",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-aufenthalte-ui.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-aufenthalte-ui.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-aufenthalte-ui/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-aufgaben-api_deprecated",
+            "id": 4029,
+            "name": "aggtier-aufgaben-api_DEPRECATED",
+            "hierarchyId": "6969f020810abd667bbf",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-aufgaben-api_deprecated.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-aufgaben-api_deprecated.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-aufgaben-api_deprecated/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-aufgaben-ata-stream_deprecated",
+            "id": 4252,
+            "name": "aggtier-aufgaben-ata-stream_DEPRECATED",
+            "hierarchyId": "ef519ffa02b260b2bbde",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-aufgaben-ata-stream_deprecated.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-aufgaben-ata-stream_deprecated.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-aufgaben-ata-stream_deprecated/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-aufgaben-fe-cmp_deprecated",
+            "id": 4028,
+            "name": "aggtier-aufgaben-fe-cmp_DEPRECATED",
+            "hierarchyId": "519e84bd374e8024382c",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-aufgaben-fe-cmp_deprecated.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-aufgaben-fe-cmp_deprecated.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-aufgaben-fe-cmp_deprecated/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-aufgaben-legacy-sso-facade_deprecated",
+            "id": 4260,
+            "name": "aggtier-aufgaben-legacy-sso-facade_DEPRECATED",
+            "hierarchyId": "f36012c16eef894015d9",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-aufgaben-legacy-sso-facade_deprecated.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-aufgaben-legacy-sso-facade_deprecated.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-aufgaben-legacy-sso-facade_deprecated/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-aufgaben-spa_deprecated",
+            "id": 4042,
+            "name": "aggtier-aufgaben-spa_DEPRECATED",
+            "hierarchyId": "0141d0582db83baf1f38",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-aufgaben-spa_deprecated.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-aufgaben-spa_deprecated.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-aufgaben-spa_deprecated/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-aufgaben-stream_deprecated",
+            "id": 4000,
+            "name": "aggtier-aufgaben-stream_DEPRECATED",
+            "hierarchyId": "1b3c450534014187f147",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-aufgaben-stream_deprecated.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-aufgaben-stream_deprecated.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-aufgaben-stream_deprecated/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-benachrichtigungsverlauf-api",
+            "id": 3840,
+            "name": "aggtier-benachrichtigungsverlauf-api",
+            "hierarchyId": "a77c3e9e3588227cfabd",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-benachrichtigungsverlauf-api.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-benachrichtigungsverlauf-api.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-benachrichtigungsverlauf-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-benachrichtigungsverlauf-fe-cmp",
+            "id": 3826,
+            "name": "aggtier-benachrichtigungsverlauf-fe-cmp",
+            "hierarchyId": "f9c20a5e0c725465cc7f",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-benachrichtigungsverlauf-fe-cmp.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-benachrichtigungsverlauf-fe-cmp.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-benachrichtigungsverlauf-fe-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-benachrichtigungsverlauf-ui",
+            "id": 3834,
+            "name": "aggtier-benachrichtigungsverlauf-ui",
+            "hierarchyId": "a3d8465ba3d035d16a82",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-benachrichtigungsverlauf-ui.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-benachrichtigungsverlauf-ui.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-benachrichtigungsverlauf-ui/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-performance-report-api",
+            "id": 3916,
+            "name": "aggtier-performance-report-api",
+            "hierarchyId": "a733bf975c7f7b71197e",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-performance-report-api.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-performance-report-api.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-performance-report-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-performance-report-connect-spa",
+            "id": 4067,
+            "name": "aggtier-performance-report-connect-spa",
+            "description": "Performance Report in Connect",
+            "hierarchyId": "9262cf0bfe33cbb4cbea",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-performance-report-connect-spa.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-performance-report-connect-spa.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-performance-report-connect-spa/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-performance-report-fe-cmp",
+            "id": 3918,
+            "name": "aggtier-performance-report-fe-cmp",
+            "hierarchyId": "3abaa5e1e34c556c66d0",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-performance-report-fe-cmp.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-performance-report-fe-cmp.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-performance-report-fe-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-performance-report-spa",
+            "id": 3945,
+            "name": "aggtier-performance-report-spa",
+            "description": "Performance Report Intern",
+            "hierarchyId": "2889252b53e356a3a224",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-performance-report-spa.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-performance-report-spa.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-performance-report-spa/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-performance-report-stream",
+            "id": 3909,
+            "name": "aggtier-performance-report-stream",
+            "hierarchyId": "a8003a49f9cab0ebe7ef",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-performance-report-stream.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-performance-report-stream.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-performance-report-stream/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-qs-report-aktionen-api",
+            "id": 5463,
+            "name": "aggtier-qs-report-aktionen-api",
+            "hierarchyId": "0edb659ad8930535b9e8",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-qs-report-aktionen-api.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-qs-report-aktionen-api.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-qs-report-aktionen-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-qs-report-aktionen-stream",
+            "id": 5462,
+            "name": "aggtier-qs-report-aktionen-stream",
+            "hierarchyId": "fe6242eb81c7bbd2cbaf",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-qs-report-aktionen-stream.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-qs-report-aktionen-stream.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-qs-report-aktionen-stream/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-qs-report-api",
+            "id": 4337,
+            "name": "aggtier-qs-report-api",
+            "hierarchyId": "a4bed5a4db5670011c09",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-qs-report-api.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-qs-report-api.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-qs-report-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-qs-report-stream",
+            "id": 4336,
+            "name": "aggtier-qs-report-stream",
+            "hierarchyId": "a6d63e55695d178c8dc5",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-qs-report-stream.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-qs-report-stream.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-qs-report-stream/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-report-kundenauftraege-spa",
+            "id": 3812,
+            "name": "aggtier-report-kundenauftraege-spa",
+            "description": "Standard (Monitoring) Report in Connect",
+            "hierarchyId": "ab8cee3cd1c5ae063d09",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-report-kundenauftraege-spa.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-report-kundenauftraege-spa.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-report-kundenauftraege-spa/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-report-spa",
+            "id": 3334,
+            "name": "aggtier-report-spa",
+            "description": "Standard (Monitoring) Report Intern",
+            "hierarchyId": "7d58e41fa33565954d71",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-report-spa.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-report-spa.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-report-spa/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-std-report-api",
+            "id": 4525,
+            "name": "aggtier-std-report-api",
+            "hierarchyId": "be668fb68f59a53538f7",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-std-report-api.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-std-report-api.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-std-report-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-std-report-fe-cmp",
+            "id": 3333,
+            "name": "aggtier-std-report-fe-cmp",
+            "hierarchyId": "d8e927eba359d03e1e85",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-std-report-fe-cmp.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-std-report-fe-cmp.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-std-report-fe-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-std-report-stream",
+            "id": 5545,
+            "name": "aggtier-std-report-stream",
+            "hierarchyId": "14a252d8dcf0e83812ab",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-std-report-stream.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-std-report-stream.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-std-report-stream/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-util-kundenauf-meilenstein-full-info-stream",
+            "id": 5414,
+            "name": "aggtier-util-kundenauf-meilenstein-full-info-stream",
+            "hierarchyId": "8ed72b151ac4ab1da981",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-util-kundenauf-meilenstein-full-info-stream.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-util-kundenauf-meilenstein-full-info-stream.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-util-kundenauf-meilenstein-full-info-stream/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-util-kundenauftrag-full-info-api",
+            "id": 5376,
+            "name": "aggtier-util-kundenauftrag-full-info-api",
+            "hierarchyId": "9b7d92e3b19d2ac4bafa",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-util-kundenauftrag-full-info-api.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-util-kundenauftrag-full-info-api.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-util-kundenauftrag-full-info-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-util-kundenauftrag-full-info-stream",
+            "id": 5378,
+            "name": "aggtier-util-kundenauftrag-full-info-stream",
+            "hierarchyId": "56df8a238d2506ef7908",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-util-kundenauftrag-full-info-stream.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-util-kundenauftrag-full-info-stream.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-util-kundenauftrag-full-info-stream/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-util-kundenauftrag-meilenstein-full-info-api",
+            "id": 5413,
+            "name": "aggtier-util-kundenauftrag-meilenstein-full-info-api",
+            "hierarchyId": "11844fa91159ecf39676",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-util-kundenauftrag-meilenstein-full-info-api.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-util-kundenauftrag-meilenstein-full-info-api.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-util-kundenauftrag-meilenstein-full-info-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-util-standzeiten-api",
+            "id": 5461,
+            "name": "aggtier-util-standzeiten-api",
+            "hierarchyId": "ef90e0d205430968af54",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-util-standzeiten-api.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-util-standzeiten-api.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-util-standzeiten-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-util-standzeiten-stream",
+            "id": 5460,
+            "name": "aggtier-util-standzeiten-stream",
+            "hierarchyId": "a0b631887fc6cef574c2",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-util-standzeiten-stream.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-util-standzeiten-stream.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-util-standzeiten-stream/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-util-transport-rekey-api",
+            "id": 5347,
+            "name": "aggtier-util-transport-rekey-api",
+            "hierarchyId": "6f022957e31748ee7616",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-util-transport-rekey-api.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-util-transport-rekey-api.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-util-transport-rekey-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-util-transport-rekey-stream",
+            "id": 5328,
+            "name": "aggtier-util-transport-rekey-stream",
+            "hierarchyId": "ddbaeb6314cb0704e595",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-util-transport-rekey-stream.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-util-transport-rekey-stream.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-util-transport-rekey-stream/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "aggtier-xlsxreport-lib",
+            "id": 5377,
+            "name": "aggtier-xlsxreport-lib",
+            "hierarchyId": "8fde007c20749eccfefe",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/aggtier-xlsxreport-lib.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/aggtier-xlsxreport-lib.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/aggtier-xlsxreport-lib/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-aggtier-aufenthalte",
+            "id": 3863,
+            "name": "lieferschein-aggtier-aufenthalte",
+            "hierarchyId": "60e45b322214ae9bd04d",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/lieferschein-aggtier-aufenthalte.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/lieferschein-aggtier-aufenthalte.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/lieferschein-aggtier-aufenthalte/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-aggtier-aufgaben_deprecated",
+            "id": 4005,
+            "name": "lieferschein-aggtier-aufgaben_DEPRECATED",
+            "hierarchyId": "e3f4a4016ae5add4105f",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/lieferschein-aggtier-aufgaben_deprecated.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/lieferschein-aggtier-aufgaben_deprecated.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/lieferschein-aggtier-aufgaben_deprecated/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-aggtier-benachrichtigungsverlauf",
+            "id": 5763,
+            "name": "lieferschein-aggtier-benachrichtigungsverlauf",
+            "hierarchyId": "8633195647443e380f60",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/lieferschein-aggtier-benachrichtigungsverlauf.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/lieferschein-aggtier-benachrichtigungsverlauf.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/lieferschein-aggtier-benachrichtigungsverlauf/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-aggtier-performance-report",
+            "id": 3921,
+            "name": "lieferschein-aggtier-performance-report",
+            "hierarchyId": "67f875e8cb79fddec646",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/lieferschein-aggtier-performance-report.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/lieferschein-aggtier-performance-report.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/lieferschein-aggtier-performance-report/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-aggtier-qs-report",
+            "id": 4397,
+            "name": "lieferschein-aggtier-qs-report",
+            "hierarchyId": "cb463e13f3746ce7c94f",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/lieferschein-aggtier-qs-report.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/lieferschein-aggtier-qs-report.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/lieferschein-aggtier-qs-report/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-aggtier-std-report",
+            "id": 3377,
+            "name": "lieferschein-aggtier-std-report",
+            "hierarchyId": "dd8f7d802638049f113a",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/lieferschein-aggtier-std-report.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/lieferschein-aggtier-std-report.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/lieferschein-aggtier-std-report/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-aggtier-util",
+            "id": 5329,
+            "name": "lieferschein-aggtier-util",
+            "hierarchyId": "a6993c4769b1a800fa07",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/lieferschein-aggtier-util.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/lieferschein-aggtier-util.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/lieferschein-aggtier-util/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "patchlieferschein-aggtier-aufgaben_deprecated",
+            "id": 4226,
+            "name": "patchlieferschein-aggtier-aufgaben_DEPRECATED",
+            "hierarchyId": "3f5de9c9e839ce57f208",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/patchlieferschein-aggtier-aufgaben_deprecated.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/patchlieferschein-aggtier-aufgaben_deprecated.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/patchlieferschein-aggtier-aufgaben_deprecated/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "patchlieferschein-aggtier-performance-report",
+            "id": 4323,
+            "name": "patchlieferschein-aggtier-performance-report",
+            "hierarchyId": "a9f74d6fc7187c5c47c7",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AGTIE",
+                "id": 658,
+                "name": "AggregiertTransportInformationenErstellen",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/agtie/patchlieferschein-aggtier-performance-report.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/agtie/patchlieferschein-aggtier-performance-report.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE/repos/patchlieferschein-aggtier-performance-report/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

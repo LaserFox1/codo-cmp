@@ -1,0 +1,3 @@
+[submodule "src/main/resources/magic-crawler"]
+	path = src/main/resources/magic-crawler
+	url = https://github.com/Peaches99/magic-crawler

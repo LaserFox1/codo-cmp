@@ -1,0 +1,266 @@
+{
+    "size": 6,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "docker-kafka-ssl",
+            "id": 2748,
+            "name": "docker-kafka-ssl",
+            "hierarchyId": "7cc0d69e0d9f83233991",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "DI",
+                "id": 301,
+                "name": "DTM Inkubator",
+                "description": "Projekte in Vorbereitung f\u00fcr DTM.",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/DI"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/di/docker-kafka-ssl.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/di/docker-kafka-ssl.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/DI/repos/docker-kafka-ssl/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "dq2kafka",
+            "id": 2450,
+            "name": "dq2kafka",
+            "hierarchyId": "42b135d5dee8bc7e7e0c",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "DI",
+                "id": 301,
+                "name": "DTM Inkubator",
+                "description": "Projekte in Vorbereitung f\u00fcr DTM.",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/DI"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/di/dq2kafka.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/di/dq2kafka.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/DI/repos/dq2kafka/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "kafka-ssl-generator",
+            "id": 3089,
+            "name": "kafka-ssl-generator",
+            "hierarchyId": "3e4caeb30183c7c3c0ff",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "DI",
+                "id": 301,
+                "name": "DTM Inkubator",
+                "description": "Projekte in Vorbereitung f\u00fcr DTM.",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/DI"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/di/kafka-ssl-generator.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/di/kafka-ssl-generator.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/DI/repos/kafka-ssl-generator/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "mpp-tests",
+            "id": 2144,
+            "name": "MPP Tests",
+            "hierarchyId": "a6c66c7d4b8b143cbe46",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "DI",
+                "id": 301,
+                "name": "DTM Inkubator",
+                "description": "Projekte in Vorbereitung f\u00fcr DTM.",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/DI"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/di/mpp-tests.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/di/mpp-tests.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/DI/repos/mpp-tests/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "mqtt-c400",
+            "id": 2865,
+            "name": "MQTT-C400",
+            "hierarchyId": "3b711e2597214324e3b6",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "DI",
+                "id": 301,
+                "name": "DTM Inkubator",
+                "description": "Projekte in Vorbereitung f\u00fcr DTM.",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/DI"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/di/mqtt-c400.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/di/mqtt-c400.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/DI/repos/mqtt-c400/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "rabbit2kafka",
+            "id": 2192,
+            "name": "Rabbit2Kafka",
+            "hierarchyId": "b00a20c3878d2233e3d3",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "DI",
+                "id": 301,
+                "name": "DTM Inkubator",
+                "description": "Projekte in Vorbereitung f\u00fcr DTM.",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/DI"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/di/rabbit2kafka.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/di/rabbit2kafka.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/DI/repos/rabbit2kafka/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

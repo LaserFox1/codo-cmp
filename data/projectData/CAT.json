@@ -1,0 +1,1370 @@
+{
+    "size": 29,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "bulk-find-and-replace",
+            "id": 5636,
+            "name": "bulk-find-and-replace",
+            "description": "A tool for quickly finding and replacing strings in various repositories",
+            "hierarchyId": "eee5873756d3f70e4186",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CAT",
+                "id": 645,
+                "name": "Catalyst Commons",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cat/bulk-find-and-replace.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cat/bulk-find-and-replace.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT/repos/bulk-find-and-replace/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "cat-ci",
+            "id": 3367,
+            "name": "cat-ci",
+            "hierarchyId": "7fd866ac575da104c62a",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": false,
+            "origin": {
+                "slug": "infonova-ci",
+                "id": 1999,
+                "name": "infonova-ci",
+                "hierarchyId": "7fd866ac575da104c62a",
+                "scmId": "git",
+                "state": "AVAILABLE",
+                "statusMessage": "Available",
+                "forkable": true,
+                "project": {
+                    "key": "IBASE",
+                    "id": 137,
+                    "name": "Infonova-Base",
+                    "public": false,
+                    "type": "NORMAL",
+                    "links": {
+                        "self": [
+                            {
+                                "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE"
+                            }
+                        ]
+                    }
+                },
+                "public": false,
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE/repos/infonova-ci/browse"
+                        }
+                    ]
+                }
+            },
+            "project": {
+                "key": "CAT",
+                "id": 645,
+                "name": "Catalyst Commons",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cat/cat-ci.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cat/cat-ci.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT/repos/cat-ci/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "cat-projects-seed",
+            "id": 3569,
+            "name": "cat-projects-seed",
+            "hierarchyId": "7dc904b615e7c09ae30c",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CAT",
+                "id": 645,
+                "name": "Catalyst Commons",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cat/cat-projects-seed.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cat/cat-projects-seed.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT/repos/cat-projects-seed/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "clf-poc-fe-cmp",
+            "id": 6843,
+            "name": "clf-poc-fe-cmp",
+            "hierarchyId": "a0b22bd697a424dc3a53",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CAT",
+                "id": 645,
+                "name": "Catalyst Commons",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cat/clf-poc-fe-cmp.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cat/clf-poc-fe-cmp.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT/repos/clf-poc-fe-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "cp-kafka-connect-extensions",
+            "id": 4146,
+            "name": "cp-kafka-connect-extensions",
+            "hierarchyId": "210daa10448764d6700c",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CAT",
+                "id": 645,
+                "name": "Catalyst Commons",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cat/cp-kafka-connect-extensions.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cat/cp-kafka-connect-extensions.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT/repos/cp-kafka-connect-extensions/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "k8s-namespace-access-cat",
+            "id": 5163,
+            "name": "k8s-namespace-access-cat",
+            "description": "This repository contains the rolebinding yamls for cat namespaces",
+            "hierarchyId": "aa910fc19ef32f54601a",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CAT",
+                "id": 645,
+                "name": "Catalyst Commons",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cat/k8s-namespace-access-cat.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cat/k8s-namespace-access-cat.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT/repos/k8s-namespace-access-cat/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "kafka-init",
+            "id": 4468,
+            "name": "kafka-init",
+            "hierarchyId": "38014b1374a1ad3544d4",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CAT",
+                "id": 645,
+                "name": "Catalyst Commons",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cat/kafka-init.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cat/kafka-init.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT/repos/kafka-init/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "kubernetes-stream-health-check",
+            "id": 3429,
+            "name": "kubernetes-stream-health-check",
+            "hierarchyId": "1d37e0efa5512240f551",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CAT",
+                "id": 645,
+                "name": "Catalyst Commons",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cat/kubernetes-stream-health-check.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cat/kubernetes-stream-health-check.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT/repos/kubernetes-stream-health-check/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-deployment-clf-poc",
+            "id": 6674,
+            "name": "lieferschein-deployment-clf-poc",
+            "hierarchyId": "da1a172252ab096f2687",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CAT",
+                "id": 645,
+                "name": "Catalyst Commons",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cat/lieferschein-deployment-clf-poc.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cat/lieferschein-deployment-clf-poc.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT/repos/lieferschein-deployment-clf-poc/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-deployment-dtmcat",
+            "id": 3270,
+            "name": "lieferschein-deployment-dtmcat",
+            "hierarchyId": "44cffb618e0d48af7fe4",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CAT",
+                "id": 645,
+                "name": "Catalyst Commons",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cat/lieferschein-deployment-dtmcat.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cat/lieferschein-deployment-dtmcat.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT/repos/lieferschein-deployment-dtmcat/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-deployment-gisl",
+            "id": 5569,
+            "name": "lieferschein-deployment-gisl",
+            "hierarchyId": "138497c8ed833b32de45",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "origin": {
+                "slug": "lieferschein-deployment-gisl",
+                "id": 2524,
+                "name": "lieferschein-deployment-gisl",
+                "hierarchyId": "138497c8ed833b32de45",
+                "scmId": "git",
+                "state": "AVAILABLE",
+                "statusMessage": "Available",
+                "forkable": true,
+                "project": {
+                    "key": "AN",
+                    "id": 365,
+                    "name": "Anecon-Base",
+                    "description": "Repository f\u00fcr \u00fcbergreifende ANECON Funktionalit\u00e4ten",
+                    "public": false,
+                    "type": "NORMAL",
+                    "links": {
+                        "self": [
+                            {
+                                "href": "http://lkwbitbucket.lkw-walter.com/projects/AN"
+                            }
+                        ]
+                    }
+                },
+                "public": false,
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AN/repos/lieferschein-deployment-gisl/browse"
+                        }
+                    ]
+                }
+            },
+            "project": {
+                "key": "CAT",
+                "id": 645,
+                "name": "Catalyst Commons",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cat/lieferschein-deployment-gisl.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cat/lieferschein-deployment-gisl.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT/repos/lieferschein-deployment-gisl/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-deployment-ladestellecat",
+            "id": 3570,
+            "name": "lieferschein-deployment-ladestellecat",
+            "hierarchyId": "08411ae5ff71d8cb56ff",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CAT",
+                "id": 645,
+                "name": "Catalyst Commons",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cat/lieferschein-deployment-ladestellecat.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cat/lieferschein-deployment-ladestellecat.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT/repos/lieferschein-deployment-ladestellecat/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-deployment-tm",
+            "id": 4198,
+            "name": "lieferschein-deployment-tm",
+            "hierarchyId": "f2feb8bd5c0f832e672c",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CAT",
+                "id": 645,
+                "name": "Catalyst Commons",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cat/lieferschein-deployment-tm.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cat/lieferschein-deployment-tm.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT/repos/lieferschein-deployment-tm/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-deployment-tramon-mic-cat",
+            "id": 4034,
+            "name": "lieferschein-deployment-tramon-mic-cat",
+            "hierarchyId": "a9a99c9e0f0aa18e3ede",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CAT",
+                "id": 645,
+                "name": "Catalyst Commons",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cat/lieferschein-deployment-tramon-mic-cat.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cat/lieferschein-deployment-tramon-mic-cat.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT/repos/lieferschein-deployment-tramon-mic-cat/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-deployment-vmkt",
+            "id": 3752,
+            "name": "lieferschein-deployment-vmkt",
+            "hierarchyId": "7843b0507bfe999de0c2",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CAT",
+                "id": 645,
+                "name": "Catalyst Commons",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cat/lieferschein-deployment-vmkt.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cat/lieferschein-deployment-vmkt.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT/repos/lieferschein-deployment-vmkt/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-deployment-zdom",
+            "id": 3679,
+            "name": "lieferschein-deployment-zdom",
+            "hierarchyId": "931d6b04f12a1ac401f4",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CAT",
+                "id": 645,
+                "name": "Catalyst Commons",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cat/lieferschein-deployment-zdom.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cat/lieferschein-deployment-zdom.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT/repos/lieferschein-deployment-zdom/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-library-cat",
+            "id": 3368,
+            "name": "lieferschein-library-cat",
+            "hierarchyId": "0e673b2007b3539dad05",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "origin": {
+                "slug": "lieferschein-library",
+                "id": 2490,
+                "name": "lieferschein-library",
+                "hierarchyId": "0e673b2007b3539dad05",
+                "scmId": "git",
+                "state": "AVAILABLE",
+                "statusMessage": "Available",
+                "forkable": true,
+                "project": {
+                    "key": "IBASE",
+                    "id": 137,
+                    "name": "Infonova-Base",
+                    "public": false,
+                    "type": "NORMAL",
+                    "links": {
+                        "self": [
+                            {
+                                "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE"
+                            }
+                        ]
+                    }
+                },
+                "public": true,
+                "links": {
+                    "clone": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/scm/ibase/lieferschein-library.git",
+                            "name": "http"
+                        },
+                        {
+                            "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/ibase/lieferschein-library.git",
+                            "name": "ssh"
+                        }
+                    ],
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE/repos/lieferschein-library/browse"
+                        }
+                    ]
+                }
+            },
+            "project": {
+                "key": "CAT",
+                "id": 645,
+                "name": "Catalyst Commons",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cat/lieferschein-library-cat.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cat/lieferschein-library-cat.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT/repos/lieferschein-library-cat/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-ui-fragment-catalog",
+            "id": 3753,
+            "name": "lieferschein-ui-fragment-catalog",
+            "hierarchyId": "229b59373d5f24230f22",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CAT",
+                "id": 645,
+                "name": "Catalyst Commons",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cat/lieferschein-ui-fragment-catalog.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cat/lieferschein-ui-fragment-catalog.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT/repos/lieferschein-ui-fragment-catalog/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lkww-env-vie",
+            "id": 4131,
+            "name": "lkww-env-vie",
+            "description": "Environment related stuff for CLF VIE Team",
+            "hierarchyId": "5fdb937bcd5802b30e93",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CAT",
+                "id": 645,
+                "name": "Catalyst Commons",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cat/lkww-env-vie.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cat/lkww-env-vie.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT/repos/lkww-env-vie/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "mssql",
+            "id": 3924,
+            "name": "mssql",
+            "hierarchyId": "493747a5330708f7fcc1",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CAT",
+                "id": 645,
+                "name": "Catalyst Commons",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cat/mssql.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cat/mssql.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT/repos/mssql/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "obsolete-dev-lu-cat-k8s",
+            "id": 3698,
+            "name": "OBSOLETE-dev-lu-cat-k8s",
+            "description": "Pls use the rundeck jobs now to add/change/remove secrets in our dev-lu.\r\nName of the secret: vault-dev-lu-cat",
+            "hierarchyId": "6c24dd0c3794b51f1a5b",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CAT",
+                "id": 645,
+                "name": "Catalyst Commons",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cat/obsolete-dev-lu-cat-k8s.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cat/obsolete-dev-lu-cat-k8s.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT/repos/obsolete-dev-lu-cat-k8s/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "obsolete-lieferschein-deployment-zdom-cat",
+            "id": 3719,
+            "name": "obsolete-lieferschein-deployment-zdom-cat",
+            "hierarchyId": "6f5ed6fd2c65b8dfa988",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CAT",
+                "id": 645,
+                "name": "Catalyst Commons",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cat/obsolete-lieferschein-deployment-zdom-cat.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cat/obsolete-lieferschein-deployment-zdom-cat.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT/repos/obsolete-lieferschein-deployment-zdom-cat/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "patchlieferschein-deployment-dtmcat",
+            "id": 3578,
+            "name": "patchlieferschein-deployment-dtmcat",
+            "hierarchyId": "049b76499113c2dbc6f4",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CAT",
+                "id": 645,
+                "name": "Catalyst Commons",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cat/patchlieferschein-deployment-dtmcat.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cat/patchlieferschein-deployment-dtmcat.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT/repos/patchlieferschein-deployment-dtmcat/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "patterns",
+            "id": 6483,
+            "name": "patterns",
+            "hierarchyId": "f8abcb88c69469701227",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CAT",
+                "id": 645,
+                "name": "Catalyst Commons",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cat/patterns.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cat/patterns.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT/repos/patterns/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "postman-collection",
+            "id": 3614,
+            "name": "postman-collection",
+            "hierarchyId": "fda9d76676c6141c4c40",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CAT",
+                "id": 645,
+                "name": "Catalyst Commons",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cat/postman-collection.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cat/postman-collection.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT/repos/postman-collection/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "rabbitmq-helm-chart-fork",
+            "id": 3900,
+            "name": "rabbitmq-helm-chart-fork",
+            "hierarchyId": "b008973df7eef2068cbc",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "origin": {
+                "slug": "rabbitmq-helm-chart",
+                "id": 3016,
+                "name": "rabbitmq-helm-chart",
+                "hierarchyId": "b008973df7eef2068cbc",
+                "scmId": "git",
+                "state": "AVAILABLE",
+                "statusMessage": "Available",
+                "forkable": true,
+                "project": {
+                    "key": "RMQ",
+                    "id": 288,
+                    "name": "RabbitMQ",
+                    "public": false,
+                    "type": "NORMAL",
+                    "links": {
+                        "self": [
+                            {
+                                "href": "http://lkwbitbucket.lkw-walter.com/projects/RMQ"
+                            }
+                        ]
+                    }
+                },
+                "public": false,
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/RMQ/repos/rabbitmq-helm-chart/browse"
+                        }
+                    ]
+                }
+            },
+            "project": {
+                "key": "CAT",
+                "id": 645,
+                "name": "Catalyst Commons",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cat/rabbitmq-helm-chart-fork.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cat/rabbitmq-helm-chart-fork.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT/repos/rabbitmq-helm-chart-fork/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "scripts",
+            "id": 6574,
+            "name": "scripts",
+            "description": "Shared utility scripts :)",
+            "hierarchyId": "cbc3a9ae41b3abd77ca5",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CAT",
+                "id": 645,
+                "name": "Catalyst Commons",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cat/scripts.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cat/scripts.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT/repos/scripts/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "ui-fragment-test-spa",
+            "id": 3749,
+            "name": "ui-fragment-test-spa",
+            "hierarchyId": "00d4a89d031c7cb80b70",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CAT",
+                "id": 645,
+                "name": "Catalyst Commons",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cat/ui-fragment-test-spa.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cat/ui-fragment-test-spa.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT/repos/ui-fragment-test-spa/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "wiremock-helm-chart",
+            "id": 5840,
+            "name": "wiremock-helm-chart",
+            "hierarchyId": "9431cf363f583ad101b1",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CAT",
+                "id": 645,
+                "name": "Catalyst Commons",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cat/wiremock-helm-chart.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cat/wiremock-helm-chart.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT/repos/wiremock-helm-chart/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

@@ -1,0 +1,51 @@
+{
+    "size": 1,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "ansible-prod",
+            "id": 5190,
+            "name": "Ansible-PROD",
+            "hierarchyId": "9d59982cdce89b3d70e3",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CA",
+                "id": 928,
+                "name": "Cisco ACI",
+                "description": "Configs / Scripte f\u00fcr Ansible zum Konfigurieren von den Datacenter Switches",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CA"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/ca/ansible-prod.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/ca/ansible-prod.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CA/repos/ansible-prod/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

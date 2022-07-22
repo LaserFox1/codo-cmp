@@ -1,0 +1,94 @@
+{
+    "size": 2,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "jmeter-docker",
+            "id": 3113,
+            "name": "jmeter-docker",
+            "hierarchyId": "21df6e7d897c4c81e8bd",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PER",
+                "id": 105,
+                "name": "Performancetests",
+                "description": "JMeter Scripte, LPT Ergebnisse und allgemeine LPT Daten (Userlisten, etc..)",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PER"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/per/jmeter-docker.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/per/jmeter-docker.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PER/repos/jmeter-docker/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "rdb",
+            "id": 2455,
+            "name": "RDB",
+            "hierarchyId": "00a926207520a5f8d6a0",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PER",
+                "id": 105,
+                "name": "Performancetests",
+                "description": "JMeter Scripte, LPT Ergebnisse und allgemeine LPT Daten (Userlisten, etc..)",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PER"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/per/rdb.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/per/rdb.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PER/repos/rdb/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

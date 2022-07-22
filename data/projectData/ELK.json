@@ -1,0 +1,176 @@
+{
+    "size": 4,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "dev-win-cluster",
+            "id": 2494,
+            "name": "dev-win-cluster",
+            "hierarchyId": "615e09f833418f492cec",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "ELK",
+                "id": 222,
+                "name": "ELK Stack",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/ELK"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/elk/dev-win-cluster.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/elk/dev-win-cluster.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/ELK/repos/dev-win-cluster/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "elk-prod",
+            "id": 1860,
+            "name": "elk-prod",
+            "hierarchyId": "7bb3b239b113b52819d7",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "ELK",
+                "id": 222,
+                "name": "ELK Stack",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/ELK"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/elk/elk-prod.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/elk/elk-prod.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/ELK/repos/elk-prod/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "elk-test",
+            "id": 1861,
+            "name": "elk-test",
+            "hierarchyId": "53f520ed2446544deb84",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "ELK",
+                "id": 222,
+                "name": "ELK Stack",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/ELK"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/elk/elk-test.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/elk/elk-test.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/ELK/repos/elk-test/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "filebeat",
+            "id": 1868,
+            "name": "filebeat",
+            "hierarchyId": "c8ba5088bbe52b48bef2",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "ELK",
+                "id": 222,
+                "name": "ELK Stack",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/ELK"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/elk/filebeat.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/elk/filebeat.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/ELK/repos/filebeat/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

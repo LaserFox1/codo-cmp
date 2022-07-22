@@ -1,0 +1,1007 @@
+[
+    {
+        "key": "AGTIE",
+        "id": 658,
+        "name": "AggregiertTransportInformationenErstellen",
+        "public": true,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/AGTIE"
+                }
+            ]
+        }
+    },
+    {
+        "key": "AN",
+        "id": 365,
+        "name": "Anecon-Base",
+        "description": "Repository f\u00fcr \u00fcbergreifende ANECON Funktionalit\u00e4ten",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/AN"
+                }
+            ]
+        }
+    },
+    {
+        "key": "AVIS",
+        "id": 220,
+        "name": "ArchVis",
+        "public": true,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/AVIS"
+                }
+            ]
+        }
+    },
+    {
+        "key": "BENA",
+        "id": 883,
+        "name": "Benachrichtigen",
+        "description": "Projects of the UTIL Benachrichtigen sub-domain.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/BENA"
+                }
+            ]
+        }
+    },
+    {
+        "key": "BERE",
+        "id": 771,
+        "name": "Berechtigen",
+        "description": "Dom\u00e4ne: UTIL",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE"
+                }
+            ]
+        }
+    },
+    {
+        "key": "BE",
+        "id": 665,
+        "name": "Beziehungen entwickeln",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/BE"
+                }
+            ]
+        }
+    },
+    {
+        "key": "CAT",
+        "id": 645,
+        "name": "Catalyst Commons",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/CAT"
+                }
+            ]
+        }
+    },
+    {
+        "key": "CDO",
+        "id": 324,
+        "name": "CDO",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/CDO"
+                }
+            ]
+        }
+    },
+    {
+        "key": "CA",
+        "id": 928,
+        "name": "Cisco ACI",
+        "description": "Configs / Scripte f\u00fcr Ansible zum Konfigurieren von den Datacenter Switches",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/CA"
+                }
+            ]
+        }
+    },
+    {
+        "key": "COM",
+        "id": 289,
+        "name": "Common",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/COM"
+                }
+            ]
+        }
+    },
+    {
+        "key": "CONF",
+        "id": 47,
+        "name": "Config Management",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/CONF"
+                }
+            ]
+        }
+    },
+    {
+        "key": "CIB",
+        "id": 379,
+        "name": "Container im Betrieb",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/CIB"
+                }
+            ]
+        }
+    },
+    {
+        "key": "CTE",
+        "id": 1045,
+        "name": "Contexture",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/CTE"
+                }
+            ]
+        }
+    },
+    {
+        "key": "CAM",
+        "id": 55,
+        "name": "Credit Application Manager",
+        "description": "Bonit\u00e4tssoftware f\u00fcr WALTER-GROUP",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/CAM"
+                }
+            ]
+        }
+    },
+    {
+        "key": "DP",
+        "id": 774,
+        "name": "Data Platform",
+        "description": "Administratorten sind: Martin K\u00f6hler, Lukas Langegger, G\u00fcnther Hackl, Ekimini Bassey",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/DP"
+                }
+            ]
+        }
+    },
+    {
+        "key": "DB2",
+        "id": 804,
+        "name": "DB2",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/DB2"
+                }
+            ]
+        }
+    },
+    {
+        "key": "ADT",
+        "id": 284,
+        "name": "Deployment-Toolbox",
+        "description": "Ansible Deployment Toolbox f\u00fcr Java",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/ADT"
+                }
+            ]
+        }
+    },
+    {
+        "key": "DOB",
+        "id": 262,
+        "name": "Docker Basis Images",
+        "public": true,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB"
+                }
+            ]
+        }
+    },
+    {
+        "key": "DSI",
+        "id": 889,
+        "name": "Docker Support Images",
+        "description": "Docker images for init, sidecars and others.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/DSI"
+                }
+            ]
+        }
+    },
+    {
+        "key": "DSP",
+        "id": 1084,
+        "name": "DS Pricing",
+        "public": true,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/DSP"
+                }
+            ]
+        }
+    },
+    {
+        "key": "DTM",
+        "id": 291,
+        "name": "DTM",
+        "description": "Digital Transport Management",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/DTM"
+                }
+            ]
+        }
+    },
+    {
+        "key": "DI",
+        "id": 301,
+        "name": "DTM Inkubator",
+        "description": "Projekte in Vorbereitung f\u00fcr DTM.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/DI"
+                }
+            ]
+        }
+    },
+    {
+        "key": "ELK",
+        "id": 222,
+        "name": "ELK Stack",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/ELK"
+                }
+            ]
+        }
+    },
+    {
+        "key": "FUZVEST",
+        "id": 790,
+        "name": "Fuhrpark zur Verf\u00fcgung stellen",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/FUZVEST"
+                }
+            ]
+        }
+    },
+    {
+        "key": "GPM",
+        "id": 129,
+        "name": "GPM",
+        "description": "Gesch\u00e4ftspartnermanagement",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/GPM"
+                }
+            ]
+        }
+    },
+    {
+        "key": "HEAL",
+        "id": 575,
+        "name": "Healthcheck",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/HEAL"
+                }
+            ]
+        }
+    },
+    {
+        "key": "HINFI",
+        "id": 1348,
+        "name": "Hinweise finden",
+        "description": "http://lkwconfluence.lkw-walter.com/pages/viewpage.action?pageId=170983498",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/HINFI"
+                }
+            ]
+        }
+    },
+    {
+        "key": "IBASE",
+        "id": 137,
+        "name": "Infonova-Base",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE"
+                }
+            ]
+        }
+    },
+    {
+        "key": "INIT",
+        "id": 853,
+        "name": "Init Containers",
+        "description": "Project for Kubernetes Init Container Images",
+        "public": true,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/INIT"
+                }
+            ]
+        }
+    },
+    {
+        "key": "INTRASI",
+        "id": 710,
+        "name": "Intermodale Transportleistungen sichern",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/INTRASI"
+                }
+            ]
+        }
+    },
+    {
+        "key": "INFRA",
+        "id": 737,
+        "name": "IT-Infrastruktur",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/INFRA"
+                }
+            ]
+        }
+    },
+    {
+        "key": "JD",
+        "id": 295,
+        "name": "Java Development",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/JD"
+                }
+            ]
+        }
+    },
+    {
+        "key": "JECO",
+        "id": 330,
+        "name": "Jenkins Commons",
+        "description": "Docker Images f\u00fcr Kubernetes Jenkins Master und Slaves",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO"
+                }
+            ]
+        }
+    },
+    {
+        "key": "KC",
+        "id": 563,
+        "name": "Kafka Commons",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/KC"
+                }
+            ]
+        }
+    },
+    {
+        "key": "KUB",
+        "id": 932,
+        "name": "kubernetes-environment",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB"
+                }
+            ]
+        }
+    },
+    {
+        "key": "LEAS",
+        "id": 1245,
+        "name": "LeasingBordero",
+        "public": true,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/LEAS"
+                }
+            ]
+        }
+    },
+    {
+        "key": "LS2000",
+        "id": 1044,
+        "name": "Legacy SW2000",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/LS2000"
+                }
+            ]
+        }
+    },
+    {
+        "key": "LOCA",
+        "id": 650,
+        "name": "Location",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA"
+                }
+            ]
+        }
+    },
+    {
+        "key": "MAT",
+        "id": 367,
+        "name": "Matator",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/MAT"
+                }
+            ]
+        }
+    },
+    {
+        "key": "MM",
+        "id": 712,
+        "name": "Monitoring und Metering",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/MM"
+                }
+            ]
+        }
+    },
+    {
+        "key": "NKS",
+        "id": 219,
+        "name": "Netzwerk Kommunikation Sicherheit",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/NKS"
+                }
+            ]
+        }
+    },
+    {
+        "key": "ORGZUD",
+        "id": 1024,
+        "name": "Organisatorische Zusammenarbeit definieren",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/ORGZUD"
+                }
+            ]
+        }
+    },
+    {
+        "key": "PER",
+        "id": 105,
+        "name": "Performancetests",
+        "description": "JMeter Scripte, LPT Ergebnisse und allgemeine LPT Daten (Userlisten, etc..)",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/PER"
+                }
+            ]
+        }
+    },
+    {
+        "key": "PHXC",
+        "id": 930,
+        "name": "Phoenix-Commons",
+        "description": "Common shared repo for phx",
+        "public": true,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/PHXC"
+                }
+            ]
+        }
+    },
+    {
+        "key": "PEP",
+        "id": 867,
+        "name": "PHX Example Project",
+        "public": true,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP"
+                }
+            ]
+        }
+    },
+    {
+        "key": "PROT",
+        "id": 795,
+        "name": "Prototyping",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                }
+            ]
+        }
+    },
+    {
+        "key": "PTV",
+        "id": 54,
+        "name": "PTV",
+        "description": "Alles rund um xServer der PTV Group",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/PTV"
+                }
+            ]
+        }
+    },
+    {
+        "key": "RDB",
+        "id": 333,
+        "name": "Relationendatenbank",
+        "description": "Die Relationendatenbank h\u00e4lt Standardwerte f\u00fcr Equipment, Gewicht und Laufzeit pro Von-Nach Relation.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/RDB"
+                }
+            ]
+        }
+    },
+    {
+        "key": "RNDK",
+        "id": 207,
+        "name": "Rundeck",
+        "description": "Job Scheduling, Automation, Continuous Delivery",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/RNDK"
+                }
+            ]
+        }
+    },
+    {
+        "key": "SAP",
+        "id": 1323,
+        "name": "Scaffolds & (P)Recipes",
+        "description": "Home  of LKW Walter Scaffolds and Code Recipes\r\nMaintained by Markus Wolf and Aksel Filipovic",
+        "public": true,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/SAP"
+                }
+            ]
+        }
+    },
+    {
+        "key": "SC",
+        "id": 663,
+        "name": "Softwarepark Commons",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/SC"
+                }
+            ]
+        }
+    },
+    {
+        "key": "SOL",
+        "id": 25,
+        "name": "SolutionArchitectsTryErrorBox",
+        "description": "Sandbox f\u00fcr Testprojekte der Solution Architekte.",
+        "public": true,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/SOL"
+                }
+            ]
+        }
+    },
+    {
+        "key": "SON",
+        "id": 1263,
+        "name": "SonarQube",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/SON"
+                }
+            ]
+        }
+    },
+    {
+        "key": "STYLE",
+        "id": 297,
+        "name": "Styleguide",
+        "public": true,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/STYLE"
+                }
+            ]
+        }
+    },
+    {
+        "key": "TARI",
+        "id": 854,
+        "name": "Tankkarten-Risikoliste",
+        "description": "Tankkarten-Risikoliste (Sofwarepark)",
+        "public": true,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/TARI"
+                }
+            ]
+        }
+    },
+    {
+        "key": "TEAM",
+        "id": 1384,
+        "name": "Teamcenter",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/TEAM"
+                }
+            ]
+        }
+    },
+    {
+        "key": "TAF",
+        "id": 46,
+        "name": "Test-Management",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/TAF"
+                }
+            ]
+        }
+    },
+    {
+        "key": "TXT",
+        "id": 109,
+        "name": "Textbausteine",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/TXT"
+                }
+            ]
+        }
+    },
+    {
+        "key": "TRABAB",
+        "id": 762,
+        "name": "TransportAbweichungenAbwickeln",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/TRABAB"
+                }
+            ]
+        }
+    },
+    {
+        "key": "TRAMON",
+        "id": 716,
+        "name": "TransporteMonitoren",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/TRAMON"
+                }
+            ]
+        }
+    },
+    {
+        "key": "TM",
+        "id": 440,
+        "name": "Transportmanagement",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/TM"
+                }
+            ]
+        }
+    },
+    {
+        "key": "TRAPGEM",
+        "id": 1349,
+        "name": "Transportpartner grunds\u00e4tzlich einsetzbar machen",
+        "description": "http://lkwconfluence.lkw-walter.com/pages/viewpage.action?pageId=170983498",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/TRAPGEM"
+                }
+            ]
+        }
+    },
+    {
+        "key": "TREPRO",
+        "id": 811,
+        "name": "TransportRessourcenstatusPrognostizieren",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/TREPRO"
+                }
+            ]
+        }
+    },
+    {
+        "key": "UEBBI",
+        "id": 723,
+        "name": "\u00dcbersicht bieten",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/UEBBI"
+                }
+            ]
+        }
+    },
+    {
+        "key": "UI",
+        "id": 445,
+        "name": "UI",
+        "public": true,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/UI"
+                }
+            ]
+        }
+    },
+    {
+        "key": "VMKT",
+        "id": 662,
+        "name": "VereinbarungenMitKundenTreffen",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                }
+            ]
+        }
+    },
+    {
+        "key": "VMTT",
+        "id": 1247,
+        "name": "VereinbarungenMitTransportpartnernTreffen",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/VMTT"
+                }
+            ]
+        }
+    },
+    {
+        "key": "WGCP",
+        "id": 805,
+        "name": "Walter Group Cloud Platform",
+        "description": "This project covers all topics related to the Walter Group Cloud Platform.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/WGCP"
+                }
+            ]
+        }
+    },
+    {
+        "key": "WAKONAH",
+        "id": 1104,
+        "name": "Walter Konzern und Nahestehend verwalten",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/WAKONAH"
+                }
+            ]
+        }
+    },
+    {
+        "key": "WIN",
+        "id": 168,
+        "name": "WIN",
+        "description": "Space f\u00fcr WIN Projekte",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+            "self": [
+                {
+                    "href": "http://lkwbitbucket.lkw-walter.com/projects/WIN"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,51 @@
+{
+    "size": 1,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "rundeck-jobs",
+            "id": 6389,
+            "name": "rundeck-jobs",
+            "hierarchyId": "1f227a6d5eec34d7452e",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "BENA",
+                "id": 883,
+                "name": "Benachrichtigen",
+                "description": "Projects of the UTIL Benachrichtigen sub-domain.",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/BENA"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/bena/rundeck-jobs.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/bena/rundeck-jobs.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/BENA/repos/rundeck-jobs/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

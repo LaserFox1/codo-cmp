@@ -1,0 +1,92 @@
+{
+    "size": 2,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "obsolete-bahnfaehreplaene-cmp",
+            "id": 3573,
+            "name": "obsolete-bahnFaehrePlaene-cmp",
+            "hierarchyId": "a466db0536041b1ab7df",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "INTRASI",
+                "id": 710,
+                "name": "Intermodale Transportleistungen sichern",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/INTRASI"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/intrasi/obsolete-bahnfaehreplaene-cmp.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/intrasi/obsolete-bahnfaehreplaene-cmp.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/INTRASI/repos/obsolete-bahnfaehreplaene-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "obsolete-bahnfaehreplaene-spa",
+            "id": 3574,
+            "name": "obsolete-bahnFaehrePlaene-spa",
+            "hierarchyId": "fb16de0f3ea81e8815af",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "INTRASI",
+                "id": 710,
+                "name": "Intermodale Transportleistungen sichern",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/INTRASI"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/intrasi/obsolete-bahnfaehreplaene-spa.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/intrasi/obsolete-bahnfaehreplaene-spa.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/INTRASI/repos/obsolete-bahnfaehreplaene-spa/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

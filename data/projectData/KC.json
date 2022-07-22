@@ -1,0 +1,50 @@
+{
+    "size": 1,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "streams-scaffold-api",
+            "id": 3996,
+            "name": "streams-scaffold-api",
+            "hierarchyId": "8cbac0fe9bf7f359b94e",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "KC",
+                "id": 563,
+                "name": "Kafka Commons",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/KC"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/kc/streams-scaffold-api.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/kc/streams-scaffold-api.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/KC/repos/streams-scaffold-api/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

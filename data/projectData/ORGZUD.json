@@ -1,0 +1,134 @@
+{
+    "size": 3,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "open-api-spezifikation",
+            "id": 5526,
+            "name": "open-api-spezifikation",
+            "hierarchyId": "c82c04e505cb0ba342bb",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "ORGZUD",
+                "id": 1024,
+                "name": "Organisatorische Zusammenarbeit definieren",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/ORGZUD"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/orgzud/open-api-spezifikation.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/orgzud/open-api-spezifikation.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/ORGZUD/repos/open-api-spezifikation/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "orgzud-aggregated-mitarbeiter-suche-indexer",
+            "id": 5648,
+            "name": "orgzud-aggregated-mitarbeiter-suche-indexer",
+            "hierarchyId": "32161546e54c08857e53",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "ORGZUD",
+                "id": 1024,
+                "name": "Organisatorische Zusammenarbeit definieren",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/ORGZUD"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/orgzud/orgzud-aggregated-mitarbeiter-suche-indexer.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/orgzud/orgzud-aggregated-mitarbeiter-suche-indexer.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/ORGZUD/repos/orgzud-aggregated-mitarbeiter-suche-indexer/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "orgzud-aggregated-mitarbeiter-suche-indexer-cmp",
+            "id": 5622,
+            "name": "orgzud-aggregated-mitarbeiter-suche-indexer-cmp",
+            "hierarchyId": "7b136d551dde22b5dfb8",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "ORGZUD",
+                "id": 1024,
+                "name": "Organisatorische Zusammenarbeit definieren",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/ORGZUD"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/orgzud/orgzud-aggregated-mitarbeiter-suche-indexer-cmp.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/orgzud/orgzud-aggregated-mitarbeiter-suche-indexer-cmp.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/ORGZUD/repos/orgzud-aggregated-mitarbeiter-suche-indexer-cmp/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

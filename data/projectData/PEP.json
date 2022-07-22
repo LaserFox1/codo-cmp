@@ -1,0 +1,1119 @@
+{
+    "size": 25,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "deprecated-phxsubdomain-example-lieferschein",
+            "id": 5493,
+            "name": "deprecated-phxsubdomain-example-lieferschein",
+            "description": "Migrated to -> http://lkwbitbucket.lkw-walter.com/projects/PEP/repos/knauser-example-lieferschein/browse",
+            "hierarchyId": "b6a794ac5ecc2f511aa6",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PEP",
+                "id": 867,
+                "name": "PHX Example Project",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/pep/deprecated-phxsubdomain-example-lieferschein.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/pep/deprecated-phxsubdomain-example-lieferschein.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP/repos/deprecated-phxsubdomain-example-lieferschein/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "knauser-example",
+            "id": 6555,
+            "name": "knauser-example",
+            "hierarchyId": "4040ecbae45b72d63452",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PEP",
+                "id": 867,
+                "name": "PHX Example Project",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/pep/knauser-example.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/pep/knauser-example.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP/repos/knauser-example/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "knauser-example-ctf-ui",
+            "id": 6579,
+            "name": "knauser-example-ctf-ui",
+            "description": "Automatically instantiated by spa-scaffold for compile-time-fragments",
+            "hierarchyId": "c4958aa41ec2c0710510",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PEP",
+                "id": 867,
+                "name": "PHX Example Project",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/pep/knauser-example-ctf-ui.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/pep/knauser-example-ctf-ui.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP/repos/knauser-example-ctf-ui/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "knauser-example-external-spa",
+            "id": 6580,
+            "name": "knauser-example-external-spa",
+            "description": "Automatically instantiated by spa-scaffold for external spa",
+            "hierarchyId": "32c24ee3a5cc20ad7e45",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PEP",
+                "id": 867,
+                "name": "PHX Example Project",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/pep/knauser-example-external-spa.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/pep/knauser-example-external-spa.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP/repos/knauser-example-external-spa/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "knauser-example-rtf-ui",
+            "id": 6650,
+            "name": "knauser-example-rtf-ui",
+            "description": "Automatically instantiated by spa-scaffold for compile-time-fragments",
+            "hierarchyId": "77212ce41672020f9a23",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PEP",
+                "id": 867,
+                "name": "PHX Example Project",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/pep/knauser-example-rtf-ui.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/pep/knauser-example-rtf-ui.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP/repos/knauser-example-rtf-ui/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "knauser-example-spa",
+            "id": 6578,
+            "name": "knauser-example-spa",
+            "description": "Automatically instantiated by spa-scaffold for internal spa",
+            "hierarchyId": "cef5f3f267b8eee111a7",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PEP",
+                "id": 867,
+                "name": "PHX Example Project",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/pep/knauser-example-spa.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/pep/knauser-example-spa.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP/repos/knauser-example-spa/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "knauser-example-spring-fe-cmp",
+            "id": 6634,
+            "name": "knauser-example-spring-fe-cmp",
+            "description": "Automatically instantiated by spring-scaffold for fe-cmp",
+            "hierarchyId": "4d2ead6fa37670c4e728",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PEP",
+                "id": 867,
+                "name": "PHX Example Project",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/pep/knauser-example-spring-fe-cmp.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/pep/knauser-example-spring-fe-cmp.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP/repos/knauser-example-spring-fe-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "knauser-example-stream",
+            "id": 6635,
+            "name": "knauser-example-stream",
+            "description": "Automatically instantiated by spring-scaffold for streams",
+            "hierarchyId": "baca6995b36ec1bfeaf7",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PEP",
+                "id": 867,
+                "name": "PHX Example Project",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/pep/knauser-example-stream.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/pep/knauser-example-stream.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP/repos/knauser-example-stream/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "knauser-example-wildfly-fe-cmp",
+            "id": 6551,
+            "name": "knauser-example-wildfly-fe-cmp",
+            "hierarchyId": "21ddd63d5b55c81e0f78",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PEP",
+                "id": 867,
+                "name": "PHX Example Project",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/pep/knauser-example-wildfly-fe-cmp.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/pep/knauser-example-wildfly-fe-cmp.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP/repos/knauser-example-wildfly-fe-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "knauser-example-wiremock",
+            "id": 6827,
+            "name": "knauser-example-wiremock",
+            "description": "Branches auto-generated by builds from http://lkwbitbucket.lkw-walter.com/projects/JECO/repos/wiremock-scaffold/browse",
+            "hierarchyId": "81a207b8ae6535ebcb6d",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PEP",
+                "id": 867,
+                "name": "PHX Example Project",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/pep/knauser-example-wiremock.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/pep/knauser-example-wiremock.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP/repos/knauser-example-wiremock/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "obsolete-phxsubdomain-example-ctf-ui",
+            "id": 6368,
+            "name": "obsolete-phxsubdomain-example-ctf-ui",
+            "hierarchyId": "c6d14a695cf324c4d1a3",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PEP",
+                "id": 867,
+                "name": "PHX Example Project",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/pep/obsolete-phxsubdomain-example-ctf-ui.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/pep/obsolete-phxsubdomain-example-ctf-ui.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP/repos/obsolete-phxsubdomain-example-ctf-ui/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "phx-example-go-app",
+            "id": 5351,
+            "name": "phx-example-go-app",
+            "description": "Simple example application written in go and delivered via kubernetes container image",
+            "hierarchyId": "630d2930e970f1d90092",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PEP",
+                "id": 867,
+                "name": "PHX Example Project",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/pep/phx-example-go-app.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/pep/phx-example-go-app.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP/repos/phx-example-go-app/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "phx-projects-seed",
+            "id": 4990,
+            "name": "phx-projects-seed",
+            "description": "Repo containing the Jenkins job and JSON file for seeding PHX jenkins projects",
+            "hierarchyId": "2e86147b0301d4ce29e5",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PEP",
+                "id": 867,
+                "name": "PHX Example Project",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/pep/phx-projects-seed.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/pep/phx-projects-seed.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP/repos/phx-projects-seed/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "phxsubdomain-example-db-cleanup-cronjob",
+            "id": 5494,
+            "name": "phxsubdomain-example-db-cleanup-cronjob",
+            "hierarchyId": "5c3d3a02b62977f7077d",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PEP",
+                "id": 867,
+                "name": "PHX Example Project",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/pep/phxsubdomain-example-db-cleanup-cronjob.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/pep/phxsubdomain-example-db-cleanup-cronjob.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP/repos/phxsubdomain-example-db-cleanup-cronjob/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "phxsubdomain-example-external-spa",
+            "id": 6048,
+            "name": "phxsubdomain-example-external-spa",
+            "hierarchyId": "b8b4f93626732074056b",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PEP",
+                "id": 867,
+                "name": "PHX Example Project",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/pep/phxsubdomain-example-external-spa.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/pep/phxsubdomain-example-external-spa.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP/repos/phxsubdomain-example-external-spa/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "phxsubdomain-example-npm-library",
+            "id": 5746,
+            "name": "phxsubdomain-example-npm-library",
+            "description": "Example Project instantiated by npm-library-scaffold",
+            "hierarchyId": "e51014cbac2f8f867f9f",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PEP",
+                "id": 867,
+                "name": "PHX Example Project",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/pep/phxsubdomain-example-npm-library.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/pep/phxsubdomain-example-npm-library.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP/repos/phxsubdomain-example-npm-library/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "phxsubdomain-example-rtf-ui",
+            "id": 6369,
+            "name": "phxsubdomain-example-rtf-ui",
+            "hierarchyId": "211ee05f3ab14be6ac0f",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PEP",
+                "id": 867,
+                "name": "PHX Example Project",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/pep/phxsubdomain-example-rtf-ui.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/pep/phxsubdomain-example-rtf-ui.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP/repos/phxsubdomain-example-rtf-ui/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "phxsubdomain-example-spa",
+            "id": 5489,
+            "name": "phxsubdomain-example-spa",
+            "description": "Automatically instantiated by spa-scaffold",
+            "hierarchyId": "5c99c1eb21f1648ee127",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PEP",
+                "id": 867,
+                "name": "PHX Example Project",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/pep/phxsubdomain-example-spa.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/pep/phxsubdomain-example-spa.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP/repos/phxsubdomain-example-spa/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "phxsubdomain-example-spring-fe-cmp",
+            "id": 5491,
+            "name": "phxsubdomain-example-spring-fe-cmp",
+            "description": "Automatically instantiated by spring-boot-scaffold",
+            "hierarchyId": "cd4a3f87be66f2d022c0",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PEP",
+                "id": 867,
+                "name": "PHX Example Project",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/pep/phxsubdomain-example-spring-fe-cmp.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/pep/phxsubdomain-example-spring-fe-cmp.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP/repos/phxsubdomain-example-spring-fe-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "phxsubdomain-example-spring-fe-cmp-openapi",
+            "id": 6351,
+            "name": "phxsubdomain-example-spring-fe-cmp-openapi",
+            "description": "The shared openapi artefact for phxsubdomain-example-spring-fe-cmp",
+            "hierarchyId": "c26e0368f25f7d344ede",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PEP",
+                "id": 867,
+                "name": "PHX Example Project",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/pep/phxsubdomain-example-spring-fe-cmp-openapi.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/pep/phxsubdomain-example-spring-fe-cmp-openapi.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP/repos/phxsubdomain-example-spring-fe-cmp-openapi/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "phxsubdomain-example-stream",
+            "id": 5490,
+            "name": "phxsubdomain-example-stream",
+            "description": "Automatically instantiated by streams-scaffold",
+            "hierarchyId": "c13ee695b9254a7fcdcd",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PEP",
+                "id": 867,
+                "name": "PHX Example Project",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/pep/phxsubdomain-example-stream.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/pep/phxsubdomain-example-stream.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP/repos/phxsubdomain-example-stream/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "phxsubdomain-example-wildfly-fe-cmp",
+            "id": 5492,
+            "name": "phxsubdomain-example-wildfly-fe-cmp",
+            "description": "Automatically instantiated by wildfly-scaffold",
+            "hierarchyId": "5db50faf072597bbea71",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PEP",
+                "id": 867,
+                "name": "PHX Example Project",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/pep/phxsubdomain-example-wildfly-fe-cmp.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/pep/phxsubdomain-example-wildfly-fe-cmp.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP/repos/phxsubdomain-example-wildfly-fe-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "phxsubdomain-example-wiremock",
+            "id": 6237,
+            "name": "phxsubdomain-example-wiremock",
+            "hierarchyId": "e882bed93c6c0335e179",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PEP",
+                "id": 867,
+                "name": "PHX Example Project",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/pep/phxsubdomain-example-wiremock.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/pep/phxsubdomain-example-wiremock.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP/repos/phxsubdomain-example-wiremock/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "tkn-demo-go-bb",
+            "id": 6678,
+            "name": "tkn-demo-go-bb",
+            "description": "Testing/Demoing Tekton Pipeline Runs on the Playground Kubernetes Cluster",
+            "hierarchyId": "b8274a7d7d327492db92",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PEP",
+                "id": 867,
+                "name": "PHX Example Project",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/pep/tkn-demo-go-bb.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/pep/tkn-demo-go-bb.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP/repos/tkn-demo-go-bb/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "tkn-knauser-example-spring-fe-cmp",
+            "id": 6734,
+            "name": "tkn-knauser-example-spring-fe-cmp",
+            "description": "Automatically instantiated by spring-boot-scaffold",
+            "hierarchyId": "cd4a3f87be66f2d022c0",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "origin": {
+                "slug": "phxsubdomain-example-spring-fe-cmp",
+                "id": 5491,
+                "name": "phxsubdomain-example-spring-fe-cmp",
+                "description": "Automatically instantiated by spring-boot-scaffold",
+                "hierarchyId": "cd4a3f87be66f2d022c0",
+                "scmId": "git",
+                "state": "AVAILABLE",
+                "statusMessage": "Available",
+                "forkable": true,
+                "project": {
+                    "key": "PEP",
+                    "id": 867,
+                    "name": "PHX Example Project",
+                    "public": true,
+                    "type": "NORMAL",
+                    "links": {
+                        "self": [
+                            {
+                                "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP"
+                            }
+                        ]
+                    }
+                },
+                "public": false,
+                "links": {
+                    "clone": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/scm/pep/phxsubdomain-example-spring-fe-cmp.git",
+                            "name": "http"
+                        },
+                        {
+                            "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/pep/phxsubdomain-example-spring-fe-cmp.git",
+                            "name": "ssh"
+                        }
+                    ],
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP/repos/phxsubdomain-example-spring-fe-cmp/browse"
+                        }
+                    ]
+                }
+            },
+            "project": {
+                "key": "PEP",
+                "id": 867,
+                "name": "PHX Example Project",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/pep/tkn-knauser-example-spring-fe-cmp.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/pep/tkn-knauser-example-spring-fe-cmp.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PEP/repos/tkn-knauser-example-spring-fe-cmp/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

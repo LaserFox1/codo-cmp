@@ -25,6 +25,8 @@ ENV BUILD_COMMAND="mvn --batch-mode --no-transfer-progress -Psonar-coverage $REP
                        || echo 'FAILED'  > target/build-result.txt"
 RUN echo "$BUILD_COMMAND" && eval "$BUILD_COMMAND"
 
+EXPOSE 8090
+
 # -------------------------------------------------------------------------------------------------------------
 FROM registry.artifactory.prod.lkw-walter.com/basis/spring-boot-basis:1.0.5
 

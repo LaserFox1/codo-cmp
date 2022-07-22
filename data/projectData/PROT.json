@@ -1,0 +1,1827 @@
+{
+    "size": 43,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "electronjs-example",
+            "id": 4060,
+            "name": "electronjs-example",
+            "hierarchyId": "c77e75d53433c8931f02",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/electronjs-example.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/electronjs-example.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/electronjs-example/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "fadaba-api-usage-api",
+            "id": 6738,
+            "name": "fadaba-api-usage-api",
+            "hierarchyId": "fcfa4bd840f82f24308f",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/fadaba-api-usage-api.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/fadaba-api-usage-api.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/fadaba-api-usage-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "fadaba-api-usage-cmp",
+            "id": 6698,
+            "name": "fadaba-api-usage-cmp",
+            "description": "api-usage-cmp for measuring and reporting calls to Kong API Gateway",
+            "hierarchyId": "5846a9a068fea2d22644",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/fadaba-api-usage-cmp.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/fadaba-api-usage-cmp.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/fadaba-api-usage-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "fadaba-api-usage-lieferschein",
+            "id": 6735,
+            "name": "fadaba-api-usage-lieferschein",
+            "hierarchyId": "fd3055c630215a150675",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/fadaba-api-usage-lieferschein.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/fadaba-api-usage-lieferschein.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/fadaba-api-usage-lieferschein/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "fadaba-api-usage-stream",
+            "id": 6769,
+            "name": "fadaba-api-usage-stream",
+            "hierarchyId": "e08e264032835bb9cb86",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/fadaba-api-usage-stream.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/fadaba-api-usage-stream.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/fadaba-api-usage-stream/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "fadaba-duplicate-detector-cmp",
+            "id": 6516,
+            "name": "fadaba-duplicate-detector-cmp",
+            "description": "Komponente zum Messen der Duplikate in Kafka Topics",
+            "hierarchyId": "6aae300df559885b3468",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/fadaba-duplicate-detector-cmp.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/fadaba-duplicate-detector-cmp.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/fadaba-duplicate-detector-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "fadaba-duplicate-detector-lieferschein",
+            "id": 6541,
+            "name": "fadaba-duplicate-detector-lieferschein",
+            "hierarchyId": "73eb062ac8b5b6e8ea92",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/fadaba-duplicate-detector-lieferschein.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/fadaba-duplicate-detector-lieferschein.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/fadaba-duplicate-detector-lieferschein/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "ferry-prototype",
+            "id": 4466,
+            "name": "ferry-prototype",
+            "hierarchyId": "37cbedfb0d48cdd8f646",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/ferry-prototype.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/ferry-prototype.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/ferry-prototype/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "gps-visualization",
+            "id": 5246,
+            "name": "gps-visualization",
+            "description": "web application that shows the current gps location of the trucks/trailers",
+            "hierarchyId": "93ea998809a1ce9da062",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/gps-visualization.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/gps-visualization.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/gps-visualization/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "graphql_101_presentation",
+            "id": 4754,
+            "name": "GraphQL_101_Presentation",
+            "hierarchyId": "065ff34da2268a01a2e9",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/graphql_101_presentation.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/graphql_101_presentation.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/graphql_101_presentation/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "graphql-api",
+            "id": 4711,
+            "name": "graphql-api",
+            "hierarchyId": "75f71775aa9ca8b5b08a",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/graphql-api.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/graphql-api.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/graphql-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "hyp-gbverzollung-api",
+            "id": 6314,
+            "name": "hyp-gbverzollung-api",
+            "description": "API-Project for hyp-gbverzollung",
+            "hierarchyId": "b8e646702f7684e5d53b",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/hyp-gbverzollung-api.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/hyp-gbverzollung-api.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/hyp-gbverzollung-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "hyp-gbverzollung-cmp",
+            "id": 6243,
+            "name": "hyp-gbverzollung-cmp",
+            "hierarchyId": "fd42139d8eb05b55326b",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/hyp-gbverzollung-cmp.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/hyp-gbverzollung-cmp.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/hyp-gbverzollung-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "hyp-gbverzollung-fe-cmp",
+            "id": 6262,
+            "name": "hyp-gbverzollung-fe-cmp",
+            "description": "fe-cmp for hyp-gbverzollung",
+            "hierarchyId": "0edcd90983fff930c03c",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/hyp-gbverzollung-fe-cmp.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/hyp-gbverzollung-fe-cmp.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/hyp-gbverzollung-fe-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "hyp-gbverzollung-lieferschein",
+            "id": 6245,
+            "name": "hyp-gbverzollung-lieferschein",
+            "description": "LS for hyp-gbverzollung (spa, fe-cmp, cmp, ...)",
+            "hierarchyId": "c491aee2368e2b8e09a9",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/hyp-gbverzollung-lieferschein.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/hyp-gbverzollung-lieferschein.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/hyp-gbverzollung-lieferschein/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "hyp-gbverzollung-spa",
+            "id": 6241,
+            "name": "hyp-gbverzollung-spa",
+            "hierarchyId": "e27ebdc0b610cc8b02c8",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/hyp-gbverzollung-spa.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/hyp-gbverzollung-spa.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/hyp-gbverzollung-spa/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "hyp-gbverzollung-stream",
+            "id": 6284,
+            "name": "hyp-gbverzollung-stream",
+            "description": "stream-application for hyp-gbverzollung",
+            "hierarchyId": "7da8cb5437c08ec5506a",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/hyp-gbverzollung-stream.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/hyp-gbverzollung-stream.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/hyp-gbverzollung-stream/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "kafka-consumer-trapla",
+            "id": 4776,
+            "name": "Kafka Consumer Trapla",
+            "hierarchyId": "f663d851b2a454b98926",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/kafka-consumer-trapla.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/kafka-consumer-trapla.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/kafka-consumer-trapla/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "kafka_consumer_lasi",
+            "id": 4769,
+            "name": "Kafka_Consumer_LASI",
+            "hierarchyId": "71861ed4ab2e8c97f825",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/kafka_consumer_lasi.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/kafka_consumer_lasi.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/kafka_consumer_lasi/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lasi-prototype",
+            "id": 4928,
+            "name": "LASI-Prototype",
+            "hierarchyId": "6ad3b151d6e32189e8d3",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/lasi-prototype.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/lasi-prototype.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/lasi-prototype/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "nginx-proxy-manager",
+            "id": 4741,
+            "name": "NGINX-Proxy-Manager",
+            "hierarchyId": "7d48427386f19e379d5d",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/nginx-proxy-manager.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/nginx-proxy-manager.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/nginx-proxy-manager/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "proto-messenger",
+            "id": 4135,
+            "name": "proto-messenger",
+            "hierarchyId": "beda869cd464ecaeb47f",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/proto-messenger.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/proto-messenger.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/proto-messenger/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "proto-messenger-web",
+            "id": 4381,
+            "name": "proto-messenger-web",
+            "hierarchyId": "a1aa11e40c5532629f84",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/proto-messenger-web.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/proto-messenger-web.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/proto-messenger-web/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "prototyping-component-library",
+            "id": 4614,
+            "name": "Prototyping-Component-Library",
+            "hierarchyId": "92db2c042d2e15fc0562",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/prototyping-component-library.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/prototyping-component-library.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/prototyping-component-library/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "prototyping-ui",
+            "id": 4679,
+            "name": "Prototyping-UI",
+            "hierarchyId": "8f433a92ff658e2cf0c6",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/prototyping-ui.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/prototyping-ui.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/prototyping-ui/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "pty-dynpricing-lieferschein",
+            "id": 6005,
+            "name": "pty-dynpricing-lieferschein",
+            "hierarchyId": "fcd32aa8a88af8868a5d",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/pty-dynpricing-lieferschein.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/pty-dynpricing-lieferschein.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/pty-dynpricing-lieferschein/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "pty-dynpricing-spa",
+            "id": 6002,
+            "name": "pty-dynpricing-spa",
+            "hierarchyId": "af193c8f63b2c0b887d5",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/pty-dynpricing-spa.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/pty-dynpricing-spa.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/pty-dynpricing-spa/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "pty-projects-seed",
+            "id": 5695,
+            "name": "pty-projects-seed",
+            "description": "Repo containing the Jenkins job and JSON file for seeding Prototyping jenkins projects",
+            "hierarchyId": "4a0569d9313f5a9ae8dd",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/pty-projects-seed.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/pty-projects-seed.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/pty-projects-seed/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "routenvergleich",
+            "id": 5815,
+            "name": "Routenvergleich",
+            "hierarchyId": "cc63a0ac6b63d561fc3d",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/routenvergleich.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/routenvergleich.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/routenvergleich/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "routenvergleich-lieferschein",
+            "id": 5817,
+            "name": "Routenvergleich-lieferschein",
+            "hierarchyId": "9ec8637ede891f9df49a",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/routenvergleich-lieferschein.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/routenvergleich-lieferschein.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/routenvergleich-lieferschein/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "sandbox",
+            "id": 6865,
+            "name": "Sandbox",
+            "description": "Sandbox Repository f\u00fcr Try-Outs, Praktikanten usw",
+            "hierarchyId": "eddbf3b382b106408434",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/sandbox.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/sandbox.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/sandbox/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "soquasi-validationerror-api",
+            "id": 6785,
+            "name": "soquasi-validationerror-api",
+            "hierarchyId": "d37625849b872672d1f0",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/soquasi-validationerror-api.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/soquasi-validationerror-api.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/soquasi-validationerror-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "soquasi-validationerror-fe-cmp",
+            "id": 6774,
+            "name": "soquasi-validationerror-fe-cmp",
+            "hierarchyId": "4f40921eaa4589607213",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/soquasi-validationerror-fe-cmp.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/soquasi-validationerror-fe-cmp.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/soquasi-validationerror-fe-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "soquasi-validationerror-lieferschein",
+            "id": 6775,
+            "name": "soquasi-validationerror-lieferschein",
+            "hierarchyId": "a8d3c8f3db2d1b353cbc",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/soquasi-validationerror-lieferschein.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/soquasi-validationerror-lieferschein.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/soquasi-validationerror-lieferschein/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "soquasi-validationerror-spa",
+            "id": 6783,
+            "name": "soquasi-validationerror-spa",
+            "hierarchyId": "8473484378bc563e43a3",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/soquasi-validationerror-spa.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/soquasi-validationerror-spa.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/soquasi-validationerror-spa/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "soquasi-validationerror-stream",
+            "id": 6782,
+            "name": "soquasi-validationerror-stream",
+            "hierarchyId": "8089f95b474be6e2168d",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/soquasi-validationerror-stream.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/soquasi-validationerror-stream.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/soquasi-validationerror-stream/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "swaggerhubsync",
+            "id": 6504,
+            "name": "SwaggerHubSync",
+            "hierarchyId": "441027836e47c920e3f5",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/swaggerhubsync.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/swaggerhubsync.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/swaggerhubsync/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "test-fuzvest-fuhrpark-lieferschein",
+            "id": 6792,
+            "name": "TEST-fuzvest-fuhrpark-lieferschein",
+            "description": "Tempor\u00e4res LS Repo zum Testen des Fuhrpark Deployments",
+            "hierarchyId": "d96a901a1368f2caadb0",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/test-fuzvest-fuhrpark-lieferschein.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/test-fuzvest-fuhrpark-lieferschein.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/test-fuzvest-fuhrpark-lieferschein/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "timetracking-lieferschein",
+            "id": 6087,
+            "name": "timetracking-lieferschein",
+            "description": "LS for Timetracking",
+            "hierarchyId": "c49180f1e3473128d2fe",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/timetracking-lieferschein.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/timetracking-lieferschein.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/timetracking-lieferschein/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "ttm-kpi-jira-app",
+            "id": 6216,
+            "name": "ttm-kpi-jira-app",
+            "hierarchyId": "e0448283aa46bd73d3c5",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/ttm-kpi-jira-app.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/ttm-kpi-jira-app.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/ttm-kpi-jira-app/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "ttm-kpi-jira-app-lieferschein",
+            "id": 6234,
+            "name": "ttm-kpi-jira-app-lieferschein",
+            "hierarchyId": "cfd4d63352581da40555",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/ttm-kpi-jira-app-lieferschein.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/ttm-kpi-jira-app-lieferschein.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/ttm-kpi-jira-app-lieferschein/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "util-swaggerhub-sync-cmp",
+            "id": 6488,
+            "name": "util-swaggerhub-sync-cmp",
+            "description": "SpringBoot application that provides a service endpoint for swaggerhub webhooks",
+            "hierarchyId": "1ca154679ba975fe82d8",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/util-swaggerhub-sync-cmp.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/util-swaggerhub-sync-cmp.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/util-swaggerhub-sync-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "util-swaggerhub-sync-lieferschein",
+            "id": 6610,
+            "name": "util-swaggerhub-sync-lieferschein",
+            "description": "Lieferschein-Projekt f\u00fcr swaggerhub-sync",
+            "hierarchyId": "050b0df6c32dfbd529b0",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PROT",
+                "id": 795,
+                "name": "Prototyping",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/prot/util-swaggerhub-sync-lieferschein.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/prot/util-swaggerhub-sync-lieferschein.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PROT/repos/util-swaggerhub-sync-lieferschein/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

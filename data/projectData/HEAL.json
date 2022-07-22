@@ -1,0 +1,50 @@
+{
+    "size": 1,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "net-healthcheck",
+            "id": 2966,
+            "name": "NET Healthcheck",
+            "hierarchyId": "51fdddd1df8c1717cc32",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "HEAL",
+                "id": 575,
+                "name": "Healthcheck",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/HEAL"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/heal/net-healthcheck.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/heal/net-healthcheck.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/HEAL/repos/net-healthcheck/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

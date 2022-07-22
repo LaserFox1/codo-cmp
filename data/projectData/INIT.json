@@ -1,0 +1,52 @@
+{
+    "size": 1,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "ssl-init-container",
+            "id": 4550,
+            "name": "ssl-init-container",
+            "description": "Prepare Kubernetes POD for SSL Communication",
+            "hierarchyId": "76d14e4764599652070a",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "INIT",
+                "id": 853,
+                "name": "Init Containers",
+                "description": "Project for Kubernetes Init Container Images",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/INIT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/init/ssl-init-container.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/init/ssl-init-container.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/INIT/repos/ssl-init-container/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

@@ -1,0 +1,50 @@
+{
+    "size": 1,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "obsolete-lieferschein-deployment-trapla-be",
+            "id": 3418,
+            "name": "obsolete-lieferschein-deployment-trapla-be",
+            "hierarchyId": "5e0d62a8b2443eee6f7d",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "TM",
+                "id": 440,
+                "name": "Transportmanagement",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/TM"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/tm/obsolete-lieferschein-deployment-trapla-be.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/tm/obsolete-lieferschein-deployment-trapla-be.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/TM/repos/obsolete-lieferschein-deployment-trapla-be/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

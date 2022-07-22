@@ -1,0 +1,134 @@
+{
+    "size": 3,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "legacy-sw2000-tap-suche",
+            "id": 5573,
+            "name": "legacy-sw2000-tap-suche",
+            "hierarchyId": "b8786e68268cb639c88c",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "LS2000",
+                "id": 1044,
+                "name": "Legacy SW2000",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/LS2000"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/ls2000/legacy-sw2000-tap-suche.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/ls2000/legacy-sw2000-tap-suche.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/LS2000/repos/legacy-sw2000-tap-suche/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "legacy-sw2000-tap-suche-indexer",
+            "id": 5709,
+            "name": "legacy-sw2000-tap-suche-indexer",
+            "hierarchyId": "172b54648c3a5ecd607a",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "LS2000",
+                "id": 1044,
+                "name": "Legacy SW2000",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/LS2000"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/ls2000/legacy-sw2000-tap-suche-indexer.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/ls2000/legacy-sw2000-tap-suche-indexer.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/LS2000/repos/legacy-sw2000-tap-suche-indexer/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "legacy-sw2000-tap-suche-indexer-cmp",
+            "id": 5692,
+            "name": "legacy-sw2000-tap-suche-indexer-cmp",
+            "hierarchyId": "d2540740073b20a9de69",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "LS2000",
+                "id": 1044,
+                "name": "Legacy SW2000",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/LS2000"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/ls2000/legacy-sw2000-tap-suche-indexer-cmp.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/ls2000/legacy-sw2000-tap-suche-indexer-cmp.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/LS2000/repos/legacy-sw2000-tap-suche-indexer-cmp/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

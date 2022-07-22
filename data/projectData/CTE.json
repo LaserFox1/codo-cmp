@@ -1,0 +1,51 @@
+{
+    "size": 1,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "contexture-rundeck-integration",
+            "id": 5607,
+            "name": "contexture-rundeck-integration",
+            "description": "Scripts to integrate rundeck delivery information into contexture bounded contexts",
+            "hierarchyId": "6ab0fc101f08fe783ae1",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CTE",
+                "id": 1045,
+                "name": "Contexture",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CTE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cte/contexture-rundeck-integration.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cte/contexture-rundeck-integration.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CTE/repos/contexture-rundeck-integration/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

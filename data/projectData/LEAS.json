@@ -1,0 +1,50 @@
+{
+    "size": 1,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "leasingbordero",
+            "id": 6283,
+            "name": "LeasingBordero",
+            "hierarchyId": "9e2bf709350a96942184",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "LEAS",
+                "id": 1245,
+                "name": "LeasingBordero",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/LEAS"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/leas/leasingbordero.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/leas/leasingbordero.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/LEAS/repos/leasingbordero/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

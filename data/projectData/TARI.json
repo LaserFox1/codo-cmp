@@ -1,0 +1,95 @@
+{
+    "size": 2,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "tankkarten-risikoliste",
+            "id": 4594,
+            "name": "tankkarten-risikoliste",
+            "hierarchyId": "3589c58fdaf9934d86f7",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "TARI",
+                "id": 854,
+                "name": "Tankkarten-Risikoliste",
+                "description": "Tankkarten-Risikoliste (Sofwarepark)",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/TARI"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/tari/tankkarten-risikoliste.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/tari/tankkarten-risikoliste.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/TARI/repos/tankkarten-risikoliste/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "tankkarten-verwaltung",
+            "id": 6642,
+            "name": "tankkarten-verwaltung",
+            "description": "Die Verwaltungs-Applikation f\u00fcr die Tank- und Mautkarten von LKW WALTER soll die bestehende PC-Applikation \"Tankkarten\" abl\u00f6sen.",
+            "hierarchyId": "7153a4e03eb4ae7500c5",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "TARI",
+                "id": 854,
+                "name": "Tankkarten-Risikoliste",
+                "description": "Tankkarten-Risikoliste (Sofwarepark)",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/TARI"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/tari/tankkarten-verwaltung.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/tari/tankkarten-verwaltung.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/TARI/repos/tankkarten-verwaltung/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

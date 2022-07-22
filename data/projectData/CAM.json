@@ -1,0 +1,51 @@
+{
+    "size": 1,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "camconfig",
+            "id": 31,
+            "name": "CamConfig",
+            "hierarchyId": "3eee5a2077ae816fca6d",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CAM",
+                "id": 55,
+                "name": "Credit Application Manager",
+                "description": "Bonit\u00e4tssoftware f\u00fcr WALTER-GROUP",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CAM"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cam/camconfig.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cam/camconfig.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CAM/repos/camconfig/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

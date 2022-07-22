@@ -1,0 +1,747 @@
+{
+    "size": 17,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "anecon-jenkins-slave",
+            "id": 2264,
+            "name": "anecon-jenkins-slave",
+            "hierarchyId": "e7539bea1e40ba7abcef",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "JECO",
+                "id": 330,
+                "name": "Jenkins Commons",
+                "description": "Docker Images f\u00fcr Kubernetes Jenkins Master und Slaves",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/jeco/anecon-jenkins-slave.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/jeco/anecon-jenkins-slave.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO/repos/anecon-jenkins-slave/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "ansible-jenkins-slave",
+            "id": 2213,
+            "name": "ansible-jenkins-slave",
+            "hierarchyId": "f91059e007e0585651a5",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "JECO",
+                "id": 330,
+                "name": "Jenkins Commons",
+                "description": "Docker Images f\u00fcr Kubernetes Jenkins Master und Slaves",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/jeco/ansible-jenkins-slave.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/jeco/ansible-jenkins-slave.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO/repos/ansible-jenkins-slave/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "be-jenkins-slave",
+            "id": 2361,
+            "name": "be-jenkins-slave",
+            "hierarchyId": "7b7dc013d47138b4f78b",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "JECO",
+                "id": 330,
+                "name": "Jenkins Commons",
+                "description": "Docker Images f\u00fcr Kubernetes Jenkins Master und Slaves",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/jeco/be-jenkins-slave.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/jeco/be-jenkins-slave.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO/repos/be-jenkins-slave/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "bluegreen",
+            "id": 2951,
+            "name": "BlueGreen",
+            "hierarchyId": "aa55307c40c0b33ee3df",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "JECO",
+                "id": 330,
+                "name": "Jenkins Commons",
+                "description": "Docker Images f\u00fcr Kubernetes Jenkins Master und Slaves",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/jeco/bluegreen.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/jeco/bluegreen.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO/repos/bluegreen/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "chromium-jenkins-slave",
+            "id": 3274,
+            "name": "chromium-jenkins-slave",
+            "hierarchyId": "95db43cc67aa1c31a9b9",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "JECO",
+                "id": 330,
+                "name": "Jenkins Commons",
+                "description": "Docker Images f\u00fcr Kubernetes Jenkins Master und Slaves",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/jeco/chromium-jenkins-slave.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/jeco/chromium-jenkins-slave.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO/repos/chromium-jenkins-slave/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "jenkins-bootstrap",
+            "id": 4719,
+            "name": "jenkins-bootstrap",
+            "description": "LKW Walter Jenkins bootstrap repo for building PHX Supported Jenkins Version and helm chart",
+            "hierarchyId": "e330e797b9d73e4c349d",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "JECO",
+                "id": 330,
+                "name": "Jenkins Commons",
+                "description": "Docker Images f\u00fcr Kubernetes Jenkins Master und Slaves",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/jeco/jenkins-bootstrap.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/jeco/jenkins-bootstrap.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO/repos/jenkins-bootstrap/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "jenkins-master",
+            "id": 2642,
+            "name": "jenkins-master",
+            "hierarchyId": "4447d3bac6d740c5c571",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "JECO",
+                "id": 330,
+                "name": "Jenkins Commons",
+                "description": "Docker Images f\u00fcr Kubernetes Jenkins Master und Slaves",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/jeco/jenkins-master.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/jeco/jenkins-master.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO/repos/jenkins-master/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "jenkins-pipeline-library",
+            "id": 2831,
+            "name": "jenkins-pipeline-library",
+            "hierarchyId": "1b6f489c25ff634f97f5",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "JECO",
+                "id": 330,
+                "name": "Jenkins Commons",
+                "description": "Docker Images f\u00fcr Kubernetes Jenkins Master und Slaves",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/jeco/jenkins-pipeline-library.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/jeco/jenkins-pipeline-library.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO/repos/jenkins-pipeline-library/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "la-jenkins-seed",
+            "id": 3856,
+            "name": "la-jenkins-seed",
+            "hierarchyId": "5ec04c924a30b6371217",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "JECO",
+                "id": 330,
+                "name": "Jenkins Commons",
+                "description": "Docker Images f\u00fcr Kubernetes Jenkins Master und Slaves",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/jeco/la-jenkins-seed.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/jeco/la-jenkins-seed.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO/repos/la-jenkins-seed/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-scaffold",
+            "id": 3670,
+            "name": "lieferschein-scaffold",
+            "hierarchyId": "ae9df6653c4b863ba87a",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "JECO",
+                "id": 330,
+                "name": "Jenkins Commons",
+                "description": "Docker Images f\u00fcr Kubernetes Jenkins Master und Slaves",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/jeco/lieferschein-scaffold.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/jeco/lieferschein-scaffold.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO/repos/lieferschein-scaffold/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "npm-library-scaffold",
+            "id": 5743,
+            "name": "npm-library-scaffold",
+            "description": "Produces a build job for a basic npm project like a library that is not deployable by itself.",
+            "hierarchyId": "a7b0fb46111fa6506ef3",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "JECO",
+                "id": 330,
+                "name": "Jenkins Commons",
+                "description": "Docker Images f\u00fcr Kubernetes Jenkins Master und Slaves",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/jeco/npm-library-scaffold.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/jeco/npm-library-scaffold.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO/repos/npm-library-scaffold/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "obsolete-spring-boot-scaffold",
+            "id": 4922,
+            "name": "OBSOLETE-spring-boot-scaffold",
+            "description": "New Scaffold under http://lkwbitbucket.lkw-walter.com/scm/sap/generator-springboot-lkww.git",
+            "hierarchyId": "5611eea3ed10026dcdcb",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "JECO",
+                "id": 330,
+                "name": "Jenkins Commons",
+                "description": "Docker Images f\u00fcr Kubernetes Jenkins Master und Slaves",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/jeco/obsolete-spring-boot-scaffold.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/jeco/obsolete-spring-boot-scaffold.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO/repos/obsolete-spring-boot-scaffold/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "obsolete-streams-scaffold",
+            "id": 3671,
+            "name": "OBSOLETE-streams-scaffold",
+            "description": "New Scaffold under http://lkwbitbucket.lkw-walter.com/scm/sap/generator-springboot-lkww.git",
+            "hierarchyId": "17ee379ff7dc9d28b005",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "JECO",
+                "id": 330,
+                "name": "Jenkins Commons",
+                "description": "Docker Images f\u00fcr Kubernetes Jenkins Master und Slaves",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/jeco/obsolete-streams-scaffold.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/jeco/obsolete-streams-scaffold.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO/repos/obsolete-streams-scaffold/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "obsolete-wildfly-scaffold",
+            "id": 3537,
+            "name": "OBSOLETE-wildfly-scaffold",
+            "description": "Development discontinued",
+            "hierarchyId": "43c0945b2583c6447e25",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "JECO",
+                "id": 330,
+                "name": "Jenkins Commons",
+                "description": "Docker Images f\u00fcr Kubernetes Jenkins Master und Slaves",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/jeco/obsolete-wildfly-scaffold.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/jeco/obsolete-wildfly-scaffold.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO/repos/obsolete-wildfly-scaffold/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "sonarqubeinstall",
+            "id": 4149,
+            "name": "SonarQubeInstall",
+            "description": "SonarQube Installation and Configuration Repository",
+            "hierarchyId": "58f6506a340c05dd5dc7",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "JECO",
+                "id": 330,
+                "name": "Jenkins Commons",
+                "description": "Docker Images f\u00fcr Kubernetes Jenkins Master und Slaves",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/jeco/sonarqubeinstall.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/jeco/sonarqubeinstall.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO/repos/sonarqubeinstall/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "spa-scaffold",
+            "id": 4923,
+            "name": "spa-scaffold",
+            "description": "Bitnami-NginX Scaffold with gatekeeper und starterkit",
+            "hierarchyId": "9bf2b69bee14663b6402",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "JECO",
+                "id": 330,
+                "name": "Jenkins Commons",
+                "description": "Docker Images f\u00fcr Kubernetes Jenkins Master und Slaves",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/jeco/spa-scaffold.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/jeco/spa-scaffold.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO/repos/spa-scaffold/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "wiremock-scaffold",
+            "id": 6236,
+            "name": "wiremock-scaffold",
+            "description": "WireMock Scaffold for separating LU-Stages from other suppliers to allow independent development.",
+            "hierarchyId": "c64569b5e4634b75c841",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "JECO",
+                "id": 330,
+                "name": "Jenkins Commons",
+                "description": "Docker Images f\u00fcr Kubernetes Jenkins Master und Slaves",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/jeco/wiremock-scaffold.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/jeco/wiremock-scaffold.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO/repos/wiremock-scaffold/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

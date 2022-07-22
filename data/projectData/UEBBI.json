@@ -1,0 +1,680 @@
+{
+    "size": 16,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "lieferschein-uebbi-aufgaben",
+            "id": 6098,
+            "name": "lieferschein-uebbi-aufgaben",
+            "hierarchyId": "87fe3a229450743578e6",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "UEBBI",
+                "id": 723,
+                "name": "\u00dcbersicht bieten",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/UEBBI"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/uebbi/lieferschein-uebbi-aufgaben.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/uebbi/lieferschein-uebbi-aufgaben.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/UEBBI/repos/lieferschein-uebbi-aufgaben/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-uebbi-lkwdash-startseite",
+            "id": 4453,
+            "name": "lieferschein-uebbi-lkwdash-startseite",
+            "hierarchyId": "a44f7b6abadb630bf264",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "UEBBI",
+                "id": 723,
+                "name": "\u00dcbersicht bieten",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/UEBBI"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/uebbi/lieferschein-uebbi-lkwdash-startseite.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/uebbi/lieferschein-uebbi-lkwdash-startseite.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/UEBBI/repos/lieferschein-uebbi-lkwdash-startseite/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-uebbi-monitoring-aufgaben",
+            "id": 6037,
+            "name": "lieferschein-uebbi-monitoring-aufgaben",
+            "hierarchyId": "9e1d01c47c465e81466e",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "UEBBI",
+                "id": 723,
+                "name": "\u00dcbersicht bieten",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/UEBBI"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/uebbi/lieferschein-uebbi-monitoring-aufgaben.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/uebbi/lieferschein-uebbi-monitoring-aufgaben.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/UEBBI/repos/lieferschein-uebbi-monitoring-aufgaben/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "patchlieferschein-uebbi-lkwdash-startseite",
+            "id": 5294,
+            "name": "patchlieferschein-uebbi-lkwdash-startseite",
+            "hierarchyId": "ed8b03a6c6ceca99abcc",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "UEBBI",
+                "id": 723,
+                "name": "\u00dcbersicht bieten",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/UEBBI"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/uebbi/patchlieferschein-uebbi-lkwdash-startseite.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/uebbi/patchlieferschein-uebbi-lkwdash-startseite.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/UEBBI/repos/patchlieferschein-uebbi-lkwdash-startseite/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "uebbi-aufgaben-api",
+            "id": 6256,
+            "name": "uebbi-aufgaben-api",
+            "hierarchyId": "981bf5db214454202326",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "UEBBI",
+                "id": 723,
+                "name": "\u00dcbersicht bieten",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/UEBBI"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/uebbi/uebbi-aufgaben-api.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/uebbi/uebbi-aufgaben-api.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/UEBBI/repos/uebbi-aufgaben-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "uebbi-aufgaben-taskrequest-stream",
+            "id": 6334,
+            "name": "uebbi-aufgaben-taskrequest-stream",
+            "hierarchyId": "db37ce0b160164588be5",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "UEBBI",
+                "id": 723,
+                "name": "\u00dcbersicht bieten",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/UEBBI"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/uebbi/uebbi-aufgaben-taskrequest-stream.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/uebbi/uebbi-aufgaben-taskrequest-stream.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/UEBBI/repos/uebbi-aufgaben-taskrequest-stream/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "uebbi-aufgaben-tma-api",
+            "id": 6266,
+            "name": "uebbi-aufgaben-tma-api",
+            "hierarchyId": "d0d4646743f988ba2556",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "UEBBI",
+                "id": 723,
+                "name": "\u00dcbersicht bieten",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/UEBBI"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/uebbi/uebbi-aufgaben-tma-api.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/uebbi/uebbi-aufgaben-tma-api.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/UEBBI/repos/uebbi-aufgaben-tma-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "uebbi-aufgaben-tma-createtask-stream",
+            "id": 6259,
+            "name": "uebbi-aufgaben-tma-createtask-stream",
+            "hierarchyId": "7ef071b149174766577e",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "UEBBI",
+                "id": 723,
+                "name": "\u00dcbersicht bieten",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/UEBBI"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/uebbi/uebbi-aufgaben-tma-createtask-stream.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/uebbi/uebbi-aufgaben-tma-createtask-stream.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/UEBBI/repos/uebbi-aufgaben-tma-createtask-stream/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "uebbi-aufgaben-tma-deletetask-stream",
+            "id": 6239,
+            "name": "uebbi-aufgaben-tma-deletetask-stream",
+            "hierarchyId": "3fda0e9b6e55d6981e71",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "UEBBI",
+                "id": 723,
+                "name": "\u00dcbersicht bieten",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/UEBBI"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/uebbi/uebbi-aufgaben-tma-deletetask-stream.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/uebbi/uebbi-aufgaben-tma-deletetask-stream.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/UEBBI/repos/uebbi-aufgaben-tma-deletetask-stream/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "uebbi-lkww-dashboard",
+            "id": 3798,
+            "name": "uebbi-lkww-dashboard",
+            "hierarchyId": "eac9479ad3d3381511c7",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "UEBBI",
+                "id": 723,
+                "name": "\u00dcbersicht bieten",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/UEBBI"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/uebbi/uebbi-lkww-dashboard.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/uebbi/uebbi-lkww-dashboard.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/UEBBI/repos/uebbi-lkww-dashboard/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "uebbi-lkww-dashboard-api",
+            "id": 5275,
+            "name": "uebbi-lkww-dashboard-api",
+            "hierarchyId": "9f12cbc7e30283ad9ce9",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "UEBBI",
+                "id": 723,
+                "name": "\u00dcbersicht bieten",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/UEBBI"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/uebbi/uebbi-lkww-dashboard-api.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/uebbi/uebbi-lkww-dashboard-api.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/UEBBI/repos/uebbi-lkww-dashboard-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "uebbi-lkww-dashboard-spa",
+            "id": 3906,
+            "name": "uebbi-lkww-dashboard-spa",
+            "hierarchyId": "661f60b49b98b6262285",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "UEBBI",
+                "id": 723,
+                "name": "\u00dcbersicht bieten",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/UEBBI"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/uebbi/uebbi-lkww-dashboard-spa.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/uebbi/uebbi-lkww-dashboard-spa.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/UEBBI/repos/uebbi-lkww-dashboard-spa/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "uebbi-lkww-dashboard-ui",
+            "id": 3889,
+            "name": "uebbi-lkww-dashboard-ui",
+            "hierarchyId": "40b4866654c37298917f",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "UEBBI",
+                "id": 723,
+                "name": "\u00dcbersicht bieten",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/UEBBI"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/uebbi/uebbi-lkww-dashboard-ui.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/uebbi/uebbi-lkww-dashboard-ui.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/UEBBI/repos/uebbi-lkww-dashboard-ui/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "uebbi-monitoring-aufgaben-api",
+            "id": 6029,
+            "name": "uebbi-monitoring-aufgaben-api",
+            "hierarchyId": "980021bf8da76a49b87c",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "UEBBI",
+                "id": 723,
+                "name": "\u00dcbersicht bieten",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/UEBBI"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/uebbi/uebbi-monitoring-aufgaben-api.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/uebbi/uebbi-monitoring-aufgaben-api.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/UEBBI/repos/uebbi-monitoring-aufgaben-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "uebbi-monitoring-aufgaben-fe-cmp",
+            "id": 6080,
+            "name": "uebbi-monitoring-aufgaben-fe-cmp",
+            "hierarchyId": "e4a4edbc4a86368cf954",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "UEBBI",
+                "id": 723,
+                "name": "\u00dcbersicht bieten",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/UEBBI"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/uebbi/uebbi-monitoring-aufgaben-fe-cmp.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/uebbi/uebbi-monitoring-aufgaben-fe-cmp.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/UEBBI/repos/uebbi-monitoring-aufgaben-fe-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "uebbi-monitoring-aufgaben-spa",
+            "id": 6036,
+            "name": "uebbi-monitoring-aufgaben-spa",
+            "hierarchyId": "6e931e9e1797e35378ba",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "UEBBI",
+                "id": 723,
+                "name": "\u00dcbersicht bieten",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/UEBBI"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/uebbi/uebbi-monitoring-aufgaben-spa.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/uebbi/uebbi-monitoring-aufgaben-spa.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/UEBBI/repos/uebbi-monitoring-aufgaben-spa/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

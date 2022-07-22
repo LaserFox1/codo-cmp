@@ -1,0 +1,812 @@
+{
+    "size": 16,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "be-jenkins-pipeline-library",
+            "id": 2930,
+            "name": "be-jenkins-pipeline-library",
+            "hierarchyId": "1b6f489c25ff634f97f5",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "origin": {
+                "slug": "jenkins-pipeline-library",
+                "id": 2831,
+                "name": "jenkins-pipeline-library",
+                "hierarchyId": "1b6f489c25ff634f97f5",
+                "scmId": "git",
+                "state": "AVAILABLE",
+                "statusMessage": "Available",
+                "forkable": true,
+                "project": {
+                    "key": "JECO",
+                    "id": 330,
+                    "name": "Jenkins Commons",
+                    "description": "Docker Images f\u00fcr Kubernetes Jenkins Master und Slaves",
+                    "public": false,
+                    "type": "NORMAL",
+                    "links": {
+                        "self": [
+                            {
+                                "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO"
+                            }
+                        ]
+                    }
+                },
+                "public": true,
+                "links": {
+                    "clone": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/scm/jeco/jenkins-pipeline-library.git",
+                            "name": "http"
+                        },
+                        {
+                            "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/jeco/jenkins-pipeline-library.git",
+                            "name": "ssh"
+                        }
+                    ],
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/JECO/repos/jenkins-pipeline-library/browse"
+                        }
+                    ]
+                }
+            },
+            "project": {
+                "key": "IBASE",
+                "id": 137,
+                "name": "Infonova-Base",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/ibase/be-jenkins-pipeline-library.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/ibase/be-jenkins-pipeline-library.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE/repos/be-jenkins-pipeline-library/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "burnin-script-deployment-dev",
+            "id": 5085,
+            "name": "burnin-script-deployment-dev",
+            "description": "Test Repo for burnin-script-deployment for dev-lu und dev-master",
+            "hierarchyId": "bfde687b52fbd2a6cdd8",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "IBASE",
+                "id": 137,
+                "name": "Infonova-Base",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/ibase/burnin-script-deployment-dev.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/ibase/burnin-script-deployment-dev.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE/repos/burnin-script-deployment-dev/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "burnin-scripts",
+            "id": 3709,
+            "name": "burnin-scripts",
+            "hierarchyId": "61ce0e77d7b754a34e30",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "origin": {
+                "slug": "burnin-scripts",
+                "id": 3638,
+                "name": "burnin-scripts",
+                "hierarchyId": "61ce0e77d7b754a34e30",
+                "scmId": "git",
+                "state": "AVAILABLE",
+                "statusMessage": "Available",
+                "forkable": true,
+                "project": {
+                    "key": "SOL",
+                    "id": 25,
+                    "name": "SolutionArchitectsTryErrorBox",
+                    "description": "Sandbox f\u00fcr Testprojekte der Solution Architekte.",
+                    "public": true,
+                    "type": "NORMAL",
+                    "links": {
+                        "self": [
+                            {
+                                "href": "http://lkwbitbucket.lkw-walter.com/projects/SOL"
+                            }
+                        ]
+                    }
+                },
+                "public": false,
+                "links": {
+                    "clone": [
+                        {
+                            "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/sol/burnin-scripts.git",
+                            "name": "ssh"
+                        },
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/scm/sol/burnin-scripts.git",
+                            "name": "http"
+                        }
+                    ],
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/SOL/repos/burnin-scripts/browse"
+                        }
+                    ]
+                }
+            },
+            "project": {
+                "key": "IBASE",
+                "id": 137,
+                "name": "Infonova-Base",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/ibase/burnin-scripts.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/ibase/burnin-scripts.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE/repos/burnin-scripts/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "cp-kafka-connect-extensions",
+            "id": 3375,
+            "name": "cp-kafka-connect-extensions",
+            "hierarchyId": "4379e44fbd4dd5210ca1",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "IBASE",
+                "id": 137,
+                "name": "Infonova-Base",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/ibase/cp-kafka-connect-extensions.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/ibase/cp-kafka-connect-extensions.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE/repos/cp-kafka-connect-extensions/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "fragment-loader-ui",
+            "id": 3332,
+            "name": "fragment-loader-ui",
+            "hierarchyId": "f3459e008a8625035345",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "IBASE",
+                "id": 137,
+                "name": "Infonova-Base",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/ibase/fragment-loader-ui.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/ibase/fragment-loader-ui.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE/repos/fragment-loader-ui/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "infonova-int02",
+            "id": 1952,
+            "name": "infonova-int02",
+            "hierarchyId": "a81554c2077198644320",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "IBASE",
+                "id": 137,
+                "name": "Infonova-Base",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/ibase/infonova-int02.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/ibase/infonova-int02.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE/repos/infonova-int02/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-deployment-tm",
+            "id": 2486,
+            "name": "lieferschein-deployment-tm",
+            "hierarchyId": "ee90ef7e40607a0214b1",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "IBASE",
+                "id": 137,
+                "name": "Infonova-Base",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/ibase/lieferschein-deployment-tm.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/ibase/lieferschein-deployment-tm.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE/repos/lieferschein-deployment-tm/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-library",
+            "id": 2490,
+            "name": "lieferschein-library",
+            "hierarchyId": "0e673b2007b3539dad05",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "IBASE",
+                "id": 137,
+                "name": "Infonova-Base",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/ibase/lieferschein-library.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/ibase/lieferschein-library.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE/repos/lieferschein-library/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lkwkafkatool-dev",
+            "id": 5704,
+            "name": "LkwKafkaTool-dev",
+            "hierarchyId": "8ae6f0fe30f9a7dc0833",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "origin": {
+                "slug": "lkwkafkatool",
+                "id": 3817,
+                "name": "LkwKafkaTool",
+                "hierarchyId": "8ae6f0fe30f9a7dc0833",
+                "scmId": "git",
+                "state": "AVAILABLE",
+                "statusMessage": "Available",
+                "forkable": true,
+                "project": {
+                    "key": "SOL",
+                    "id": 25,
+                    "name": "SolutionArchitectsTryErrorBox",
+                    "description": "Sandbox f\u00fcr Testprojekte der Solution Architekte.",
+                    "public": true,
+                    "type": "NORMAL",
+                    "links": {
+                        "self": [
+                            {
+                                "href": "http://lkwbitbucket.lkw-walter.com/projects/SOL"
+                            }
+                        ]
+                    }
+                },
+                "public": false,
+                "links": {
+                    "clone": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/scm/sol/lkwkafkatool.git",
+                            "name": "http"
+                        },
+                        {
+                            "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/sol/lkwkafkatool.git",
+                            "name": "ssh"
+                        }
+                    ],
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/SOL/repos/lkwkafkatool/browse"
+                        }
+                    ]
+                }
+            },
+            "project": {
+                "key": "IBASE",
+                "id": 137,
+                "name": "Infonova-Base",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/ibase/lkwkafkatool-dev.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/ibase/lkwkafkatool-dev.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE/repos/lkwkafkatool-dev/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lkww-component-base",
+            "id": 1359,
+            "name": "lkww-component-base",
+            "hierarchyId": "018c83cb3a9d496c6a37",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "IBASE",
+                "id": 137,
+                "name": "Infonova-Base",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/ibase/lkww-component-base.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/ibase/lkww-component-base.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE/repos/lkww-component-base/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lkww-parent",
+            "id": 1358,
+            "name": "lkww-parent",
+            "hierarchyId": "59f81063ce3279678fc0",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "IBASE",
+                "id": 137,
+                "name": "Infonova-Base",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/ibase/lkww-parent.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/ibase/lkww-parent.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE/repos/lkww-parent/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lkww-uuid",
+            "id": 2069,
+            "name": "lkww-uuid",
+            "hierarchyId": "3962032afb7eea14ef20",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "IBASE",
+                "id": 137,
+                "name": "Infonova-Base",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/ibase/lkww-uuid.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/ibase/lkww-uuid.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE/repos/lkww-uuid/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "micrometer-custom-metrics",
+            "id": 3893,
+            "name": "micrometer-custom-metrics",
+            "hierarchyId": "b4dfddbc86fb16a71c08",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "IBASE",
+                "id": 137,
+                "name": "Infonova-Base",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/ibase/micrometer-custom-metrics.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/ibase/micrometer-custom-metrics.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE/repos/micrometer-custom-metrics/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "rundeck-jobs",
+            "id": 5608,
+            "name": "rundeck-jobs",
+            "hierarchyId": "4ab6f8b09667c04e8382",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "IBASE",
+                "id": 137,
+                "name": "Infonova-Base",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/ibase/rundeck-jobs.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/ibase/rundeck-jobs.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE/repos/rundeck-jobs/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "sampleapp-phx",
+            "id": 4364,
+            "name": "sampleapp-phx",
+            "description": "A simple app for testing only",
+            "hierarchyId": "62b0207ffc31aa158201",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "IBASE",
+                "id": 137,
+                "name": "Infonova-Base",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/ibase/sampleapp-phx.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/ibase/sampleapp-phx.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE/repos/sampleapp-phx/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "umbrellachart-deployment-phx",
+            "id": 4359,
+            "name": "umbrellachart-deployment-phx",
+            "description": "An Umbrella Chart repo for testing only.",
+            "hierarchyId": "87d4cf222b82b629c7fd",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "IBASE",
+                "id": 137,
+                "name": "Infonova-Base",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/ibase/umbrellachart-deployment-phx.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/ibase/umbrellachart-deployment-phx.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/IBASE/repos/umbrellachart-deployment-phx/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

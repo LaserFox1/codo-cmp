@@ -1,0 +1,51 @@
+{
+    "size": 1,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "lkww-anecon-maven",
+            "id": 2448,
+            "name": "lkww-anecon-maven",
+            "hierarchyId": "e81052a0a8c52e7cd726",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AN",
+                "id": 365,
+                "name": "Anecon-Base",
+                "description": "Repository f\u00fcr \u00fcbergreifende ANECON Funktionalit\u00e4ten",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AN"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/an/lkww-anecon-maven.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/an/lkww-anecon-maven.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AN/repos/lkww-anecon-maven/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

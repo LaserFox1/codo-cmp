@@ -1,0 +1,806 @@
+{
+    "size": 19,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "angular-elements-poc",
+            "id": 3305,
+            "name": "angular-elements-poc",
+            "hierarchyId": "9f0d2c450e541f2cc657",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "LOCA",
+                "id": 650,
+                "name": "Location",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/loca/angular-elements-poc.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/loca/angular-elements-poc.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA/repos/angular-elements-poc/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-deployment-locationcat",
+            "id": 3312,
+            "name": "lieferschein-deployment-locationcat",
+            "hierarchyId": "02a25cd905f5319299c4",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "LOCA",
+                "id": 650,
+                "name": "Location",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/loca/lieferschein-deployment-locationcat.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/loca/lieferschein-deployment-locationcat.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA/repos/lieferschein-deployment-locationcat/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-loca-geocoding",
+            "id": 5920,
+            "name": "lieferschein-loca-geocoding",
+            "hierarchyId": "4e87db86cdaa3b7c6936",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "LOCA",
+                "id": 650,
+                "name": "Location",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/loca/lieferschein-loca-geocoding.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/loca/lieferschein-loca-geocoding.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA/repos/lieferschein-loca-geocoding/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-loca-location",
+            "id": 5297,
+            "name": "lieferschein-loca-location",
+            "hierarchyId": "fd6e138134498f654217",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "LOCA",
+                "id": 650,
+                "name": "Location",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/loca/lieferschein-loca-location.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/loca/lieferschein-loca-location.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA/repos/lieferschein-loca-location/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "loca-core-ui",
+            "id": 5310,
+            "name": "loca-core-ui",
+            "hierarchyId": "702d2bc862fd1dc05044",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "LOCA",
+                "id": 650,
+                "name": "Location",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/loca/loca-core-ui.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/loca/loca-core-ui.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA/repos/loca-core-ui/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "loca-geocoding-cmp",
+            "id": 5903,
+            "name": "loca-geocoding-cmp",
+            "hierarchyId": "7e7c884df1f55f77bfaf",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "LOCA",
+                "id": 650,
+                "name": "Location",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/loca/loca-geocoding-cmp.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/loca/loca-geocoding-cmp.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA/repos/loca-geocoding-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "loca-indexer-cmp",
+            "id": 5293,
+            "name": "loca-indexer-cmp",
+            "hierarchyId": "4cb8d4b22a366a10de4c",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "LOCA",
+                "id": 650,
+                "name": "Location",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/loca/loca-indexer-cmp.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/loca/loca-indexer-cmp.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA/repos/loca-indexer-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "loca-model-cmp",
+            "id": 5304,
+            "name": "loca-model-cmp",
+            "hierarchyId": "9a595a19d44fd699c4e5",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "LOCA",
+                "id": 650,
+                "name": "Location",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/loca/loca-model-cmp.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/loca/loca-model-cmp.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA/repos/loca-model-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "loca-ptv-repository-cmp",
+            "id": 5311,
+            "name": "loca-ptv-repository-cmp",
+            "hierarchyId": "1e49e2eb35b73774da70",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "LOCA",
+                "id": 650,
+                "name": "Location",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/loca/loca-ptv-repository-cmp.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/loca/loca-ptv-repository-cmp.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA/repos/loca-ptv-repository-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "loca-search-cmp",
+            "id": 5307,
+            "name": "loca-search-cmp",
+            "hierarchyId": "4066790e9a67be260be8",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "LOCA",
+                "id": 650,
+                "name": "Location",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/loca/loca-search-cmp.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/loca/loca-search-cmp.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA/repos/loca-search-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "loca-synonyms-api",
+            "id": 5943,
+            "name": "loca-synonyms-api",
+            "hierarchyId": "2864733abab525ec01d4",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "LOCA",
+                "id": 650,
+                "name": "Location",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/loca/loca-synonyms-api.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/loca/loca-synonyms-api.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA/repos/loca-synonyms-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "loca-synonyms-cmp",
+            "id": 5904,
+            "name": "loca-synonyms-cmp",
+            "hierarchyId": "184e3ac52c3eeea5ca4f",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "LOCA",
+                "id": 650,
+                "name": "Location",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/loca/loca-synonyms-cmp.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/loca/loca-synonyms-cmp.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA/repos/loca-synonyms-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "location-api",
+            "id": 3390,
+            "name": "location-api",
+            "hierarchyId": "70709b9aecbede68eb7c",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "LOCA",
+                "id": 650,
+                "name": "Location",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/loca/location-api.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/loca/location-api.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA/repos/location-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "location-core-ui_deprecated",
+            "id": 3269,
+            "name": "location-core-ui_DEPRECATED",
+            "hierarchyId": "427e9438acb6328d344b",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "LOCA",
+                "id": 650,
+                "name": "Location",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/loca/location-core-ui_deprecated.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/loca/location-core-ui_deprecated.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA/repos/location-core-ui_deprecated/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "location-elasticsearch",
+            "id": 3363,
+            "name": "location-elasticsearch",
+            "hierarchyId": "99f735aeb3551790de65",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "LOCA",
+                "id": 650,
+                "name": "Location",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/loca/location-elasticsearch.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/loca/location-elasticsearch.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA/repos/location-elasticsearch/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "location-indexer-cmp_deprecated",
+            "id": 3491,
+            "name": "location-indexer-cmp_DEPRECATED",
+            "hierarchyId": "8d6c958447259c9cb157",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "LOCA",
+                "id": 650,
+                "name": "Location",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/loca/location-indexer-cmp_deprecated.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/loca/location-indexer-cmp_deprecated.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA/repos/location-indexer-cmp_deprecated/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "location-model-cmp_deprecated",
+            "id": 3299,
+            "name": "location-model-cmp_DEPRECATED",
+            "hierarchyId": "b085a7916bce5cab4c9b",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "LOCA",
+                "id": 650,
+                "name": "Location",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/loca/location-model-cmp_deprecated.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/loca/location-model-cmp_deprecated.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA/repos/location-model-cmp_deprecated/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "location-ptv-repository-cmp_deprecated",
+            "id": 3279,
+            "name": "location-ptv-repository-cmp_DEPRECATED",
+            "hierarchyId": "02d6a33f78e58ccd1f8d",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "LOCA",
+                "id": 650,
+                "name": "Location",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/loca/location-ptv-repository-cmp_deprecated.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/loca/location-ptv-repository-cmp_deprecated.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA/repos/location-ptv-repository-cmp_deprecated/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "location-search-cmp_deprecated",
+            "id": 3277,
+            "name": "location-search-cmp_DEPRECATED",
+            "hierarchyId": "fe6056d0a75e41230d91",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "LOCA",
+                "id": 650,
+                "name": "Location",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/loca/location-search-cmp_deprecated.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/loca/location-search-cmp_deprecated.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/LOCA/repos/location-search-cmp_deprecated/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

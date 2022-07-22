@@ -1,0 +1,92 @@
+{
+    "size": 2,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "common-ui",
+            "id": 1927,
+            "name": "common-ui",
+            "hierarchyId": "7770a765500c3d32ff28",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "COM",
+                "id": 289,
+                "name": "Common",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/COM"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/com/common-ui.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/com/common-ui.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/COM/repos/common-ui/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "sso-lib",
+            "id": 2354,
+            "name": "sso-lib",
+            "hierarchyId": "08440ab8b30c853d55a5",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "COM",
+                "id": 289,
+                "name": "Common",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/COM"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/com/sso-lib.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/com/sso-lib.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/COM/repos/sso-lib/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

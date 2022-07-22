@@ -1,0 +1,386 @@
+{
+    "size": 9,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "deprecated-starterkit-cli",
+            "id": 2624,
+            "name": "deprecated-starterkit-cli",
+            "hierarchyId": "a69810b88404c20598ee",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "UI",
+                "id": 445,
+                "name": "UI",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/UI"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/ui/deprecated-starterkit-cli.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/ui/deprecated-starterkit-cli.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/UI/repos/deprecated-starterkit-cli/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "eslint-config-angular",
+            "id": 5795,
+            "name": "eslint-config-angular",
+            "hierarchyId": "768de033ddebc8df084a",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "UI",
+                "id": 445,
+                "name": "UI",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/UI"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/ui/eslint-config-angular.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/ui/eslint-config-angular.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/UI/repos/eslint-config-angular/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "eslint-config-standard",
+            "id": 2615,
+            "name": "eslint-config-standard",
+            "hierarchyId": "ab8c9dbbf55853f60eb0",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "UI",
+                "id": 445,
+                "name": "UI",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/UI"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/ui/eslint-config-standard.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/ui/eslint-config-standard.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/UI/repos/eslint-config-standard/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "fragment-viewer-chrome-plugin",
+            "id": 5157,
+            "name": "fragment-viewer-chrome-plugin",
+            "hierarchyId": "86669ed097d747c50caf",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "UI",
+                "id": 445,
+                "name": "UI",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/UI"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/ui/fragment-viewer-chrome-plugin.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/ui/fragment-viewer-chrome-plugin.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/UI/repos/fragment-viewer-chrome-plugin/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "runtime-fragment-schematic",
+            "id": 3609,
+            "name": "runtime-fragment-schematic",
+            "hierarchyId": "12ec5aa1eda51b86804c",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "UI",
+                "id": 445,
+                "name": "UI",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/UI"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/ui/runtime-fragment-schematic.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/ui/runtime-fragment-schematic.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/UI/repos/runtime-fragment-schematic/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "standard-release",
+            "id": 2613,
+            "name": "standard-release",
+            "hierarchyId": "08b9216a203bf14081e8",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "UI",
+                "id": 445,
+                "name": "UI",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/UI"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/ui/standard-release.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/ui/standard-release.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/UI/repos/standard-release/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "stylelint-config-standard",
+            "id": 2618,
+            "name": "stylelint-config-standard",
+            "hierarchyId": "8216b5f7bee22a14cc4c",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "UI",
+                "id": 445,
+                "name": "UI",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/UI"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/ui/stylelint-config-standard.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/ui/stylelint-config-standard.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/UI/repos/stylelint-config-standard/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "tslint-angular-config-standard",
+            "id": 2617,
+            "name": "tslint-angular-config-standard",
+            "hierarchyId": "b35937b5ad38fe88ae51",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "UI",
+                "id": 445,
+                "name": "UI",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/UI"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/ui/tslint-angular-config-standard.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/ui/tslint-angular-config-standard.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/UI/repos/tslint-angular-config-standard/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "tslint-config-standard",
+            "id": 2616,
+            "name": "tslint-config-standard",
+            "hierarchyId": "2f3a95930d725e4e3d32",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "UI",
+                "id": 445,
+                "name": "UI",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/UI"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/ui/tslint-config-standard.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/ui/tslint-config-standard.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/UI/repos/tslint-config-standard/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

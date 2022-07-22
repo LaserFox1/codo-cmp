@@ -1,0 +1,50 @@
+{
+    "size": 1,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "lieferschein-deployment-uebbi-sp",
+            "id": 3910,
+            "name": "lieferschein-deployment-uebbi-sp",
+            "hierarchyId": "441c6571a98010a64613",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "SC",
+                "id": 663,
+                "name": "Softwarepark Commons",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/SC"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/sc/lieferschein-deployment-uebbi-sp.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/sc/lieferschein-deployment-uebbi-sp.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/SC/repos/lieferschein-deployment-uebbi-sp/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

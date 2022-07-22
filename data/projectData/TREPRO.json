@@ -1,0 +1,92 @@
+{
+    "size": 2,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "obsolete-trepro-eta-calculation-request-api",
+            "id": 4216,
+            "name": "obsolete-trepro-eta-calculation-request-api",
+            "hierarchyId": "e679b1bdcbf26c053f9e",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "TREPRO",
+                "id": 811,
+                "name": "TransportRessourcenstatusPrognostizieren",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/TREPRO"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/trepro/obsolete-trepro-eta-calculation-request-api.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/trepro/obsolete-trepro-eta-calculation-request-api.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/TREPRO/repos/obsolete-trepro-eta-calculation-request-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "trepro-eta-calculation-request-api",
+            "id": 6211,
+            "name": "trepro-eta-calculation-request-api",
+            "hierarchyId": "ad78710ef6f335d10cc3",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "TREPRO",
+                "id": 811,
+                "name": "TransportRessourcenstatusPrognostizieren",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/TREPRO"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/trepro/trepro-eta-calculation-request-api.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/trepro/trepro-eta-calculation-request-api.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/TREPRO/repos/trepro-eta-calculation-request-api/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

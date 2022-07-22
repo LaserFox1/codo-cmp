@@ -1,0 +1,50 @@
+{
+    "size": 1,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "fuzvest-fuhrpark-stream",
+            "id": 4078,
+            "name": "fuzvest-fuhrpark-stream",
+            "hierarchyId": "f43f96f7d7673332f356",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "FUZVEST",
+                "id": 790,
+                "name": "Fuhrpark zur Verf\u00fcgung stellen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/FUZVEST"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/fuzvest/fuzvest-fuhrpark-stream.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/fuzvest/fuzvest-fuhrpark-stream.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/FUZVEST/repos/fuzvest-fuhrpark-stream/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

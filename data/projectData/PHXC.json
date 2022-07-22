@@ -1,0 +1,573 @@
+{
+    "size": 12,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "approve-custom-ca-certs-java",
+            "id": 6018,
+            "name": "approve-custom-ca-certs-java",
+            "description": "a demo project showing how to do https calls with self signed certificates without touching the jdk installation folder and without needing to specify extra java Parameters - see README.md for more details!",
+            "hierarchyId": "b9125bf51a0aedc3d01f",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PHXC",
+                "id": 930,
+                "name": "Phoenix-Commons",
+                "description": "Common shared repo for phx",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PHXC"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/phxc/approve-custom-ca-certs-java.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/phxc/approve-custom-ca-certs-java.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PHXC/repos/approve-custom-ca-certs-java/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "bitbucket-syncer",
+            "id": 6118,
+            "name": "bitbucket-syncer",
+            "hierarchyId": "75610ad1f0a023e7989a",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PHXC",
+                "id": 930,
+                "name": "Phoenix-Commons",
+                "description": "Common shared repo for phx",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PHXC"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/phxc/bitbucket-syncer.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/phxc/bitbucket-syncer.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PHXC/repos/bitbucket-syncer/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "deploy-tool",
+            "id": 6084,
+            "name": "deploy-tool",
+            "description": "Create tool for use in helm deployments without lieferschein",
+            "hierarchyId": "27760c19cb45b3cd099c",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PHXC",
+                "id": 930,
+                "name": "Phoenix-Commons",
+                "description": "Common shared repo for phx",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PHXC"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/phxc/deploy-tool.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/phxc/deploy-tool.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PHXC/repos/deploy-tool/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "envoy-auth-proxy",
+            "id": 6227,
+            "name": "envoy-auth-proxy",
+            "description": "This is only the fork, real repo remains at catalysts.",
+            "hierarchyId": "8d2b0e143313f954629e",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "origin": {
+                "slug": "envoy-auth-proxy",
+                "id": 5419,
+                "name": "envoy-auth-proxy",
+                "hierarchyId": "8d2b0e143313f954629e",
+                "scmId": "git",
+                "state": "AVAILABLE",
+                "statusMessage": "Available",
+                "forkable": true,
+                "project": {
+                    "key": "BERE",
+                    "id": 771,
+                    "name": "Berechtigen",
+                    "description": "Dom\u00e4ne: UTIL",
+                    "public": false,
+                    "type": "NORMAL",
+                    "links": {
+                        "self": [
+                            {
+                                "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE"
+                            }
+                        ]
+                    }
+                },
+                "public": true,
+                "links": {
+                    "clone": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/scm/bere/envoy-auth-proxy.git",
+                            "name": "http"
+                        },
+                        {
+                            "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/bere/envoy-auth-proxy.git",
+                            "name": "ssh"
+                        }
+                    ],
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE/repos/envoy-auth-proxy/browse"
+                        }
+                    ]
+                }
+            },
+            "project": {
+                "key": "PHXC",
+                "id": 930,
+                "name": "Phoenix-Commons",
+                "description": "Common shared repo for phx",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PHXC"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/phxc/envoy-auth-proxy.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/phxc/envoy-auth-proxy.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PHXC/repos/envoy-auth-proxy/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "helm-deployment-verifier",
+            "id": 4451,
+            "name": "helm-deployment-verifier",
+            "hierarchyId": "d89e55987cd530db4446",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PHXC",
+                "id": 930,
+                "name": "Phoenix-Commons",
+                "description": "Common shared repo for phx",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PHXC"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/phxc/helm-deployment-verifier.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/phxc/helm-deployment-verifier.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PHXC/repos/helm-deployment-verifier/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "jx3-kubernetes",
+            "id": 6512,
+            "name": "jx3-kubernetes",
+            "hierarchyId": "c2fcb7a78bf9a79a30d4",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PHXC",
+                "id": 930,
+                "name": "Phoenix-Commons",
+                "description": "Common shared repo for phx",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PHXC"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/phxc/jx3-kubernetes.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/phxc/jx3-kubernetes.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PHXC/repos/jx3-kubernetes/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-fat-tar",
+            "id": 5374,
+            "name": "lieferschein-fat-tar",
+            "description": "maven submodule folder structure to generate a fat tar.gz file that contains all lieferschein dependencies.",
+            "hierarchyId": "bacc25cf7e5ca85f1637",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PHXC",
+                "id": 930,
+                "name": "Phoenix-Commons",
+                "description": "Common shared repo for phx",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PHXC"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/phxc/lieferschein-fat-tar.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/phxc/lieferschein-fat-tar.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PHXC/repos/lieferschein-fat-tar/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "phx-helm-functions",
+            "id": 6412,
+            "name": "phx-helm-functions",
+            "hierarchyId": "cfedf2abb7f557bf4b09",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PHXC",
+                "id": 930,
+                "name": "Phoenix-Commons",
+                "description": "Common shared repo for phx",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PHXC"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/phxc/phx-helm-functions.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/phxc/phx-helm-functions.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PHXC/repos/phx-helm-functions/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "phx-helm-hooks",
+            "id": 5834,
+            "name": "phx-helm-hooks",
+            "hierarchyId": "3ad67b15dc4867f0c83f",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PHXC",
+                "id": 930,
+                "name": "Phoenix-Commons",
+                "description": "Common shared repo for phx",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PHXC"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/phxc/phx-helm-hooks.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/phxc/phx-helm-hooks.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PHXC/repos/phx-helm-hooks/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "playground-flux",
+            "id": 6790,
+            "name": "playground-flux",
+            "hierarchyId": "08dd88cbb4fe97c08f61",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PHXC",
+                "id": 930,
+                "name": "Phoenix-Commons",
+                "description": "Common shared repo for phx",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PHXC"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/phxc/playground-flux.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/phxc/playground-flux.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PHXC/repos/playground-flux/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "rundeck-execute-job",
+            "id": 4551,
+            "name": "rundeck-execute-job",
+            "description": "Docker file / Shell script for executing and polling for success of a rundeck job.",
+            "hierarchyId": "576725a7d98908198a2f",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PHXC",
+                "id": 930,
+                "name": "Phoenix-Commons",
+                "description": "Common shared repo for phx",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PHXC"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/phxc/rundeck-execute-job.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/phxc/rundeck-execute-job.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PHXC/repos/rundeck-execute-job/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "tekton-docs",
+            "id": 6422,
+            "name": "tekton-docs",
+            "description": "Documentation regarding tekton CI/CD",
+            "hierarchyId": "e6bb8f74da609a82634a",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PHXC",
+                "id": 930,
+                "name": "Phoenix-Commons",
+                "description": "Common shared repo for phx",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PHXC"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/phxc/tekton-docs.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/phxc/tekton-docs.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PHXC/repos/tekton-docs/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

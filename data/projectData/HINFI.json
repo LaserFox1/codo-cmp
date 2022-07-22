@@ -1,0 +1,137 @@
+{
+    "size": 3,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "hinfi-anfrage-api",
+            "id": 6690,
+            "name": "hinfi-anfrage-api",
+            "hierarchyId": "6c53ed13e794c6f4b3d6",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "HINFI",
+                "id": 1348,
+                "name": "Hinweise finden",
+                "description": "http://lkwconfluence.lkw-walter.com/pages/viewpage.action?pageId=170983498",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/HINFI"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/hinfi/hinfi-anfrage-api.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/hinfi/hinfi-anfrage-api.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/HINFI/repos/hinfi-anfrage-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "hinfi-anfrage-cmp",
+            "id": 6689,
+            "name": "hinfi-anfrage-cmp",
+            "hierarchyId": "6e9381f9eed62b2a2819",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "HINFI",
+                "id": 1348,
+                "name": "Hinweise finden",
+                "description": "http://lkwconfluence.lkw-walter.com/pages/viewpage.action?pageId=170983498",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/HINFI"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/hinfi/hinfi-anfrage-cmp.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/hinfi/hinfi-anfrage-cmp.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/HINFI/repos/hinfi-anfrage-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-hinfi-anfent",
+            "id": 6692,
+            "name": "lieferschein-hinfi-anfent",
+            "hierarchyId": "7e126a6efda81bf3f7a0",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "HINFI",
+                "id": 1348,
+                "name": "Hinweise finden",
+                "description": "http://lkwconfluence.lkw-walter.com/pages/viewpage.action?pageId=170983498",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/HINFI"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/hinfi/lieferschein-hinfi-anfent.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/hinfi/lieferschein-hinfi-anfent.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/HINFI/repos/lieferschein-hinfi-anfent/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

@@ -1,0 +1,428 @@
+{
+    "size": 10,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "deploy-with-tags-demo",
+            "id": 3736,
+            "name": "deploy-with-tags-demo",
+            "hierarchyId": "30f6ba9d08e32484fbe8",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "STYLE",
+                "id": 297,
+                "name": "Styleguide",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/STYLE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/style/deploy-with-tags-demo.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/style/deploy-with-tags-demo.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/STYLE/repos/deploy-with-tags-demo/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "deprecated-styleguide-flags",
+            "id": 2472,
+            "name": "deprecated-styleguide-flags",
+            "hierarchyId": "13f6d410ffbad08e3e19",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "STYLE",
+                "id": 297,
+                "name": "Styleguide",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/STYLE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/style/deprecated-styleguide-flags.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/style/deprecated-styleguide-flags.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/STYLE/repos/deprecated-styleguide-flags/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "obsolete-living-styleguide",
+            "id": 2150,
+            "name": "OBSOLETE Living Styleguide",
+            "hierarchyId": "a27e16a691bc6ef572ac",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "STYLE",
+                "id": 297,
+                "name": "Styleguide",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/STYLE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/style/obsolete-living-styleguide.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/style/obsolete-living-styleguide.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/STYLE/repos/obsolete-living-styleguide/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "styleguide-daterangepicker",
+            "id": 3651,
+            "name": "styleguide-daterangepicker",
+            "hierarchyId": "337ec893ddc2b830c51b",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "STYLE",
+                "id": 297,
+                "name": "Styleguide",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/STYLE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/style/styleguide-daterangepicker.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/style/styleguide-daterangepicker.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/STYLE/repos/styleguide-daterangepicker/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "styleguide-datetime-components",
+            "id": 5421,
+            "name": "styleguide-datetime-components",
+            "hierarchyId": "abeea9e28b805950b165",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "STYLE",
+                "id": 297,
+                "name": "Styleguide",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/STYLE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/style/styleguide-datetime-components.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/style/styleguide-datetime-components.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/STYLE/repos/styleguide-datetime-components/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "styleguide-doku",
+            "id": 2469,
+            "name": "styleguide-doku",
+            "hierarchyId": "fd0595bb752686cef8e1",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "STYLE",
+                "id": 297,
+                "name": "Styleguide",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/STYLE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/style/styleguide-doku.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/style/styleguide-doku.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/STYLE/repos/styleguide-doku/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "styleguide-doku-deployment",
+            "id": 6428,
+            "name": "styleguide-doku-deployment",
+            "hierarchyId": "fe48dd606bf20669edb0",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "STYLE",
+                "id": 297,
+                "name": "Styleguide",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/STYLE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/style/styleguide-doku-deployment.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/style/styleguide-doku-deployment.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/STYLE/repos/styleguide-doku-deployment/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "styleguide-framework",
+            "id": 2468,
+            "name": "styleguide-framework",
+            "hierarchyId": "6fe420c19c384af2c34b",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "STYLE",
+                "id": 297,
+                "name": "Styleguide",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/STYLE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/style/styleguide-framework.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/style/styleguide-framework.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/STYLE/repos/styleguide-framework/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "styleguide-iconfont",
+            "id": 2467,
+            "name": "styleguide-iconfont",
+            "hierarchyId": "9c755488b4e9294735d3",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "STYLE",
+                "id": 297,
+                "name": "Styleguide",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/STYLE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/style/styleguide-iconfont.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/style/styleguide-iconfont.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/STYLE/repos/styleguide-iconfont/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "styleguide-ui",
+            "id": 2466,
+            "name": "styleguide-ui",
+            "hierarchyId": "4c39c1c7af2ee596a430",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "STYLE",
+                "id": 297,
+                "name": "Styleguide",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/STYLE"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/style/styleguide-ui.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/style/styleguide-ui.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/STYLE/repos/styleguide-ui/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

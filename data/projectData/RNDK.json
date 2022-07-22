@@ -1,0 +1,281 @@
+{
+    "size": 5,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "documentation",
+            "id": 6747,
+            "name": "Documentation",
+            "hierarchyId": "09cf4c112f26d5394d83",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "origin": {
+                "slug": "documentation",
+                "id": 2332,
+                "name": "Documentation",
+                "hierarchyId": "09cf4c112f26d5394d83",
+                "scmId": "git",
+                "state": "AVAILABLE",
+                "statusMessage": "Available",
+                "forkable": true,
+                "project": {
+                    "key": "~HUSARM",
+                    "id": 290,
+                    "name": "Husar, Martin",
+                    "type": "PERSONAL",
+                    "owner": {
+                        "name": "husarm",
+                        "emailAddress": "martin.husar@walter-group.com",
+                        "id": 965,
+                        "displayName": "Husar, Martin",
+                        "active": true,
+                        "slug": "husarm",
+                        "type": "NORMAL",
+                        "links": {
+                            "self": [
+                                {
+                                    "href": "http://lkwbitbucket.lkw-walter.com/users/husarm"
+                                }
+                            ]
+                        }
+                    },
+                    "links": {
+                        "self": [
+                            {
+                                "href": "http://lkwbitbucket.lkw-walter.com/users/husarm"
+                            }
+                        ]
+                    }
+                },
+                "public": true,
+                "links": {
+                    "clone": [
+                        {
+                            "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/~husarm/documentation.git",
+                            "name": "ssh"
+                        },
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/scm/~husarm/documentation.git",
+                            "name": "http"
+                        }
+                    ],
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/users/husarm/repos/documentation/browse"
+                        }
+                    ]
+                }
+            },
+            "project": {
+                "key": "RNDK",
+                "id": 207,
+                "name": "Rundeck",
+                "description": "Job Scheduling, Automation, Continuous Delivery",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/RNDK"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/rndk/documentation.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/rndk/documentation.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/RNDK/repos/documentation/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "git-tagging-dev",
+            "id": 5089,
+            "name": "git-tagging-dev",
+            "description": "Tagging all the components of an umbrella chart with given tag",
+            "hierarchyId": "30ade35e6c7e62129477",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "RNDK",
+                "id": 207,
+                "name": "Rundeck",
+                "description": "Job Scheduling, Automation, Continuous Delivery",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/RNDK"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/rndk/git-tagging-dev.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/rndk/git-tagging-dev.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/RNDK/repos/git-tagging-dev/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "k8s-deployment",
+            "id": 5213,
+            "name": "k8s-deployment",
+            "hierarchyId": "584788eb0d1c9e660b8e",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "RNDK",
+                "id": 207,
+                "name": "Rundeck",
+                "description": "Job Scheduling, Automation, Continuous Delivery",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/RNDK"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/rndk/k8s-deployment.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/rndk/k8s-deployment.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/RNDK/repos/k8s-deployment/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "rundeck-helm-chart",
+            "id": 3180,
+            "name": "rundeck-helm-chart",
+            "hierarchyId": "f0d017c52952aba8834c",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "RNDK",
+                "id": 207,
+                "name": "Rundeck",
+                "description": "Job Scheduling, Automation, Continuous Delivery",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/RNDK"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/rndk/rundeck-helm-chart.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/rndk/rundeck-helm-chart.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/RNDK/repos/rundeck-helm-chart/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "rundeck-test",
+            "id": 1717,
+            "name": "rundeck-test",
+            "hierarchyId": "21ac5daa58151f13f4d5",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "RNDK",
+                "id": 207,
+                "name": "Rundeck",
+                "description": "Job Scheduling, Automation, Continuous Delivery",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/RNDK"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/rndk/rundeck-test.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/rndk/rundeck-test.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/RNDK/repos/rundeck-test/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

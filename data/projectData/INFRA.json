@@ -1,0 +1,93 @@
+{
+    "size": 2,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "daniel",
+            "id": 3874,
+            "name": "Daniel",
+            "hierarchyId": "1a00555eec9b5883bb7f",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "INFRA",
+                "id": 737,
+                "name": "IT-Infrastruktur",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/INFRA"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/infra/daniel.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/infra/daniel.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/INFRA/repos/daniel/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "zz_modules",
+            "id": 3982,
+            "name": "ZZ_modules",
+            "description": "DEPRECATED",
+            "hierarchyId": "98df6cd9088898d70a43",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": false,
+            "project": {
+                "key": "INFRA",
+                "id": 737,
+                "name": "IT-Infrastruktur",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/INFRA"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/infra/zz_modules.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/infra/zz_modules.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/INFRA/repos/zz_modules/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

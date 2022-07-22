@@ -1,0 +1,860 @@
+{
+    "size": 18,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "helm2",
+            "id": 6547,
+            "name": "helm2",
+            "description": "Helm2 image as used by jenkins-pipeline-library",
+            "hierarchyId": "3849c607d8e521b3c1ff",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "DOB",
+                "id": 262,
+                "name": "Docker Basis Images",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/dob/helm2.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/dob/helm2.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB/repos/helm2/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "helm3",
+            "id": 6546,
+            "name": "helm3",
+            "description": "Helm3 image as used by jenkins-pipeline-library",
+            "hierarchyId": "f5a0e720108b855b820e",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "DOB",
+                "id": 262,
+                "name": "Docker Basis Images",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/dob/helm3.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/dob/helm3.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB/repos/helm3/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "hooks-basis",
+            "id": 5549,
+            "name": "hooks-basis",
+            "hierarchyId": "11125b47dd042a70e6bb",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "DOB",
+                "id": 262,
+                "name": "Docker Basis Images",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/dob/hooks-basis.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/dob/hooks-basis.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB/repos/hooks-basis/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "hooks-kafka-basis",
+            "id": 6223,
+            "name": "hooks-kafka-basis",
+            "hierarchyId": "270d49b76c62ae677868",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "DOB",
+                "id": 262,
+                "name": "Docker Basis Images",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/dob/hooks-kafka-basis.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/dob/hooks-kafka-basis.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB/repos/hooks-kafka-basis/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "jenkins-basis",
+            "id": 5222,
+            "name": "jenkins-basis",
+            "description": "Repository for building the LKWW Jenkins base image used for all vendor instances",
+            "hierarchyId": "c3bbd4a2401309301113",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "DOB",
+                "id": 262,
+                "name": "Docker Basis Images",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/dob/jenkins-basis.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/dob/jenkins-basis.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB/repos/jenkins-basis/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "jnlp-basis",
+            "id": 6285,
+            "name": "jnlp-basis",
+            "description": "Customized jnlp image for building with Jenkins",
+            "hierarchyId": "89b83e0dd1f591feb5a2",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "DOB",
+                "id": 262,
+                "name": "Docker Basis Images",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/dob/jnlp-basis.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/dob/jnlp-basis.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB/repos/jnlp-basis/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "liquibasedb2",
+            "id": 2938,
+            "name": "LiquibaseDB2",
+            "hierarchyId": "73b95deeccd2895924a0",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "DOB",
+                "id": 262,
+                "name": "Docker Basis Images",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/dob/liquibasedb2.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/dob/liquibasedb2.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB/repos/liquibasedb2/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "liquibasemssql",
+            "id": 2937,
+            "name": "LiquibaseMSSQL",
+            "hierarchyId": "bdd086c18330bfd49c7a",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "DOB",
+                "id": 262,
+                "name": "Docker Basis Images",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/dob/liquibasemssql.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/dob/liquibasemssql.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB/repos/liquibasemssql/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "mvn-builder",
+            "id": 5699,
+            "name": "mvn-builder",
+            "description": "image containing maven and jfrog cli tool",
+            "hierarchyId": "b153452aac26ca95bd92",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "DOB",
+                "id": 262,
+                "name": "Docker Basis Images",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/dob/mvn-builder.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/dob/mvn-builder.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB/repos/mvn-builder/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "mvn-builder-jdk11",
+            "id": 5930,
+            "name": "mvn-builder-jdk11",
+            "description": "image containing maven and jfrog cli tool",
+            "hierarchyId": "b153452aac26ca95bd92",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "origin": {
+                "slug": "mvn-builder",
+                "id": 5699,
+                "name": "mvn-builder",
+                "description": "image containing maven and jfrog cli tool",
+                "hierarchyId": "b153452aac26ca95bd92",
+                "scmId": "git",
+                "state": "AVAILABLE",
+                "statusMessage": "Available",
+                "forkable": true,
+                "project": {
+                    "key": "DOB",
+                    "id": 262,
+                    "name": "Docker Basis Images",
+                    "public": true,
+                    "type": "NORMAL",
+                    "links": {
+                        "self": [
+                            {
+                                "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB"
+                            }
+                        ]
+                    }
+                },
+                "public": false,
+                "links": {
+                    "clone": [
+                        {
+                            "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/dob/mvn-builder.git",
+                            "name": "ssh"
+                        },
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/scm/dob/mvn-builder.git",
+                            "name": "http"
+                        }
+                    ],
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB/repos/mvn-builder/browse"
+                        }
+                    ]
+                }
+            },
+            "project": {
+                "key": "DOB",
+                "id": 262,
+                "name": "Docker Basis Images",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/dob/mvn-builder-jdk11.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/dob/mvn-builder-jdk11.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB/repos/mvn-builder-jdk11/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "sonar-scanner",
+            "id": 6548,
+            "name": "sonar-scanner",
+            "description": "Sonar scanner image as used by jenkins-pipeline-library",
+            "hierarchyId": "f9f8f8cb3aff3ae6ca00",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "DOB",
+                "id": 262,
+                "name": "Docker Basis Images",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/dob/sonar-scanner.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/dob/sonar-scanner.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB/repos/sonar-scanner/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "spa-basis",
+            "id": 5049,
+            "name": "spa-basis",
+            "description": "Single Page Application Basis Image",
+            "hierarchyId": "c1735a1e9c476db82262",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "DOB",
+                "id": 262,
+                "name": "Docker Basis Images",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/dob/spa-basis.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/dob/spa-basis.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB/repos/spa-basis/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "spa-builder",
+            "id": 5535,
+            "name": "spa-builder",
+            "description": "Base Image to build Single Page Applications as used by the apps generated from spa-scaffold.\r\n\r\nCan also be used for other/similar npm builds.",
+            "hierarchyId": "5c2d32249d1c20e0f04e",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "DOB",
+                "id": 262,
+                "name": "Docker Basis Images",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/dob/spa-builder.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/dob/spa-builder.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB/repos/spa-builder/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "spring-boot-basis",
+            "id": 5071,
+            "name": "spring-boot-basis",
+            "description": "Spring Boot application basis image",
+            "hierarchyId": "dc59d26218947c981290",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "DOB",
+                "id": 262,
+                "name": "Docker Basis Images",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/dob/spring-boot-basis.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/dob/spring-boot-basis.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB/repos/spring-boot-basis/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "streams-basis",
+            "id": 3669,
+            "name": "streams-basis",
+            "description": "Deprecated & out of support - use spring-boot-basis instead",
+            "hierarchyId": "429dc490374f75759d7d",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "DOB",
+                "id": 262,
+                "name": "Docker Basis Images",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/dob/streams-basis.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/dob/streams-basis.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB/repos/streams-basis/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "wf11_basis",
+            "id": 2701,
+            "name": "WF11_BASIS",
+            "hierarchyId": "c1d4d9b3986bd9852d04",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "DOB",
+                "id": 262,
+                "name": "Docker Basis Images",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/dob/wf11_basis.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/dob/wf11_basis.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB/repos/wf11_basis/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "wf14_basis",
+            "id": 3138,
+            "name": "WF14_BASIS",
+            "hierarchyId": "c1d4d9b3986bd9852d04",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "origin": {
+                "slug": "wf11_basis",
+                "id": 2701,
+                "name": "WF11_BASIS",
+                "hierarchyId": "c1d4d9b3986bd9852d04",
+                "scmId": "git",
+                "state": "AVAILABLE",
+                "statusMessage": "Available",
+                "forkable": true,
+                "project": {
+                    "key": "DOB",
+                    "id": 262,
+                    "name": "Docker Basis Images",
+                    "public": true,
+                    "type": "NORMAL",
+                    "links": {
+                        "self": [
+                            {
+                                "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB"
+                            }
+                        ]
+                    }
+                },
+                "public": true,
+                "links": {
+                    "clone": [
+                        {
+                            "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/dob/wf11_basis.git",
+                            "name": "ssh"
+                        },
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/scm/dob/wf11_basis.git",
+                            "name": "http"
+                        }
+                    ],
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB/repos/wf11_basis/browse"
+                        }
+                    ]
+                }
+            },
+            "project": {
+                "key": "DOB",
+                "id": 262,
+                "name": "Docker Basis Images",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/dob/wf14_basis.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/dob/wf14_basis.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB/repos/wf14_basis/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "wildfly18-basis",
+            "id": 3716,
+            "name": "wildfly18-basis",
+            "hierarchyId": "80eb048c7a90941df666",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "DOB",
+                "id": 262,
+                "name": "Docker Basis Images",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/dob/wildfly18-basis.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/dob/wildfly18-basis.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/DOB/repos/wildfly18-basis/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

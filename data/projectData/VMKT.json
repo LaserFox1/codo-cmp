@@ -1,0 +1,2111 @@
+{
+    "size": 49,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "ladestelle-verladezeiten-import",
+            "id": 3601,
+            "name": "ladestelle-verladezeiten-import",
+            "hierarchyId": "66506ec904ec68fa3112",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/ladestelle-verladezeiten-import.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/ladestelle-verladezeiten-import.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/ladestelle-verladezeiten-import/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-deployment-vmktcat_deprecated",
+            "id": 3419,
+            "name": "lieferschein-deployment-vmktcat_DEPRECATED",
+            "hierarchyId": "b2328ed5537d3736ee1c",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/lieferschein-deployment-vmktcat_deprecated.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/lieferschein-deployment-vmktcat_deprecated.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/lieferschein-deployment-vmktcat_deprecated/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-vmkt-auftragskriterien",
+            "id": 5363,
+            "name": "lieferschein-vmkt-auftragskriterien",
+            "hierarchyId": "8348c3faee556905cfb1",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/lieferschein-vmkt-auftragskriterien.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/lieferschein-vmkt-auftragskriterien.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/lieferschein-vmkt-auftragskriterien/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-vmkt-brc",
+            "id": 4113,
+            "name": "lieferschein-vmkt-brc",
+            "hierarchyId": "66efe2c1e8048d682c12",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/lieferschein-vmkt-brc.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/lieferschein-vmkt-brc.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/lieferschein-vmkt-brc/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-vmkt-verladezeiten",
+            "id": 4502,
+            "name": "lieferschein-vmkt-verladezeiten",
+            "hierarchyId": "2a3be14d7ced0e667d07",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/lieferschein-vmkt-verladezeiten.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/lieferschein-vmkt-verladezeiten.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/lieferschein-vmkt-verladezeiten/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "obsolete-vmkt-kundenbenachrichtigungen-fe-kafka",
+            "id": 3424,
+            "name": "OBSOLETE-vmkt-kundenbenachrichtigungen-fe-kafka",
+            "description": "all avro schemas can now be found here\r\n\r\nhttp://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-kundenbenachrichtigungen-api/browse",
+            "hierarchyId": "41d7d752ef83fc54ced6",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/obsolete-vmkt-kundenbenachrichtigungen-fe-kafka.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/obsolete-vmkt-kundenbenachrichtigungen-fe-kafka.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/obsolete-vmkt-kundenbenachrichtigungen-fe-kafka/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "patchlieferschein-vmkt-brc",
+            "id": 4460,
+            "name": "patchlieferschein-vmkt-brc",
+            "hierarchyId": "5aba35c73cec30aa42cb",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/patchlieferschein-vmkt-brc.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/patchlieferschein-vmkt-brc.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/patchlieferschein-vmkt-brc/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "patchlieferschein-vmkt-verladezeiten",
+            "id": 6598,
+            "name": "patchlieferschein-vmkt-verladezeiten",
+            "hierarchyId": "f4c4bf3a9cf606ba46f1",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/patchlieferschein-vmkt-verladezeiten.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/patchlieferschein-vmkt-verladezeiten.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/patchlieferschein-vmkt-verladezeiten/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-auftragskriterien-api",
+            "id": 5360,
+            "name": "vmkt-auftragskriterien-api",
+            "hierarchyId": "0f057308b69f3d4642ba",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-auftragskriterien-api.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-auftragskriterien-api.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-auftragskriterien-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-auftragskriterien-fe-cmp",
+            "id": 5361,
+            "name": "vmkt-auftragskriterien-fe-cmp",
+            "hierarchyId": "1032fbfc19635e79a67c",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-auftragskriterien-fe-cmp.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-auftragskriterien-fe-cmp.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-auftragskriterien-fe-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-auftragskriterien-spa",
+            "id": 5382,
+            "name": "vmkt-auftragskriterien-spa",
+            "hierarchyId": "caba694a9d6ca2d39be6",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-auftragskriterien-spa.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-auftragskriterien-spa.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-auftragskriterien-spa/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-auftragskriterien-stream",
+            "id": 5543,
+            "name": "vmkt-auftragskriterien-stream",
+            "hierarchyId": "68bbda0c7dda19794766",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-auftragskriterien-stream.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-auftragskriterien-stream.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-auftragskriterien-stream/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-core-api",
+            "id": 4789,
+            "name": "vmkt-core-api",
+            "hierarchyId": "1742f01f35d2ce060edf",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-core-api.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-core-api.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-core-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-core-fe-cmp",
+            "id": 4784,
+            "name": "vmkt-core-fe-cmp",
+            "hierarchyId": "a4d8ee5c8f4fcab8d043",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-core-fe-cmp.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-core-fe-cmp.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-core-fe-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-core-spa",
+            "id": 6628,
+            "name": "vmkt-core-spa",
+            "hierarchyId": "6583e35886b280c23d55",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-core-spa.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-core-spa.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-core-spa/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-core-ui",
+            "id": 3360,
+            "name": "vmkt-core-ui",
+            "hierarchyId": "0b89f5a230f41789a1b3",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-core-ui.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-core-ui.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-core-ui/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-core-ui-maven",
+            "id": 3462,
+            "name": "vmkt-core-ui-maven",
+            "hierarchyId": "0b89f5a230f41789a1b3",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "origin": {
+                "slug": "vmkt-core-ui",
+                "id": 3360,
+                "name": "vmkt-core-ui",
+                "hierarchyId": "0b89f5a230f41789a1b3",
+                "scmId": "git",
+                "state": "AVAILABLE",
+                "statusMessage": "Available",
+                "forkable": true,
+                "project": {
+                    "key": "VMKT",
+                    "id": 662,
+                    "name": "VereinbarungenMitKundenTreffen",
+                    "public": false,
+                    "type": "NORMAL",
+                    "links": {
+                        "self": [
+                            {
+                                "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                            }
+                        ]
+                    }
+                },
+                "public": false,
+                "links": {
+                    "clone": [
+                        {
+                            "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-core-ui.git",
+                            "name": "ssh"
+                        },
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-core-ui.git",
+                            "name": "http"
+                        }
+                    ],
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-core-ui/browse"
+                        }
+                    ]
+                }
+            },
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-core-ui-maven.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-core-ui-maven.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-core-ui-maven/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-datenbereitstellung-api",
+            "id": 5846,
+            "name": "vmkt-datenbereitstellung-api",
+            "description": "Provides an API for creating, reading, updating and removing platforms, which will be used in the bridge",
+            "hierarchyId": "9647de527de24f923f7c",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-datenbereitstellung-api.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-datenbereitstellung-api.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-datenbereitstellung-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-datenbereitstellung-fe-cmp",
+            "id": 5847,
+            "name": "vmkt-datenbereitstellung-fe-cmp",
+            "description": "A simple CRUD application to manage platforms inside of bridge",
+            "hierarchyId": "6229a8105aa03cb2d313",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-datenbereitstellung-fe-cmp.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-datenbereitstellung-fe-cmp.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-datenbereitstellung-fe-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-datenbereitstellung-proxy-cmp",
+            "id": 5908,
+            "name": "vmkt-datenbereitstellung-proxy-cmp",
+            "hierarchyId": "a24e52532dc3d6037470",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-datenbereitstellung-proxy-cmp.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-datenbereitstellung-proxy-cmp.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-datenbereitstellung-proxy-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-datenbereitstellung-ui",
+            "id": 5864,
+            "name": "vmkt-datenbereitstellung-ui",
+            "hierarchyId": "b6ed72839c5fd580992c",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-datenbereitstellung-ui.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-datenbereitstellung-ui.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-datenbereitstellung-ui/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-geographie-ui",
+            "id": 5680,
+            "name": "vmkt-geographie-ui",
+            "hierarchyId": "ce5d5764a6fe474d8bb7",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-geographie-ui.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-geographie-ui.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-geographie-ui/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-kundenbenachrichtigungen-api",
+            "id": 6341,
+            "name": "vmkt-kundenbenachrichtigungen-api",
+            "hierarchyId": "0b258db0173ec4abd8d3",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-kundenbenachrichtigungen-api.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-kundenbenachrichtigungen-api.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-kundenbenachrichtigungen-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-kundenbenachrichtigungen-fe-cmp",
+            "id": 3357,
+            "name": "vmkt-kundenbenachrichtigungen-fe-cmp",
+            "hierarchyId": "e8070468b76e52da829f",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-kundenbenachrichtigungen-fe-cmp.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-kundenbenachrichtigungen-fe-cmp.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-kundenbenachrichtigungen-fe-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-kundenbenachrichtigungen-stream",
+            "id": 4728,
+            "name": "vmkt-kundenbenachrichtigungen-stream",
+            "hierarchyId": "1761b988f364ad63f01f",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-kundenbenachrichtigungen-stream.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-kundenbenachrichtigungen-stream.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-kundenbenachrichtigungen-stream/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-kundenbenachrichtigungen-ui",
+            "id": 4772,
+            "name": "vmkt-kundenbenachrichtigungen-ui",
+            "hierarchyId": "34f28f048ed0ee11748a",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-kundenbenachrichtigungen-ui.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-kundenbenachrichtigungen-ui.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-kundenbenachrichtigungen-ui/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-kundenkonfigurationenlasi-api",
+            "id": 6703,
+            "name": "vmkt-kundenkonfigurationenlasi-api",
+            "hierarchyId": "1383653547b3d07b6bab",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-kundenkonfigurationenlasi-api.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-kundenkonfigurationenlasi-api.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-kundenkonfigurationenlasi-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-kundenkonfigurationenlasi-fe-cmp",
+            "id": 3685,
+            "name": "vmkt-kundenkonfigurationenlasi-fe-cmp",
+            "hierarchyId": "7aec3a09f593b3928076",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-kundenkonfigurationenlasi-fe-cmp.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-kundenkonfigurationenlasi-fe-cmp.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-kundenkonfigurationenlasi-fe-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-kundenkonfigurationenlasi-fe-kafka",
+            "id": 3686,
+            "name": "vmkt-kundenkonfigurationenlasi-fe-kafka",
+            "hierarchyId": "f60e15d1220eb82a2dc9",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-kundenkonfigurationenlasi-fe-kafka.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-kundenkonfigurationenlasi-fe-kafka.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-kundenkonfigurationenlasi-fe-kafka/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-kundenkonfigurationenlasi-ui",
+            "id": 3684,
+            "name": "vmkt-kundenkonfigurationenlasi-ui",
+            "hierarchyId": "63bb59213660ce09635c",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-kundenkonfigurationenlasi-ui.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-kundenkonfigurationenlasi-ui.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-kundenkonfigurationenlasi-ui/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-kundenvereinbarungen-migration",
+            "id": 3854,
+            "name": "vmkt-kundenvereinbarungen-migration",
+            "hierarchyId": "b94efce0fcd74f464a9a",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-kundenvereinbarungen-migration.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-kundenvereinbarungen-migration.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-kundenvereinbarungen-migration/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-lasiverwaltung-api",
+            "id": 6640,
+            "name": "vmkt-lasiverwaltung-api",
+            "hierarchyId": "fd8bc119115ef0a86ea7",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-lasiverwaltung-api.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-lasiverwaltung-api.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-lasiverwaltung-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-lasiverwaltung-cmp",
+            "id": 3768,
+            "name": "vmkt-lasiverwaltung-cmp",
+            "hierarchyId": "eab08999b3dbbad73508",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-lasiverwaltung-cmp.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-lasiverwaltung-cmp.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-lasiverwaltung-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-lasiverwaltung-db",
+            "id": 3778,
+            "name": "vmkt-lasiverwaltung-db",
+            "hierarchyId": "aff9812426b32e81fdb6",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-lasiverwaltung-db.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-lasiverwaltung-db.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-lasiverwaltung-db/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-lasiverwaltung-fe-cmp",
+            "id": 3649,
+            "name": "vmkt-lasiverwaltung-fe-cmp",
+            "hierarchyId": "3cc568e234a4f3f59858",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-lasiverwaltung-fe-cmp.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-lasiverwaltung-fe-cmp.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-lasiverwaltung-fe-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-lasiverwaltung-ui",
+            "id": 3650,
+            "name": "vmkt-lasiverwaltung-ui",
+            "hierarchyId": "251bdb31980399eff335",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-lasiverwaltung-ui.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-lasiverwaltung-ui.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-lasiverwaltung-ui/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-reportversand-api",
+            "id": 4326,
+            "name": "vmkt-reportversand-api",
+            "hierarchyId": "25a2284530d1dcaf0a55",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-reportversand-api.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-reportversand-api.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-reportversand-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-reportversand-fe-cmp",
+            "id": 4327,
+            "name": "vmkt-reportversand-fe-cmp",
+            "hierarchyId": "64de42fa4b47cc6c14f5",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-reportversand-fe-cmp.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-reportversand-fe-cmp.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-reportversand-fe-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-reportversand-stream",
+            "id": 4449,
+            "name": "vmkt-reportversand-stream",
+            "hierarchyId": "6bef13e342a3d6c3f608",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-reportversand-stream.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-reportversand-stream.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-reportversand-stream/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-reportversand-ui",
+            "id": 4350,
+            "name": "vmkt-reportversand-ui",
+            "hierarchyId": "ce3df6975ced630890f8",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-reportversand-ui.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-reportversand-ui.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-reportversand-ui/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-verladezeiten-address-stream",
+            "id": 6880,
+            "name": "vmkt-verladezeiten-address-stream",
+            "hierarchyId": "071791543a923aab419b",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-verladezeiten-address-stream.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-verladezeiten-address-stream.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-verladezeiten-address-stream/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-verladezeiten-api",
+            "id": 3596,
+            "name": "vmkt-verladezeiten-api",
+            "hierarchyId": "c65f76448d17cab25554",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-verladezeiten-api.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-verladezeiten-api.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-verladezeiten-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-verladezeiten-fe-cmp",
+            "id": 3597,
+            "name": "vmkt-verladezeiten-fe-cmp",
+            "hierarchyId": "fc320ca186f2c8017695",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-verladezeiten-fe-cmp.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-verladezeiten-fe-cmp.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-verladezeiten-fe-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-verladezeiten-kafka",
+            "id": 3598,
+            "name": "vmkt-verladezeiten-kafka",
+            "hierarchyId": "3b0a32f3be31b1291f54",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": false,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-verladezeiten-kafka.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-verladezeiten-kafka.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-verladezeiten-kafka/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-verladezeiten-migration-api",
+            "id": 6875,
+            "name": "vmkt-verladezeiten-migration-api",
+            "hierarchyId": "d90f53b2f63a3799e246",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-verladezeiten-migration-api.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-verladezeiten-migration-api.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-verladezeiten-migration-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-verladezeiten-migration-stream",
+            "id": 6873,
+            "name": "vmkt-verladezeiten-migration-stream",
+            "hierarchyId": "c92c7f903da494e11429",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-verladezeiten-migration-stream.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-verladezeiten-migration-stream.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-verladezeiten-migration-stream/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-verladezeiten-spa",
+            "id": 3599,
+            "name": "vmkt-verladezeiten-spa",
+            "hierarchyId": "27c38d1ed519fada6b31",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-verladezeiten-spa.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-verladezeiten-spa.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-verladezeiten-spa/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-verladezeiten-stream",
+            "id": 4477,
+            "name": "vmkt-verladezeiten-stream",
+            "hierarchyId": "d5b67d725fc85d99ae6d",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-verladezeiten-stream.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-verladezeiten-stream.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-verladezeiten-stream/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmkt-verladezeiten-ui",
+            "id": 3600,
+            "name": "vmkt-verladezeiten-ui",
+            "hierarchyId": "32bf945a07ed201f5733",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMKT",
+                "id": 662,
+                "name": "VereinbarungenMitKundenTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmkt/vmkt-verladezeiten-ui.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmkt/vmkt-verladezeiten-ui.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMKT/repos/vmkt-verladezeiten-ui/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

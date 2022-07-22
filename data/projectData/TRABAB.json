@@ -1,0 +1,50 @@
+{
+    "size": 1,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "trabab-etastatus-kafka",
+            "id": 4023,
+            "name": "trabab-etastatus-kafka",
+            "hierarchyId": "46215dafdae9898f9d69",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "TRABAB",
+                "id": 762,
+                "name": "TransportAbweichungenAbwickeln",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/TRABAB"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/trabab/trabab-etastatus-kafka.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/trabab/trabab-etastatus-kafka.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/TRABAB/repos/trabab-etastatus-kafka/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

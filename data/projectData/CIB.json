@@ -1,0 +1,596 @@
+{
+    "size": 14,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "clusterroles",
+            "id": 2985,
+            "name": "clusterroles",
+            "hierarchyId": "e648ca9cedd166c2efdc",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CIB",
+                "id": 379,
+                "name": "Container im Betrieb",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CIB"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cib/clusterroles.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cib/clusterroles.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CIB/repos/clusterroles/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "containerpipe",
+            "id": 2638,
+            "name": "containerPipe",
+            "hierarchyId": "07c20b41352e1f52f4b1",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CIB",
+                "id": 379,
+                "name": "Container im Betrieb",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CIB"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cib/containerpipe.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cib/containerpipe.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CIB/repos/containerpipe/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "dex-configmap-replacer",
+            "id": 2982,
+            "name": "dex-configmap-replacer",
+            "hierarchyId": "efcd2c0490dd7f327760",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CIB",
+                "id": 379,
+                "name": "Container im Betrieb",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CIB"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cib/dex-configmap-replacer.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cib/dex-configmap-replacer.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CIB/repos/dex-configmap-replacer/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "kong-api-key-mgmt",
+            "id": 5657,
+            "name": "kong-api-key-mgmt",
+            "hierarchyId": "bf4dea55e69e70701e3f",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CIB",
+                "id": 379,
+                "name": "Container im Betrieb",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CIB"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cib/kong-api-key-mgmt.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cib/kong-api-key-mgmt.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CIB/repos/kong-api-key-mgmt/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "kube-dashboard",
+            "id": 3005,
+            "name": "kube-dashboard",
+            "hierarchyId": "2858c924f5f07f1947f4",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CIB",
+                "id": 379,
+                "name": "Container im Betrieb",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CIB"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cib/kube-dashboard.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cib/kube-dashboard.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CIB/repos/kube-dashboard/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "nginx-ingress-controller",
+            "id": 2673,
+            "name": "nginx-ingress-controller",
+            "hierarchyId": "0e892552b0d6e387ef6d",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CIB",
+                "id": 379,
+                "name": "Container im Betrieb",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CIB"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cib/nginx-ingress-controller.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cib/nginx-ingress-controller.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CIB/repos/nginx-ingress-controller/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "performancecontainer",
+            "id": 2689,
+            "name": "performanceContainer",
+            "hierarchyId": "148ae4e8af0dfd591472",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CIB",
+                "id": 379,
+                "name": "Container im Betrieb",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CIB"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cib/performancecontainer.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cib/performancecontainer.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CIB/repos/performancecontainer/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "phpipam",
+            "id": 3043,
+            "name": "phpipam",
+            "hierarchyId": "2055f8aff64845a9bdbd",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CIB",
+                "id": 379,
+                "name": "Container im Betrieb",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CIB"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cib/phpipam.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cib/phpipam.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CIB/repos/phpipam/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "postgres",
+            "id": 2641,
+            "name": "postgres",
+            "hierarchyId": "ba7ed64abc75c0b8f119",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CIB",
+                "id": 379,
+                "name": "Container im Betrieb",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CIB"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cib/postgres.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cib/postgres.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CIB/repos/postgres/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "secrets-proposal",
+            "id": 5164,
+            "name": "secrets-proposal",
+            "hierarchyId": "bf183e58a3aab3a1f359",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CIB",
+                "id": 379,
+                "name": "Container im Betrieb",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CIB"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cib/secrets-proposal.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cib/secrets-proposal.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CIB/repos/secrets-proposal/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "sles12-dockerimage",
+            "id": 2665,
+            "name": "sles12-dockerimage",
+            "hierarchyId": "0052e503f982663b4cb1",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CIB",
+                "id": 379,
+                "name": "Container im Betrieb",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CIB"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cib/sles12-dockerimage.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cib/sles12-dockerimage.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CIB/repos/sles12-dockerimage/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "tiller-helm",
+            "id": 3002,
+            "name": "tiller-helm",
+            "hierarchyId": "1fa5b66aaec26d5cf159",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CIB",
+                "id": 379,
+                "name": "Container im Betrieb",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CIB"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cib/tiller-helm.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cib/tiller-helm.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CIB/repos/tiller-helm/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "ubuntu-basis-image-pipeline",
+            "id": 3861,
+            "name": "ubuntu-basis-image-pipeline",
+            "hierarchyId": "4e68f9986ae78da72582",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CIB",
+                "id": 379,
+                "name": "Container im Betrieb",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CIB"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cib/ubuntu-basis-image-pipeline.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cib/ubuntu-basis-image-pipeline.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CIB/repos/ubuntu-basis-image-pipeline/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "ubuntu-patching",
+            "id": 5684,
+            "name": "ubuntu-patching",
+            "hierarchyId": "57faf9b5f32101237d6b",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CIB",
+                "id": 379,
+                "name": "Container im Betrieb",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CIB"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cib/ubuntu-patching.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cib/ubuntu-patching.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CIB/repos/ubuntu-patching/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

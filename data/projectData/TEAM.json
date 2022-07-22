@@ -1,0 +1,219 @@
+{
+    "size": 5,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "teamcenter",
+            "id": 6561,
+            "name": "Teamcenter",
+            "hierarchyId": "1ce7fd2daecaa9a86c06",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "TEAM",
+                "id": 1384,
+                "name": "Teamcenter",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/TEAM"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/team/teamcenter.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/team/teamcenter.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/TEAM/repos/teamcenter/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "teamcenter-ct4",
+            "id": 6559,
+            "name": "Teamcenter-CT4",
+            "hierarchyId": "8be971619f72c4a8d0e2",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "TEAM",
+                "id": 1384,
+                "name": "Teamcenter",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/TEAM"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/team/teamcenter-ct4.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/team/teamcenter-ct4.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/TEAM/repos/teamcenter-ct4/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "teamcenter-ct5",
+            "id": 6560,
+            "name": "Teamcenter-CT5",
+            "hierarchyId": "6d91ddc212a9e444e082",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "TEAM",
+                "id": 1384,
+                "name": "Teamcenter",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/TEAM"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/team/teamcenter-ct5.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/team/teamcenter-ct5.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/TEAM/repos/teamcenter-ct5/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "teamcenter-playground",
+            "id": 5476,
+            "name": "Teamcenter-playground",
+            "description": "Zum Testen von Git/Bitbucket",
+            "hierarchyId": "0c2d9ae2e6bec81238e9",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "TEAM",
+                "id": 1384,
+                "name": "Teamcenter",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/TEAM"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/team/teamcenter-playground.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/team/teamcenter-playground.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/TEAM/repos/teamcenter-playground/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "teamcenter-tailoring-gantner",
+            "id": 5477,
+            "name": "Teamcenter-Tailoring-Gantner",
+            "hierarchyId": "9a60e80c5ef5be65f7be",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "TEAM",
+                "id": 1384,
+                "name": "Teamcenter",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/TEAM"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/team/teamcenter-tailoring-gantner.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/team/teamcenter-tailoring-gantner.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/TEAM/repos/teamcenter-tailoring-gantner/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

@@ -1,0 +1,966 @@
+{
+    "size": 17,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "admin",
+            "id": 5243,
+            "name": "admin",
+            "description": "Namespace and Rolebinding definitions mono-repo",
+            "hierarchyId": "85fca20cc7392100cbb0",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "KUB",
+                "id": 932,
+                "name": "kubernetes-environment",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/kub/admin.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/kub/admin.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB/repos/admin/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "admin-api-gateway",
+            "id": 5836,
+            "name": "admin-api-gateway",
+            "hierarchyId": "28724591136b64de1933",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "origin": {
+                "slug": "kong",
+                "id": 4998,
+                "name": "kong",
+                "hierarchyId": "28724591136b64de1933",
+                "scmId": "git",
+                "state": "AVAILABLE",
+                "statusMessage": "Available",
+                "forkable": true,
+                "project": {
+                    "key": "CIB",
+                    "id": 379,
+                    "name": "Container im Betrieb",
+                    "public": false,
+                    "type": "NORMAL",
+                    "links": {
+                        "self": [
+                            {
+                                "href": "http://lkwbitbucket.lkw-walter.com/projects/CIB"
+                            }
+                        ]
+                    }
+                },
+                "public": false,
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CIB/repos/kong/browse"
+                        }
+                    ]
+                }
+            },
+            "project": {
+                "key": "KUB",
+                "id": 932,
+                "name": "kubernetes-environment",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/kub/admin-api-gateway.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/kub/admin-api-gateway.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB/repos/admin-api-gateway/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "admin-bootstrap",
+            "id": 5427,
+            "name": "admin-bootstrap",
+            "hierarchyId": "022fc334e3b0194b7c70",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "KUB",
+                "id": 932,
+                "name": "kubernetes-environment",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/kub/admin-bootstrap.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/kub/admin-bootstrap.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB/repos/admin-bootstrap/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "config-cross",
+            "id": 5720,
+            "name": "config-cross",
+            "hierarchyId": "7cbf39762249ab858873",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "KUB",
+                "id": 932,
+                "name": "kubernetes-environment",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/kub/config-cross.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/kub/config-cross.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB/repos/config-cross/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "config-dev",
+            "id": 5341,
+            "name": "config-dev",
+            "hierarchyId": "d3735ce120f135839767",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "origin": {
+                "slug": "config-test",
+                "id": 5340,
+                "name": "config-test",
+                "hierarchyId": "d3735ce120f135839767",
+                "scmId": "git",
+                "state": "AVAILABLE",
+                "statusMessage": "Available",
+                "forkable": true,
+                "origin": {
+                    "slug": "config-prod",
+                    "id": 5325,
+                    "name": "config-prod",
+                    "hierarchyId": "d3735ce120f135839767",
+                    "scmId": "git",
+                    "state": "AVAILABLE",
+                    "statusMessage": "Available",
+                    "forkable": true,
+                    "project": {
+                        "key": "KUB",
+                        "id": 932,
+                        "name": "kubernetes-environment",
+                        "public": false,
+                        "type": "NORMAL",
+                        "links": {
+                            "self": [
+                                {
+                                    "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB"
+                                }
+                            ]
+                        }
+                    },
+                    "public": false,
+                    "links": {
+                        "clone": [
+                            {
+                                "href": "http://lkwbitbucket.lkw-walter.com/scm/kub/config-prod.git",
+                                "name": "http"
+                            },
+                            {
+                                "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/kub/config-prod.git",
+                                "name": "ssh"
+                            }
+                        ],
+                        "self": [
+                            {
+                                "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB/repos/config-prod/browse"
+                            }
+                        ]
+                    }
+                },
+                "project": {
+                    "key": "KUB",
+                    "id": 932,
+                    "name": "kubernetes-environment",
+                    "public": false,
+                    "type": "NORMAL",
+                    "links": {
+                        "self": [
+                            {
+                                "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB"
+                            }
+                        ]
+                    }
+                },
+                "public": true,
+                "links": {
+                    "clone": [
+                        {
+                            "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/kub/config-test.git",
+                            "name": "ssh"
+                        },
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/scm/kub/config-test.git",
+                            "name": "http"
+                        }
+                    ],
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB/repos/config-test/browse"
+                        }
+                    ]
+                }
+            },
+            "project": {
+                "key": "KUB",
+                "id": 932,
+                "name": "kubernetes-environment",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/kub/config-dev.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/kub/config-dev.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB/repos/config-dev/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "config-preprod",
+            "id": 5342,
+            "name": "config-preprod",
+            "hierarchyId": "d3735ce120f135839767",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "origin": {
+                "slug": "config-prod",
+                "id": 5325,
+                "name": "config-prod",
+                "hierarchyId": "d3735ce120f135839767",
+                "scmId": "git",
+                "state": "AVAILABLE",
+                "statusMessage": "Available",
+                "forkable": true,
+                "project": {
+                    "key": "KUB",
+                    "id": 932,
+                    "name": "kubernetes-environment",
+                    "public": false,
+                    "type": "NORMAL",
+                    "links": {
+                        "self": [
+                            {
+                                "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB"
+                            }
+                        ]
+                    }
+                },
+                "public": false,
+                "links": {
+                    "clone": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/scm/kub/config-prod.git",
+                            "name": "http"
+                        },
+                        {
+                            "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/kub/config-prod.git",
+                            "name": "ssh"
+                        }
+                    ],
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB/repos/config-prod/browse"
+                        }
+                    ]
+                }
+            },
+            "project": {
+                "key": "KUB",
+                "id": 932,
+                "name": "kubernetes-environment",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/kub/config-preprod.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/kub/config-preprod.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB/repos/config-preprod/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "config-prod",
+            "id": 5325,
+            "name": "config-prod",
+            "hierarchyId": "d3735ce120f135839767",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "KUB",
+                "id": 932,
+                "name": "kubernetes-environment",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/kub/config-prod.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/kub/config-prod.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB/repos/config-prod/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "config-test",
+            "id": 5340,
+            "name": "config-test",
+            "hierarchyId": "d3735ce120f135839767",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "origin": {
+                "slug": "config-prod",
+                "id": 5325,
+                "name": "config-prod",
+                "hierarchyId": "d3735ce120f135839767",
+                "scmId": "git",
+                "state": "AVAILABLE",
+                "statusMessage": "Available",
+                "forkable": true,
+                "project": {
+                    "key": "KUB",
+                    "id": 932,
+                    "name": "kubernetes-environment",
+                    "public": false,
+                    "type": "NORMAL",
+                    "links": {
+                        "self": [
+                            {
+                                "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB"
+                            }
+                        ]
+                    }
+                },
+                "public": false,
+                "links": {
+                    "clone": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/scm/kub/config-prod.git",
+                            "name": "http"
+                        },
+                        {
+                            "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/kub/config-prod.git",
+                            "name": "ssh"
+                        }
+                    ],
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB/repos/config-prod/browse"
+                        }
+                    ]
+                }
+            },
+            "project": {
+                "key": "KUB",
+                "id": 932,
+                "name": "kubernetes-environment",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/kub/config-test.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/kub/config-test.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB/repos/config-test/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "example-rundeck-jobs",
+            "id": 6410,
+            "name": "example-rundeck-jobs",
+            "hierarchyId": "36d92a682cde36adff31",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "KUB",
+                "id": 932,
+                "name": "kubernetes-environment",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/kub/example-rundeck-jobs.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/kub/example-rundeck-jobs.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB/repos/example-rundeck-jobs/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "migrate-configs",
+            "id": 5335,
+            "name": "migrate-configs",
+            "hierarchyId": "143be5123fc04be9c8a6",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "KUB",
+                "id": 932,
+                "name": "kubernetes-environment",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/kub/migrate-configs.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/kub/migrate-configs.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB/repos/migrate-configs/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "migrate-rolebindings",
+            "id": 5295,
+            "name": "migrate-rolebindings",
+            "hierarchyId": "bcb773fdba39aab72a77",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "KUB",
+                "id": 932,
+                "name": "kubernetes-environment",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/kub/migrate-rolebindings.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/kub/migrate-rolebindings.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB/repos/migrate-rolebindings/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "opa-policies",
+            "id": 5645,
+            "name": "opa-policies",
+            "hierarchyId": "04048d819221cf5da9d4",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "KUB",
+                "id": 932,
+                "name": "kubernetes-environment",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/kub/opa-policies.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/kub/opa-policies.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB/repos/opa-policies/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "tool-dummy-tools",
+            "id": 6253,
+            "name": "tool-dummy-tools",
+            "hierarchyId": "7eee08a2ac71afbd65dc",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "KUB",
+                "id": 932,
+                "name": "kubernetes-environment",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/kub/tool-dummy-tools.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/kub/tool-dummy-tools.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB/repos/tool-dummy-tools/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "tool-external-checks",
+            "id": 5798,
+            "name": "tool-external-checks",
+            "hierarchyId": "03cae786eedd9ba39522",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "KUB",
+                "id": 932,
+                "name": "kubernetes-environment",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/kub/tool-external-checks.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/kub/tool-external-checks.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB/repos/tool-external-checks/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "tool-java-lint",
+            "id": 6141,
+            "name": "tool-java-lint",
+            "hierarchyId": "765bdd8814f591d249aa",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "KUB",
+                "id": 932,
+                "name": "kubernetes-environment",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/kub/tool-java-lint.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/kub/tool-java-lint.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB/repos/tool-java-lint/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "tool-kafka-consumer-groups",
+            "id": 6117,
+            "name": "tool-kafka-consumer-groups",
+            "description": "Fork of https://github.com/confluentinc/kafka",
+            "hierarchyId": "34feb226b484cb7daa7a",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "KUB",
+                "id": 932,
+                "name": "kubernetes-environment",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/kub/tool-kafka-consumer-groups.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/kub/tool-kafka-consumer-groups.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB/repos/tool-kafka-consumer-groups/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "tool-secrets-manager",
+            "id": 5962,
+            "name": "tool-secrets-manager",
+            "hierarchyId": "bf183e58a3aab3a1f359",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "origin": {
+                "slug": "secrets-proposal",
+                "id": 5164,
+                "name": "secrets-proposal",
+                "hierarchyId": "bf183e58a3aab3a1f359",
+                "scmId": "git",
+                "state": "AVAILABLE",
+                "statusMessage": "Available",
+                "forkable": true,
+                "project": {
+                    "key": "CIB",
+                    "id": 379,
+                    "name": "Container im Betrieb",
+                    "public": false,
+                    "type": "NORMAL",
+                    "links": {
+                        "self": [
+                            {
+                                "href": "http://lkwbitbucket.lkw-walter.com/projects/CIB"
+                            }
+                        ]
+                    }
+                },
+                "public": true,
+                "links": {
+                    "clone": [
+                        {
+                            "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cib/secrets-proposal.git",
+                            "name": "ssh"
+                        },
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/scm/cib/secrets-proposal.git",
+                            "name": "http"
+                        }
+                    ],
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CIB/repos/secrets-proposal/browse"
+                        }
+                    ]
+                }
+            },
+            "project": {
+                "key": "KUB",
+                "id": 932,
+                "name": "kubernetes-environment",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/kub/tool-secrets-manager.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/kub/tool-secrets-manager.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/KUB/repos/tool-secrets-manager/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

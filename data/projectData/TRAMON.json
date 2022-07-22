@@ -1,0 +1,178 @@
+{
+    "size": 4,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "obsolete-tramon-bahnmon-pmpz-api",
+            "id": 4527,
+            "name": "obsolete-tramon-bahnmon-pmpz-api",
+            "description": "BahnMonitoring - PositionsMeldungenPerZug",
+            "hierarchyId": "fb5055c7aadcd5cc14f4",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "TRAMON",
+                "id": 716,
+                "name": "TransporteMonitoren",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/TRAMON"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/tramon/obsolete-tramon-bahnmon-pmpz-api.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/tramon/obsolete-tramon-bahnmon-pmpz-api.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/TRAMON/repos/obsolete-tramon-bahnmon-pmpz-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "obsolete-tramon-bahnmon-tgps-api",
+            "id": 4458,
+            "name": "obsolete-tramon-bahnmon-tgps-api",
+            "description": "BahnMonitoring - TracingGpsDsRequestStream: Bereitstellung von aggregierten GPS Informationen und mehr an DataScience.",
+            "hierarchyId": "979ae2f09ce6f2287433",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "TRAMON",
+                "id": 716,
+                "name": "TransporteMonitoren",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/TRAMON"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/tramon/obsolete-tramon-bahnmon-tgps-api.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/tramon/obsolete-tramon-bahnmon-tgps-api.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/TRAMON/repos/obsolete-tramon-bahnmon-tgps-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "obsolete-tramon-trucking-legacy-sso-facade",
+            "id": 4106,
+            "name": "obsolete-tramon-trucking-legacy-sso-facade",
+            "hierarchyId": "cb3869c9b54eea8e309c",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "TRAMON",
+                "id": 716,
+                "name": "TransporteMonitoren",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/TRAMON"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/tramon/obsolete-tramon-trucking-legacy-sso-facade.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/tramon/obsolete-tramon-trucking-legacy-sso-facade.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/TRAMON/repos/obsolete-tramon-trucking-legacy-sso-facade/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "tramon-mic-storyline-ui",
+            "id": 2710,
+            "name": "tramon-mic-storyline-ui",
+            "hierarchyId": "cdf7c0cc4f7133e9b3bb",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "TRAMON",
+                "id": 716,
+                "name": "TransporteMonitoren",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/TRAMON"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/tramon/tramon-mic-storyline-ui.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/tramon/tramon-mic-storyline-ui.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/TRAMON/repos/tramon-mic-storyline-ui/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

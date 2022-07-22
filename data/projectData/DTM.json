@@ -1,0 +1,94 @@
+{
+    "size": 2,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "dtm-live-importer",
+            "id": 2853,
+            "name": "dtm-live-importer",
+            "hierarchyId": "51f4a808f0efb3f250c5",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "DTM",
+                "id": 291,
+                "name": "DTM",
+                "description": "Digital Transport Management",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/DTM"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/dtm/dtm-live-importer.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/dtm/dtm-live-importer.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/DTM/repos/dtm-live-importer/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "obsolete-dtm-monitoring-kafka",
+            "id": 2967,
+            "name": "obsolete-dtm-monitoring-kafka",
+            "hierarchyId": "289b65212078dcb33a6a",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "DTM",
+                "id": 291,
+                "name": "DTM",
+                "description": "Digital Transport Management",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/DTM"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/dtm/obsolete-dtm-monitoring-kafka.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/dtm/obsolete-dtm-monitoring-kafka.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/DTM/repos/obsolete-dtm-monitoring-kafka/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

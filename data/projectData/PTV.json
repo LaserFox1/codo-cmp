@@ -1,0 +1,51 @@
+{
+    "size": 1,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "speedprofiletweaking",
+            "id": 3228,
+            "name": "SpeedprofileTweaking",
+            "hierarchyId": "dab0594977888b1f9b9c",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "PTV",
+                "id": 54,
+                "name": "PTV",
+                "description": "Alles rund um xServer der PTV Group",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/PTV"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/ptv/speedprofiletweaking.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/ptv/speedprofiletweaking.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/PTV/repos/speedprofiletweaking/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

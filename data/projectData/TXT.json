@@ -1,0 +1,218 @@
+{
+    "size": 5,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "textbausteine",
+            "id": 103,
+            "name": "Textbausteine",
+            "hierarchyId": "5a6ab48c7bb770aaa946",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "TXT",
+                "id": 109,
+                "name": "Textbausteine",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/TXT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/txt/textbausteine.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/txt/textbausteine.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/TXT/repos/textbausteine/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "textbausteine.dlm",
+            "id": 101,
+            "name": "Textbausteine.DLM",
+            "hierarchyId": "ff6c434b65c88834d2dc",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "TXT",
+                "id": 109,
+                "name": "Textbausteine",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/TXT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/txt/textbausteine.dlm.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/txt/textbausteine.dlm.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/TXT/repos/textbausteine.dlm/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "textbausteine.dockersample",
+            "id": 3696,
+            "name": "Textbausteine.DockerSample",
+            "hierarchyId": "be52f2884d4652c725b1",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "TXT",
+                "id": 109,
+                "name": "Textbausteine",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/TXT"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/txt/textbausteine.dockersample.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/txt/textbausteine.dockersample.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/TXT/repos/textbausteine.dockersample/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "textbausteine.keyresolverweb",
+            "id": 102,
+            "name": "Textbausteine.KeyResolverWeb",
+            "hierarchyId": "6af69ccd7cfe29a9bce1",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "TXT",
+                "id": 109,
+                "name": "Textbausteine",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/TXT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/txt/textbausteine.keyresolverweb.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/txt/textbausteine.keyresolverweb.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/TXT/repos/textbausteine.keyresolverweb/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "textbausteine.netcore",
+            "id": 3743,
+            "name": "Textbausteine.NetCore",
+            "hierarchyId": "cc03250e4e4c01634b73",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "TXT",
+                "id": 109,
+                "name": "Textbausteine",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/TXT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/txt/textbausteine.netcore.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/txt/textbausteine.netcore.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/TXT/repos/textbausteine.netcore/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

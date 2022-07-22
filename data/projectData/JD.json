@@ -1,0 +1,218 @@
+{
+    "size": 5,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "addissues2buildinfo",
+            "id": 2476,
+            "name": "addIssues2BuildInfo",
+            "hierarchyId": "976da09a0b6c2df80591",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "JD",
+                "id": 295,
+                "name": "Java Development",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/JD"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/jd/addissues2buildinfo.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/jd/addissues2buildinfo.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/JD/repos/addissues2buildinfo/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "default-lkww-project",
+            "id": 2084,
+            "name": "default-lkww-project",
+            "hierarchyId": "9efc8ddb275fa66d3d18",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "JD",
+                "id": 295,
+                "name": "Java Development",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/JD"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/jd/default-lkww-project.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/jd/default-lkww-project.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/JD/repos/default-lkww-project/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "default-lkww-project-web",
+            "id": 2100,
+            "name": "default-lkww-project-web",
+            "hierarchyId": "51d1ffc4de2619203542",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "JD",
+                "id": 295,
+                "name": "Java Development",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/JD"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/jd/default-lkww-project-web.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/jd/default-lkww-project-web.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/JD/repos/default-lkww-project-web/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-deployment",
+            "id": 2085,
+            "name": "lieferschein-deployment",
+            "hierarchyId": "9280101c577bdbf337f2",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "JD",
+                "id": 295,
+                "name": "Java Development",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/JD"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/jd/lieferschein-deployment.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/jd/lieferschein-deployment.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/JD/repos/lieferschein-deployment/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lkww-artifactory-setup",
+            "id": 2390,
+            "name": "lkww-artifactory-setup",
+            "hierarchyId": "1c169f84838a0a239db5",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "JD",
+                "id": 295,
+                "name": "Java Development",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/JD"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/jd/lkww-artifactory-setup.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/jd/lkww-artifactory-setup.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/JD/repos/lkww-artifactory-setup/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

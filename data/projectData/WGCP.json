@@ -1,0 +1,51 @@
+{
+    "size": 1,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "wgcpv2-backstage",
+            "id": 6684,
+            "name": "wgcpv2-backstage",
+            "hierarchyId": "5337ce64cff7cb38dcbb",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "WGCP",
+                "id": 805,
+                "name": "Walter Group Cloud Platform",
+                "description": "This project covers all topics related to the Walter Group Cloud Platform.",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/WGCP"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/wgcp/wgcpv2-backstage.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/wgcp/wgcpv2-backstage.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/WGCP/repos/wgcpv2-backstage/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

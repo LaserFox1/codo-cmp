@@ -1,0 +1,1092 @@
+{
+    "size": 24,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "auth-test",
+            "id": 3903,
+            "name": "auth-test",
+            "hierarchyId": "4b20e80ddc1798a71930",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "BERE",
+                "id": 771,
+                "name": "Berechtigen",
+                "description": "Dom\u00e4ne: UTIL",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/bere/auth-test.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/bere/auth-test.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE/repos/auth-test/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "bere-oauth2-client-lib",
+            "id": 5703,
+            "name": "bere-oauth2-client-lib",
+            "description": "General library for OAuth2 clients with an abstract adapter interface. See http://lkwconfluence.lkw-walter.com/display/TD/US+-+Entwicklung+des+OAuth2-Client-Lib",
+            "hierarchyId": "6d90ae430a6e9d3efdbc",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "BERE",
+                "id": 771,
+                "name": "Berechtigen",
+                "description": "Dom\u00e4ne: UTIL",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/bere/bere-oauth2-client-lib.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/bere/bere-oauth2-client-lib.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE/repos/bere-oauth2-client-lib/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "bere-spring-wurm-client-lib",
+            "id": 5090,
+            "name": "bere-spring-wurm-client-lib",
+            "description": "Migration wurm-client bis auf jwt-only gewechselt werden kann.",
+            "hierarchyId": "4bc406a5e7a42e467912",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "BERE",
+                "id": 771,
+                "name": "Berechtigen",
+                "description": "Dom\u00e4ne: UTIL",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/bere/bere-spring-wurm-client-lib.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/bere/bere-spring-wurm-client-lib.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE/repos/bere-spring-wurm-client-lib/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "bere-ssoclient-operator",
+            "id": 6411,
+            "name": "bere-ssoclient-operator",
+            "hierarchyId": "29a2a44579db62d25809",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "BERE",
+                "id": 771,
+                "name": "Berechtigen",
+                "description": "Dom\u00e4ne: UTIL",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/bere/bere-ssoclient-operator.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/bere/bere-ssoclient-operator.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE/repos/bere-ssoclient-operator/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "bere-supporttool-api",
+            "id": 5694,
+            "name": "bere-supporttool-api",
+            "hierarchyId": "6992711eed7025f7b2cf",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "BERE",
+                "id": 771,
+                "name": "Berechtigen",
+                "description": "Dom\u00e4ne: UTIL",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/bere/bere-supporttool-api.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/bere/bere-supporttool-api.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE/repos/bere-supporttool-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "envoy-auth-proxy",
+            "id": 5419,
+            "name": "envoy-auth-proxy",
+            "hierarchyId": "8d2b0e143313f954629e",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "BERE",
+                "id": 771,
+                "name": "Berechtigen",
+                "description": "Dom\u00e4ne: UTIL",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/bere/envoy-auth-proxy.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/bere/envoy-auth-proxy.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE/repos/envoy-auth-proxy/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "gatekeeper-gatling",
+            "id": 3972,
+            "name": "gatekeeper-gatling",
+            "hierarchyId": "1508efee39a20f1f8561",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "BERE",
+                "id": 771,
+                "name": "Berechtigen",
+                "description": "Dom\u00e4ne: UTIL",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/bere/gatekeeper-gatling.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/bere/gatekeeper-gatling.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE/repos/gatekeeper-gatling/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "keycloak",
+            "id": 4075,
+            "name": "keycloak",
+            "description": "Helm chart for Keycloak + modified Docker image",
+            "hierarchyId": "2b2e9cd8dee229af7f1d",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "BERE",
+                "id": 771,
+                "name": "Berechtigen",
+                "description": "Dom\u00e4ne: UTIL",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/bere/keycloak.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/bere/keycloak.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE/repos/keycloak/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "keycloak-dmz-cmp",
+            "id": 4076,
+            "name": "keycloak-dmz-cmp",
+            "description": "Helm chart + Docker image extensions for DMZ Keycloak (based on bere/keycloak)",
+            "hierarchyId": "752ba07c8a17872c8316",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "BERE",
+                "id": 771,
+                "name": "Berechtigen",
+                "description": "Dom\u00e4ne: UTIL",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/bere/keycloak-dmz-cmp.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/bere/keycloak-dmz-cmp.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE/repos/keycloak-dmz-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "keycloak-ext-custom-token-exchange",
+            "id": 6163,
+            "name": "keycloak-ext-custom-token-exchange",
+            "hierarchyId": "df988d7ede2b653c4904",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "BERE",
+                "id": 771,
+                "name": "Berechtigen",
+                "description": "Dom\u00e4ne: UTIL",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/bere/keycloak-ext-custom-token-exchange.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/bere/keycloak-ext-custom-token-exchange.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE/repos/keycloak-ext-custom-token-exchange/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "keycloak-ext-fed-wurmdb",
+            "id": 4068,
+            "name": "keycloak-ext-fed-wurmdb",
+            "hierarchyId": "48fabf53c63c966d5fad",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "origin": {
+                "slug": "keycloak-intern-cmp",
+                "id": 3608,
+                "name": "keycloak-intern-cmp",
+                "description": "Helm chart + Docker image extensions for internal Keycloak (based on bere/keycloak)",
+                "hierarchyId": "48fabf53c63c966d5fad",
+                "scmId": "git",
+                "state": "AVAILABLE",
+                "statusMessage": "Available",
+                "forkable": true,
+                "project": {
+                    "key": "BERE",
+                    "id": 771,
+                    "name": "Berechtigen",
+                    "description": "Dom\u00e4ne: UTIL",
+                    "public": false,
+                    "type": "NORMAL",
+                    "links": {
+                        "self": [
+                            {
+                                "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE"
+                            }
+                        ]
+                    }
+                },
+                "public": true,
+                "links": {
+                    "clone": [
+                        {
+                            "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/bere/keycloak-intern-cmp.git",
+                            "name": "ssh"
+                        },
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/scm/bere/keycloak-intern-cmp.git",
+                            "name": "http"
+                        }
+                    ],
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE/repos/keycloak-intern-cmp/browse"
+                        }
+                    ]
+                }
+            },
+            "project": {
+                "key": "BERE",
+                "id": 771,
+                "name": "Berechtigen",
+                "description": "Dom\u00e4ne: UTIL",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/bere/keycloak-ext-fed-wurmdb.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/bere/keycloak-ext-fed-wurmdb.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE/repos/keycloak-ext-fed-wurmdb/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "keycloak-ext-http-header-authenticator",
+            "id": 3985,
+            "name": "keycloak-ext-http-header-authenticator",
+            "hierarchyId": "36076886687b75b57dd8",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "BERE",
+                "id": 771,
+                "name": "Berechtigen",
+                "description": "Dom\u00e4ne: UTIL",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/bere/keycloak-ext-http-header-authenticator.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/bere/keycloak-ext-http-header-authenticator.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE/repos/keycloak-ext-http-header-authenticator/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "keycloak-ext-impersonator-mapper",
+            "id": 4952,
+            "name": "keycloak-ext-impersonator-mapper",
+            "hierarchyId": "9b861f49e52b21df8043",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "BERE",
+                "id": 771,
+                "name": "Berechtigen",
+                "description": "Dom\u00e4ne: UTIL",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/bere/keycloak-ext-impersonator-mapper.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/bere/keycloak-ext-impersonator-mapper.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE/repos/keycloak-ext-impersonator-mapper/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "keycloak-ext-wurm-mapper",
+            "id": 5041,
+            "name": "keycloak-ext-wurm-mapper",
+            "description": "Keycloak plugin that maps WURM user data into the token (if requested)",
+            "hierarchyId": "12191a956c83a3795860",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "BERE",
+                "id": 771,
+                "name": "Berechtigen",
+                "description": "Dom\u00e4ne: UTIL",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/bere/keycloak-ext-wurm-mapper.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/bere/keycloak-ext-wurm-mapper.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE/repos/keycloak-ext-wurm-mapper/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "keycloak-gatekeeper",
+            "id": 3777,
+            "name": "keycloak-gatekeeper",
+            "hierarchyId": "7062c612ce2848f3d0e3",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "BERE",
+                "id": 771,
+                "name": "Berechtigen",
+                "description": "Dom\u00e4ne: UTIL",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/bere/keycloak-gatekeeper.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/bere/keycloak-gatekeeper.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE/repos/keycloak-gatekeeper/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "keycloak-haproxy",
+            "id": 4959,
+            "name": "keycloak-haproxy",
+            "description": "HAproxy image",
+            "hierarchyId": "929751f123267279a3cf",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "BERE",
+                "id": 771,
+                "name": "Berechtigen",
+                "description": "Dom\u00e4ne: UTIL",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/bere/keycloak-haproxy.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/bere/keycloak-haproxy.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE/repos/keycloak-haproxy/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "keycloak-intern-cmp",
+            "id": 3608,
+            "name": "keycloak-intern-cmp",
+            "description": "Helm chart + Docker image extensions for internal Keycloak (based on bere/keycloak)",
+            "hierarchyId": "48fabf53c63c966d5fad",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "BERE",
+                "id": 771,
+                "name": "Berechtigen",
+                "description": "Dom\u00e4ne: UTIL",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/bere/keycloak-intern-cmp.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/bere/keycloak-intern-cmp.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE/repos/keycloak-intern-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "keycloak-scripts",
+            "id": 3966,
+            "name": "keycloak-scripts",
+            "hierarchyId": "9279a8c1c1e117bb479d",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "BERE",
+                "id": 771,
+                "name": "Berechtigen",
+                "description": "Dom\u00e4ne: UTIL",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/bere/keycloak-scripts.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/bere/keycloak-scripts.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE/repos/keycloak-scripts/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "keycloak-theme-locomo",
+            "id": 5688,
+            "name": "keycloak-theme-locomo",
+            "hierarchyId": "30dcbb8f2875365ed0c6",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "BERE",
+                "id": 771,
+                "name": "Berechtigen",
+                "description": "Dom\u00e4ne: UTIL",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/bere/keycloak-theme-locomo.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/bere/keycloak-theme-locomo.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE/repos/keycloak-theme-locomo/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-bere-auth-sync",
+            "id": 6468,
+            "name": "lieferschein-bere-auth-sync",
+            "hierarchyId": "1210656eb56ead760d3e",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "BERE",
+                "id": 771,
+                "name": "Berechtigen",
+                "description": "Dom\u00e4ne: UTIL",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/bere/lieferschein-bere-auth-sync.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/bere/lieferschein-bere-auth-sync.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE/repos/lieferschein-bere-auth-sync/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-deployment-keycloak-dmz",
+            "id": 4723,
+            "name": "lieferschein-deployment-keycloak-dmz",
+            "hierarchyId": "c8f2abac92b1e9c7c6c5",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "BERE",
+                "id": 771,
+                "name": "Berechtigen",
+                "description": "Dom\u00e4ne: UTIL",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/bere/lieferschein-deployment-keycloak-dmz.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/bere/lieferschein-deployment-keycloak-dmz.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE/repos/lieferschein-deployment-keycloak-dmz/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-deployment-keycloak-intern",
+            "id": 3754,
+            "name": "lieferschein-deployment-keycloak-intern",
+            "hierarchyId": "0a62a44db817e74492e7",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "BERE",
+                "id": 771,
+                "name": "Berechtigen",
+                "description": "Dom\u00e4ne: UTIL",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/bere/lieferschein-deployment-keycloak-intern.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/bere/lieferschein-deployment-keycloak-intern.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE/repos/lieferschein-deployment-keycloak-intern/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "obsolete-ssoclient-operator",
+            "id": 4212,
+            "name": "OBSOLETE-ssoclient-operator",
+            "description": "previous attempt at a SSO-Client operator",
+            "hierarchyId": "0c949b9434db059cdcd2",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "BERE",
+                "id": 771,
+                "name": "Berechtigen",
+                "description": "Dom\u00e4ne: UTIL",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/bere/obsolete-ssoclient-operator.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/bere/obsolete-ssoclient-operator.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE/repos/obsolete-ssoclient-operator/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "sso-token-contracts",
+            "id": 5144,
+            "name": "sso-token-contracts",
+            "hierarchyId": "8e494de666028e7c502f",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "BERE",
+                "id": 771,
+                "name": "Berechtigen",
+                "description": "Dom\u00e4ne: UTIL",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/bere/sso-token-contracts.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/bere/sso-token-contracts.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/BERE/repos/sso-token-contracts/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

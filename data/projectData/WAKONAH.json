@@ -1,0 +1,386 @@
+{
+    "size": 9,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "lieferschein-wakonah-beziehungen",
+            "id": 5816,
+            "name": "lieferschein-wakonah-beziehungen",
+            "hierarchyId": "ea0599fc5d93ec566c45",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "WAKONAH",
+                "id": 1104,
+                "name": "Walter Konzern und Nahestehend verwalten",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/WAKONAH"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/wakonah/lieferschein-wakonah-beziehungen.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/wakonah/lieferschein-wakonah-beziehungen.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/WAKONAH/repos/lieferschein-wakonah-beziehungen/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lieferschein-wakonah-legacy-streams",
+            "id": 6032,
+            "name": "lieferschein-wakonah-legacy-streams",
+            "hierarchyId": "a8f3c4ee5230aedc33d5",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "WAKONAH",
+                "id": 1104,
+                "name": "Walter Konzern und Nahestehend verwalten",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/WAKONAH"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/wakonah/lieferschein-wakonah-legacy-streams.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/wakonah/lieferschein-wakonah-legacy-streams.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/WAKONAH/repos/lieferschein-wakonah-legacy-streams/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "wakonah-beziehungen-api",
+            "id": 5821,
+            "name": "wakonah-beziehungen-api",
+            "hierarchyId": "56d6db4eb1362df5096e",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "WAKONAH",
+                "id": 1104,
+                "name": "Walter Konzern und Nahestehend verwalten",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/WAKONAH"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/wakonah/wakonah-beziehungen-api.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/wakonah/wakonah-beziehungen-api.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/WAKONAH/repos/wakonah-beziehungen-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "wakonah-beziehungen-fe-cmp",
+            "id": 5820,
+            "name": "wakonah-beziehungen-fe-cmp",
+            "hierarchyId": "b011138bf6bf92f562ae",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "WAKONAH",
+                "id": 1104,
+                "name": "Walter Konzern und Nahestehend verwalten",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/WAKONAH"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/wakonah/wakonah-beziehungen-fe-cmp.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/wakonah/wakonah-beziehungen-fe-cmp.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/WAKONAH/repos/wakonah-beziehungen-fe-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "wakonah-beziehungen-spa",
+            "id": 5814,
+            "name": "wakonah-beziehungen-spa",
+            "hierarchyId": "9cc8ca12dfae4f638cce",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "WAKONAH",
+                "id": 1104,
+                "name": "Walter Konzern und Nahestehend verwalten",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/WAKONAH"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/wakonah/wakonah-beziehungen-spa.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/wakonah/wakonah-beziehungen-spa.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/WAKONAH/repos/wakonah-beziehungen-spa/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "wakonah-legacy-sw2000-beziehungen-api",
+            "id": 6030,
+            "name": "wakonah-legacy-sw2000-beziehungen-api",
+            "hierarchyId": "913e2fb27d4dd9996582",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "WAKONAH",
+                "id": 1104,
+                "name": "Walter Konzern und Nahestehend verwalten",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/WAKONAH"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/wakonah/wakonah-legacy-sw2000-beziehungen-api.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/wakonah/wakonah-legacy-sw2000-beziehungen-api.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/WAKONAH/repos/wakonah-legacy-sw2000-beziehungen-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "wakonah-legacy-sw2000-beziehungen-stream",
+            "id": 6011,
+            "name": "wakonah-legacy-sw2000-beziehungen-stream",
+            "hierarchyId": "596bbd45ae6d16438519",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "WAKONAH",
+                "id": 1104,
+                "name": "Walter Konzern und Nahestehend verwalten",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/WAKONAH"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/wakonah/wakonah-legacy-sw2000-beziehungen-stream.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/wakonah/wakonah-legacy-sw2000-beziehungen-stream.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/WAKONAH/repos/wakonah-legacy-sw2000-beziehungen-stream/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "wakonah-unternehmen-api",
+            "id": 5822,
+            "name": "wakonah-unternehmen-api",
+            "hierarchyId": "d4fe247996273fbf48e0",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "WAKONAH",
+                "id": 1104,
+                "name": "Walter Konzern und Nahestehend verwalten",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/WAKONAH"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/wakonah/wakonah-unternehmen-api.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/wakonah/wakonah-unternehmen-api.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/WAKONAH/repos/wakonah-unternehmen-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "wakonah-unternehmen-stream",
+            "id": 5906,
+            "name": "wakonah-unternehmen-stream",
+            "hierarchyId": "95b2b37bca5d96a5b5c4",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "WAKONAH",
+                "id": 1104,
+                "name": "Walter Konzern und Nahestehend verwalten",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/WAKONAH"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/wakonah/wakonah-unternehmen-stream.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/wakonah/wakonah-unternehmen-stream.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/WAKONAH/repos/wakonah-unternehmen-stream/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

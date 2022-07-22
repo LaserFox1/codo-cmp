@@ -1,0 +1,51 @@
+{
+    "size": 1,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "mm-gitops-v2",
+            "id": 5488,
+            "name": "mm-gitops-v2",
+            "description": "gitOps f\u00fcr das automatisierte Rollout von prometheus-rules und grafana-dashboards.",
+            "hierarchyId": "b72bda0059d24e52e53b",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "MM",
+                "id": 712,
+                "name": "Monitoring und Metering",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/MM"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/mm/mm-gitops-v2.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/mm/mm-gitops-v2.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/MM/repos/mm-gitops-v2/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

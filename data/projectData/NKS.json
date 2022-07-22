@@ -1,0 +1,107 @@
+{
+    "size": 1,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "ssl-automation",
+            "id": 4497,
+            "name": "ssl-automation",
+            "hierarchyId": "f845eb2c730767615dc6",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "origin": {
+                "slug": "ssl-cert-automation",
+                "id": 4475,
+                "name": "ssl-cert-automation",
+                "hierarchyId": "f845eb2c730767615dc6",
+                "scmId": "git",
+                "state": "AVAILABLE",
+                "statusMessage": "Available",
+                "forkable": true,
+                "project": {
+                    "key": "~CHWE",
+                    "id": 666,
+                    "name": "Christian Wei\u00df",
+                    "type": "PERSONAL",
+                    "owner": {
+                        "name": "chwe",
+                        "emailAddress": "christian.weiss@cloudflight.io",
+                        "id": 2059,
+                        "displayName": "Christian Wei\u00df",
+                        "active": true,
+                        "slug": "chwe",
+                        "type": "NORMAL",
+                        "links": {
+                            "self": [
+                                {
+                                    "href": "http://lkwbitbucket.lkw-walter.com/users/chwe"
+                                }
+                            ]
+                        }
+                    },
+                    "links": {
+                        "self": [
+                            {
+                                "href": "http://lkwbitbucket.lkw-walter.com/users/chwe"
+                            }
+                        ]
+                    }
+                },
+                "public": true,
+                "links": {
+                    "clone": [
+                        {
+                            "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/~chwe/ssl-cert-automation.git",
+                            "name": "ssh"
+                        },
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/scm/~chwe/ssl-cert-automation.git",
+                            "name": "http"
+                        }
+                    ],
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/users/chwe/repos/ssl-cert-automation/browse"
+                        }
+                    ]
+                }
+            },
+            "project": {
+                "key": "NKS",
+                "id": 219,
+                "name": "Netzwerk Kommunikation Sicherheit",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/NKS"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/nks/ssl-automation.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/nks/ssl-automation.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/NKS/repos/ssl-automation/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

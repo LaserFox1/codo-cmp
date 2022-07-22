@@ -1,0 +1,51 @@
+{
+    "size": 1,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "intern",
+            "id": 2224,
+            "name": "Intern",
+            "hierarchyId": "0e7fb5852fee52e964fe",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "RDB",
+                "id": 333,
+                "name": "Relationendatenbank",
+                "description": "Die Relationendatenbank h\u00e4lt Standardwerte f\u00fcr Equipment, Gewicht und Laufzeit pro Von-Nach Relation.",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/RDB"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/rdb/intern.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/rdb/intern.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/RDB/repos/intern/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

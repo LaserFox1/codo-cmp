@@ -1,0 +1,180 @@
+{
+    "size": 4,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "lieferschein-trapgem-quatpfe",
+            "id": 6732,
+            "name": "lieferschein-trapgem-quatpfe",
+            "hierarchyId": "11385ac7618cc8e100ca",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "TRAPGEM",
+                "id": 1349,
+                "name": "Transportpartner grunds\u00e4tzlich einsetzbar machen",
+                "description": "http://lkwconfluence.lkw-walter.com/pages/viewpage.action?pageId=170983498",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/TRAPGEM"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/trapgem/lieferschein-trapgem-quatpfe.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/trapgem/lieferschein-trapgem-quatpfe.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/TRAPGEM/repos/lieferschein-trapgem-quatpfe/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "trapgem-quatpfe-api",
+            "id": 6763,
+            "name": "trapgem-quatpfe-api",
+            "hierarchyId": "318fae7528adb6986eb9",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "TRAPGEM",
+                "id": 1349,
+                "name": "Transportpartner grunds\u00e4tzlich einsetzbar machen",
+                "description": "http://lkwconfluence.lkw-walter.com/pages/viewpage.action?pageId=170983498",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/TRAPGEM"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/trapgem/trapgem-quatpfe-api.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/trapgem/trapgem-quatpfe-api.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/TRAPGEM/repos/trapgem-quatpfe-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "trapgem-quatpfe-fe-cmp",
+            "id": 6691,
+            "name": "trapgem-quatpfe-fe-cmp",
+            "hierarchyId": "ed7013a07fa082c358f3",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "TRAPGEM",
+                "id": 1349,
+                "name": "Transportpartner grunds\u00e4tzlich einsetzbar machen",
+                "description": "http://lkwconfluence.lkw-walter.com/pages/viewpage.action?pageId=170983498",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/TRAPGEM"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/trapgem/trapgem-quatpfe-fe-cmp.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/trapgem/trapgem-quatpfe-fe-cmp.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/TRAPGEM/repos/trapgem-quatpfe-fe-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "trapgem-quatpfe-spa",
+            "id": 6825,
+            "name": "trapgem-quatpfe-spa",
+            "hierarchyId": "fbceed44359db0fde730",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "TRAPGEM",
+                "id": 1349,
+                "name": "Transportpartner grunds\u00e4tzlich einsetzbar machen",
+                "description": "http://lkwconfluence.lkw-walter.com/pages/viewpage.action?pageId=170983498",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/TRAPGEM"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/trapgem/trapgem-quatpfe-spa.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/trapgem/trapgem-quatpfe-spa.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/TRAPGEM/repos/trapgem-quatpfe-spa/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

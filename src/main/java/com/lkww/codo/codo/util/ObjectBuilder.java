@@ -20,7 +20,7 @@ public class ObjectBuilder {
 
     public static List<Project> builder(InputStream stream) {
 
-        BufferedReader in = new BufferedReader(new InputStreamReader(stream));
+        final BufferedReader in = new BufferedReader(new InputStreamReader(stream));
 
         boolean isDescription = false;
 

@@ -1,0 +1,134 @@
+{
+    "size": 3,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "archvis-analyzer",
+            "id": 1853,
+            "name": "archvis-analyzer",
+            "hierarchyId": "e474a59a1bdea8e305eb",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AVIS",
+                "id": 220,
+                "name": "ArchVis",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AVIS"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/avis/archvis-analyzer.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/avis/archvis-analyzer.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AVIS/repos/archvis-analyzer/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "archvis-db",
+            "id": 1854,
+            "name": "archvis-db",
+            "hierarchyId": "a5f6b6f9a5baa95468fd",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AVIS",
+                "id": 220,
+                "name": "ArchVis",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AVIS"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/avis/archvis-db.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/avis/archvis-db.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AVIS/repos/archvis-db/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "archvis-k8s",
+            "id": 2892,
+            "name": "archvis-k8s",
+            "hierarchyId": "42ab44495186918a6944",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "AVIS",
+                "id": 220,
+                "name": "ArchVis",
+                "public": true,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/AVIS"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/avis/archvis-k8s.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/avis/archvis-k8s.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/AVIS/repos/archvis-k8s/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

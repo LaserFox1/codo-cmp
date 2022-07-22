@@ -1,0 +1,261 @@
+{
+    "size": 6,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "automation-project-srt-transportdispo-legacy",
+            "id": 1555,
+            "name": "automation-project-srt-transportdispo-LEGACY",
+            "hierarchyId": "05dfcc1968e31654b7ee",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "TAF",
+                "id": 46,
+                "name": "Test-Management",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/TAF"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/taf/automation-project-srt-transportdispo-legacy.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/taf/automation-project-srt-transportdispo-legacy.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/TAF/repos/automation-project-srt-transportdispo-legacy/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "automation-project-srt-versicherung-legacy",
+            "id": 73,
+            "name": "automation-project-srt-versicherung-LEGACY",
+            "hierarchyId": "c3f18a955fadbd484e31",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "TAF",
+                "id": 46,
+                "name": "Test-Management",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/TAF"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/taf/automation-project-srt-versicherung-legacy.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/taf/automation-project-srt-versicherung-legacy.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/TAF/repos/automation-project-srt-versicherung-legacy/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "https-certs-okhttp",
+            "id": 6061,
+            "name": "https-certs-okhttp",
+            "hierarchyId": "cf8d83e441f7b7ff7b29",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "TAF",
+                "id": 46,
+                "name": "Test-Management",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/TAF"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/taf/https-certs-okhttp.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/taf/https-certs-okhttp.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/TAF/repos/https-certs-okhttp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "integrationtest-utils",
+            "id": 3688,
+            "name": "integrationtest-utils",
+            "hierarchyId": "3df9e9ab61e1f68eeb47",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "TAF",
+                "id": 46,
+                "name": "Test-Management",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/TAF"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/taf/integrationtest-utils.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/taf/integrationtest-utils.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/TAF/repos/integrationtest-utils/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "obsolete-wiremock",
+            "id": 3048,
+            "name": "obsolete-wiremock",
+            "description": "Obsolete: Use the wiremock-scaffold to generate your own instance per lieferschein",
+            "hierarchyId": "d117036b988732fd328b",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "TAF",
+                "id": 46,
+                "name": "Test-Management",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/TAF"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/taf/obsolete-wiremock.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/taf/obsolete-wiremock.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/TAF/repos/obsolete-wiremock/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "shared-keywords",
+            "id": 3053,
+            "name": "shared-keywords",
+            "hierarchyId": "d1ec97349f979da96708",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "TAF",
+                "id": 46,
+                "name": "Test-Management",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/TAF"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/taf/shared-keywords.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/taf/shared-keywords.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/TAF/repos/shared-keywords/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

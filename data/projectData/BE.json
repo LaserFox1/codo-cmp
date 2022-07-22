@@ -1,0 +1,92 @@
+{
+    "size": 2,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "bezpfl-ansprechperson-kontaktieren-ui",
+            "id": 4984,
+            "name": "bezpfl-ansprechperson-kontaktieren-ui",
+            "hierarchyId": "7dab8dac9b41ff105307",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "BE",
+                "id": 665,
+                "name": "Beziehungen entwickeln",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/BE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/be/bezpfl-ansprechperson-kontaktieren-ui.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/be/bezpfl-ansprechperson-kontaktieren-ui.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/BE/repos/bezpfl-ansprechperson-kontaktieren-ui/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "bezpfl-testapp-spa",
+            "id": 5187,
+            "name": "bezpfl-testapp-spa",
+            "hierarchyId": "3062937c8ba869ddd2fa",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "BE",
+                "id": 665,
+                "name": "Beziehungen entwickeln",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/BE"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/be/bezpfl-testapp-spa.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/be/bezpfl-testapp-spa.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/BE/repos/bezpfl-testapp-spa/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

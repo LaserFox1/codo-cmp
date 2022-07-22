@@ -1,6 +1,7 @@
 package com.lkww.codo.codo.service;
 
 import com.lkww.codo.codo.domain.Project;
+import com.lkww.codo.codo.exceptions.CrawlerException;
 import com.lkww.codo.codo.exceptions.ServiceException;
 import com.lkww.codo.codo.persistence.ProjectRepository;
 import com.lkww.codo.codo.util.ObjectBuilder;
@@ -13,6 +14,14 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 import javax.persistence.PersistenceException;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+import java.util.stream.Collectors;
 
 @Service
 @RequiredArgsConstructor
@@ -27,41 +36,61 @@ public class CoDoService {
     private final ProjectRepository rep = new ProjectRepository();
 
 
-    @Scheduled(fixedRate = 5000)
+    @Scheduled(fixedRate = 600000)
     @Async
     public void RunScript() {
-        Process proc;
-        /*try {
-             String[] cmd = {
-                    "python",
-                     String.valueOf(getClass().getClassLoader().getResource("get.py")),
-                     IN
-            };
-            proc = Runtime.getRuntime().exec(cmd);
-            for (Project p : ObjectBuilder.builder(proc.getInputStream())) {
-                service.create(p);
-            }
-            proc.waitFor();*/
+        String[] cmd = {
+                "python",
+                "src/main/resources/magic-crawler/magic.py"
+        };
+        ProcessBuilder pB = new ProcessBuilder(cmd);
 
-        for (Project p : ObjectBuilder.builder(getClass().getClassLoader().getResourceAsStream("SampleOutput.txt"))) {
+        try {
+
+            Process proc = pB.start();
+            InputStream is = proc.getInputStream();
+            for (Project p : ObjectBuilder.builder(is)) {
+                try {
+                    rep.save(p);
+                } catch (PersistenceException pEx) {
+                    throw ServiceException.cannotCreateEntity(p, pEx);
+                } catch (Throwable t) {
+                    throw ServiceException.cannotCreateEntityForUndeterminedReason(p, t);
+                }
+            }
+
+            System.out.println(Arrays.toString(
+                    new String[]{
+                            new BufferedReader(
+                                    new InputStreamReader(
+                                            proc.getErrorStream()
+                                    )
+                            )
+                                    .lines()
+                                    .collect(Collectors.toList())
+                                    .toString()
+                    })
+                    + " e");
+            System.out.println(proc.waitFor());
+
+
+
+        /*for (Project p : ObjectBuilder.builder(getClass().getClassLoader().getResourceAsStream("SampleOutput.txt"))) {
             try {
-                rep.save(p).JSONize();
+                rep.save(p);
             } catch (PersistenceException pEx) {
                 throw ServiceException.cannotCreateEntity(p, pEx);
             } catch (Throwable t) {
                 throw ServiceException.cannotCreateEntityForUndeterminedReason(p, t);
             }
 
-        }
-
-        /*} catch (IOException ioE) {
-            throw  CrawlerException.execCmdNotFound(ioE);
-        }
-        catch (InterruptedException iE){
-            throw CrawlerException.execInterrupted(iE);
-        }
-        catch (Throwable t){
-            throw CrawlerException.execUndetermined(t);
         }*/
+        } catch (IOException ioE) {
+            throw CrawlerException.execCmdNotFound(ioE);
+        } catch (InterruptedException iE) {
+            throw CrawlerException.execInterrupted(iE);
+        } catch (Throwable t) {
+            throw CrawlerException.execUndetermined(t);
+        }
     }
 }

@@ -1,0 +1,345 @@
+{
+    "size": 8,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "irg-kafka-elastic-connector",
+            "id": 4126,
+            "name": "irg-kafka-elastic-connector",
+            "hierarchyId": "0898781883e214627d6c",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "MAT",
+                "id": 367,
+                "name": "Matator",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/MAT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/mat/irg-kafka-elastic-connector.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/mat/irg-kafka-elastic-connector.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/MAT/repos/irg-kafka-elastic-connector/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "irg-matator-kafka",
+            "id": 3782,
+            "name": "irg-matator-kafka",
+            "hierarchyId": "765b3632bb0045c5c341",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "MAT",
+                "id": 367,
+                "name": "Matator",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/MAT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/mat/irg-matator-kafka.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/mat/irg-matator-kafka.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/MAT/repos/irg-matator-kafka/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lkww-matator-eventengine",
+            "id": 2343,
+            "name": "lkww-matator-eventengine",
+            "hierarchyId": "dd79580d35dc061d615b",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "MAT",
+                "id": 367,
+                "name": "Matator",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/MAT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/mat/lkww-matator-eventengine.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/mat/lkww-matator-eventengine.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/MAT/repos/lkww-matator-eventengine/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lkww-matator-gui",
+            "id": 2321,
+            "name": "lkww-matator-gui",
+            "hierarchyId": "5c7baa9ca2c9ccb9dc32",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "MAT",
+                "id": 367,
+                "name": "Matator",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/MAT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/mat/lkww-matator-gui.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/mat/lkww-matator-gui.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/MAT/repos/lkww-matator-gui/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lkww-matator-services",
+            "id": 2344,
+            "name": "lkww-matator-services",
+            "hierarchyId": "c9907108c8bbf45a8909",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "MAT",
+                "id": 367,
+                "name": "Matator",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/MAT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/mat/lkww-matator-services.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/mat/lkww-matator-services.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/MAT/repos/lkww-matator-services/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "lkww-matator-services-rest",
+            "id": 4455,
+            "name": "lkww-matator-services-rest",
+            "description": "Matator Rest Service Projekt",
+            "hierarchyId": "aa72722c70f2c6ea9de5",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "MAT",
+                "id": 367,
+                "name": "Matator",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/MAT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/mat/lkww-matator-services-rest.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/mat/lkww-matator-services-rest.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/MAT/repos/lkww-matator-services-rest/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "matator-avro",
+            "id": 3169,
+            "name": "matator-avro",
+            "hierarchyId": "99a56b73739c63249173",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "MAT",
+                "id": 367,
+                "name": "Matator",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/MAT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/mat/matator-avro.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/mat/matator-avro.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/MAT/repos/matator-avro/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "matator-avro-model",
+            "id": 3781,
+            "name": "matator-avro-model",
+            "hierarchyId": "263388c3b3b236b0f433",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "MAT",
+                "id": 367,
+                "name": "Matator",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/MAT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/mat/matator-avro-model.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/mat/matator-avro-model.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/MAT/repos/matator-avro-model/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

@@ -1,0 +1,218 @@
+{
+    "size": 5,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "lieferschein-vmtt-brc",
+            "id": 6296,
+            "name": "lieferschein-vmtt-brc",
+            "hierarchyId": "3134fa50efdf4d58aa19",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMTT",
+                "id": 1247,
+                "name": "VereinbarungenMitTransportpartnernTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMTT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmtt/lieferschein-vmtt-brc.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmtt/lieferschein-vmtt-brc.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMTT/repos/lieferschein-vmtt-brc/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmtt-datenbereitstellung-api",
+            "id": 6290,
+            "name": "vmtt-datenbereitstellung-api",
+            "hierarchyId": "9a1cbb24d90a7f3bfd5b",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMTT",
+                "id": 1247,
+                "name": "VereinbarungenMitTransportpartnernTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMTT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmtt/vmtt-datenbereitstellung-api.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmtt/vmtt-datenbereitstellung-api.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMTT/repos/vmtt-datenbereitstellung-api/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmtt-datenbereitstellung-fe-cmp",
+            "id": 6291,
+            "name": "vmtt-datenbereitstellung-fe-cmp",
+            "hierarchyId": "973b6ff376bfe2d1bce7",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMTT",
+                "id": 1247,
+                "name": "VereinbarungenMitTransportpartnernTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMTT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmtt/vmtt-datenbereitstellung-fe-cmp.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmtt/vmtt-datenbereitstellung-fe-cmp.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMTT/repos/vmtt-datenbereitstellung-fe-cmp/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmtt-datenbereitstellung-spa",
+            "id": 6287,
+            "name": "vmtt-datenbereitstellung-spa",
+            "hierarchyId": "07cb2459bd5eb2f00cf3",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMTT",
+                "id": 1247,
+                "name": "VereinbarungenMitTransportpartnernTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMTT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmtt/vmtt-datenbereitstellung-spa.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmtt/vmtt-datenbereitstellung-spa.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMTT/repos/vmtt-datenbereitstellung-spa/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "vmtt-datenbereitstellung-ui",
+            "id": 6294,
+            "name": "vmtt-datenbereitstellung-ui",
+            "hierarchyId": "d2bee5af3be621983583",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "VMTT",
+                "id": 1247,
+                "name": "VereinbarungenMitTransportpartnernTreffen",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/VMTT"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/vmtt/vmtt-datenbereitstellung-ui.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/vmtt/vmtt-datenbereitstellung-ui.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/VMTT/repos/vmtt-datenbereitstellung-ui/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}

@@ -1,0 +1,177 @@
+{
+    "size": 4,
+    "limit": 1000,
+    "isLastPage": true,
+    "values": [
+        {
+            "slug": "airflow-pipline-library",
+            "id": 3364,
+            "name": "airflow-pipline-library",
+            "hierarchyId": "e4f8e0c8e4d7bc094e82",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CDO",
+                "id": 324,
+                "name": "CDO",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CDO"
+                        }
+                    ]
+                }
+            },
+            "public": false,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cdo/airflow-pipline-library.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cdo/airflow-pipline-library.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CDO/repos/airflow-pipline-library/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "async_proxy",
+            "id": 3114,
+            "name": "async_proxy",
+            "hierarchyId": "c4a48c43643d001a14dc",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CDO",
+                "id": 324,
+                "name": "CDO",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CDO"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cdo/async_proxy.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cdo/async_proxy.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CDO/repos/async_proxy/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "trainspotting",
+            "id": 4070,
+            "name": "trainspotting",
+            "hierarchyId": "c1b359399f2564513e77",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CDO",
+                "id": 324,
+                "name": "CDO",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CDO"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cdo/trainspotting.git",
+                        "name": "ssh"
+                    },
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cdo/trainspotting.git",
+                        "name": "http"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CDO/repos/trainspotting/browse"
+                    }
+                ]
+            }
+        },
+        {
+            "slug": "wrap",
+            "id": 4989,
+            "name": "wrap",
+            "description": "golang model supervisor",
+            "hierarchyId": "298effffbf5e140b47a0",
+            "scmId": "git",
+            "state": "AVAILABLE",
+            "statusMessage": "Available",
+            "forkable": true,
+            "project": {
+                "key": "CDO",
+                "id": 324,
+                "name": "CDO",
+                "public": false,
+                "type": "NORMAL",
+                "links": {
+                    "self": [
+                        {
+                            "href": "http://lkwbitbucket.lkw-walter.com/projects/CDO"
+                        }
+                    ]
+                }
+            },
+            "public": true,
+            "links": {
+                "clone": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/scm/cdo/wrap.git",
+                        "name": "http"
+                    },
+                    {
+                        "href": "ssh://git@lkwbitbucket.lkw-walter.com:7999/cdo/wrap.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": [
+                    {
+                        "href": "http://lkwbitbucket.lkw-walter.com/projects/CDO/repos/wrap/browse"
+                    }
+                ]
+            }
+        }
+    ],
+    "start": 0
+}
